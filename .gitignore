@@ -1,0 +1,7 @@
+*.pdf
+/output
+.venv
+venv
+/pdf
+/Seiten*
+*.json
