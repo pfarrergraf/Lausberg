@@ -1,10 +1,9 @@
-*.pdf
 /output
 .venv
 venv
-/pdf
-/Seiten*
 
+/Seiten*
+Lausb*.pdf
 *.env
 *.zip
 *.png
