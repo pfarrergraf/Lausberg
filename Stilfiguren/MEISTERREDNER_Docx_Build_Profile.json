@@ -1,0 +1,58 @@
+{
+  "name": "MEISTERREDNER Docx Build Profile",
+  "version": "1.0",
+  "purpose": "Generate new editable Word handouts in the style of the existing MEISTERREDNER Stilmittel-Einleger documents without repeating base analysis.",
+  "defaults": {
+    "language": "de",
+    "page_format": "A4",
+    "output_format": "docx",
+    "editable": true,
+    "tone": [
+      "wissenschaftlich fundiert",
+      "homiletisch verwertbar",
+      "rhetorisch präzise",
+      "buchfähig"
+    ],
+    "structure": [
+      "Kopfzeile",
+      "Haupttitel",
+      "Kurzunterzeile",
+      "Arbeitsprofil",
+      "Definition",
+      "Originale",
+      "Fundus Benjamin",
+      "Neuschöpfungen",
+      "Kombinationsformen",
+      "Bauanleitung",
+      "Warnung",
+      "Merksätze"
+    ]
+  },
+  "references": [
+    "Complexio_Einleger_Lausberg.docx",
+    "Einleger_Stilmittel_Tiefgang_A4.docx"
+  ],
+  "rules": {
+    "user_corrections_override_previous_versions": true,
+    "foreign_examples_must_include_translation": true,
+    "prefer_many_examples": true,
+    "preserve_benjamin_voice": true,
+    "avoid_repeating_foundational_analysis": true
+  },
+  "example_priority": [
+    "klassische Originale",
+    "biblisch-nahe Muster",
+    "Fundus Benjamin",
+    "neue Predigtbeispiele",
+    "Kombinationen mit anderen Figuren"
+  ],
+  "file_naming": "<Stilmittel>_Einleger_Tiefgang_A4_<version>.docx",
+  "trigger_map": {
+    "mach mir dazu eine Datei": "create_docx_now",
+    "wie die anderen Dateien": "apply_reference_style",
+    "viele Beispiele": "expand_example_density",
+    "buchfaehig": "use_book_chapter_structure",
+    "editierbar": "docx_only"
+  },
+  "system_prompt_snippet": "Für neue Stilmittel-Handouts verwende die Projektdatei MEISTERREDNER_Docx_Build_Instruktion.md als verbindliche Arbeitsgrundlage und baue neue Word-Dateien im Stil der vorhandenen Einleger ohne erneute Grundsatzanalyse."
+}
