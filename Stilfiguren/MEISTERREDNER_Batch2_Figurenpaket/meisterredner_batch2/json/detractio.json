@@ -1,0 +1,107 @@
+{
+  "id": "detractio",
+  "figure_name_de": "Detractio",
+  "figure_name_original": [
+    {
+      "language": "Latein",
+      "term": "detractio"
+    }
+  ],
+  "category": "Figura per detractionem",
+  "definition_precise": "Die Detractio ist die Einsparung normalerweise nötiger Satzbestandteile. Bei Lausberg gehört sie zu den Figuren der brevitas; die Auslassung erzeugt ungewohnte syntaktisch-semantische Beziehungen und damit Kürze plus Überraschung.",
+  "definition_simple": "Etwas sprachlich weglassen, damit der Satz knapper und spannender wird.",
+  "formal_pattern": "Auslassung normaler Satzteile -> neue Beziehung der verbleibenden Elemente",
+  "semantic_function": "Detractio schafft Beschleunigung, Verdichtung und intellektuelle Überraschung. Der Hörer ergänzt Fehlendes aus dem Zusammenhang.",
+  "distinguish_from": [
+    "Brachylogia: weiter gefasste Kürzefigur; Detractio bezeichnet gezielt die Auslassung.",
+    "Zeugma: Sonderform klammerbildender Detractio.",
+    "Asyndeton: Weglassen von Bindewörtern, nicht notwendig sonstiger Satzteile."
+  ],
+  "lausberg_reference": "Lausberg §§ 688-689; Unterarten §§ 690-709.",
+  "classical_examples": [
+    {
+      "original_language": "Latein",
+      "original_text": "Arcades ad portas ruere.",
+      "translation_de": "Die Arkader stürmten zu den Toren.",
+      "source": "Vergil, Aeneis 11,142; bei Quintilian 8,6,21",
+      "notes": "Elliptische Detractio; ein zu ergänzendes Verb oder Hilfselement wird mitgehört."
+    },
+    {
+      "original_language": "Latein",
+      "original_text": "quae per detractionem fiunt figurae, brevitatis novitatisque maxime gratiam petunt.",
+      "translation_de": "Die Figuren, die durch Detraktion entstehen, suchen besonders den Reiz von Kürze und Neuheit.",
+      "source": "Quintilian 9,3,58",
+      "notes": "Programmatische Beschreibung der Wirkung."
+    }
+  ],
+  "modern_examples": [
+    {
+      "text": "Kein Ausweg. Kein Schlaf. Nur noch Druck.",
+      "domain": "Predigt / Dramatisierung",
+      "notes": "Abgespeckter Satzbau mit hohem Druck."
+    },
+    {
+      "text": "Zuviel Mail. Zuviel Lärm. Zuwenig Stille.",
+      "domain": "Gegenwartsrede",
+      "notes": "Verdichtete Kürzereihe."
+    }
+  ],
+  "sermon_examples": [
+    {
+      "text": "Nicht mehr Kraft. Nicht mehr Fassade. Nur Gnade.",
+      "purpose": "Bußpredigt",
+      "audience": "Gemeinde",
+      "notes": "Detraktiver Dreischlag."
+    },
+    {
+      "text": "Vor ihm: Schuld. Hinter ihm: Kreuz. Über ihm: Gnade.",
+      "purpose": "Passion",
+      "audience": "Gottesdienst",
+      "notes": "Verknappte, bildstarke Setzung."
+    }
+  ],
+  "effects": [
+    "Kürze",
+    "Neuheit",
+    "Überraschung",
+    "Tempo"
+  ],
+  "best_use_cases": [
+    "dramatische Verdichtung",
+    "Merksätze",
+    "leidvolle oder prophetische Passagen"
+  ],
+  "avoid_when": [
+    "Wenn das Ausgelassene unklar bleibt.",
+    "Wenn der Satz nur bruchstückhaft und unerquicklich wirkt."
+  ],
+  "common_confusions": [
+    "Brachylogia",
+    "Asyndeton",
+    "schlechter Stil durch Unvollständigkeit"
+  ],
+  "negative_examples": [],
+  "generation_rules": [
+    "Nur das weglassen, was der Hörer sicher ergänzen kann.",
+    "Auf klare Reststruktur achten.",
+    "Kurze, belastbare Wörter bevorzugen.",
+    "Besonders wirksam in Dreierfolgen oder antithetischen Setzungen."
+  ],
+  "recognition_rules": [],
+  "evaluation_criteria": [],
+  "tone_fit": [
+    "scharf",
+    "komprimiert",
+    "dramatisch"
+  ],
+  "difficulty_level": "mittel",
+  "tags": [
+    "brevitas",
+    "Auslassung"
+  ],
+  "editorial_notes": "Best-effort-Rekonstruktion nach OCR des Lausberg-Abschnitts zu figurae per detractionem.",
+  "memory_lines": [
+    "Detractio nimmt weg, damit die Spannung steigt.",
+    "Was fehlt, muss im Hörer mitschwingen."
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "id": "anaphora",
+  "figure_name_de": "Anaphora",
+  "figure_name_original": [
+    {
+      "language": "Griechisch",
+      "term": "ἀναφορά"
+    },
+    {
+      "language": "Latein",
+      "term": "anaphora"
+    }
+  ],
+  "category": "Wortwiederholung auf Abstand / Anfangswiederholung",
+  "definition_precise": "Die Anaphora ist die absatzmäßige Wiederholung desselben Wortes oder derselben Wortgruppe am Anfang mehrerer Kola oder Kommata. Sie gehört bei Lausberg zur Wiederholung auf Abstand und bildet den Anfangstyp dieser Wiederholung.",
+  "definition_simple": "Mehrere Glieder beginnen mit demselben Wort.",
+  "formal_pattern": "x … / x … / x …",
+  "semantic_function": "Rhythmische Markierung, Amplificatio, affektive Verdichtung, argumentative Schärfung und liturgische Eindringlichkeit.",
+  "distinguish_from": [
+    "Epiphora: Wiederholung am Schluss statt am Anfang.",
+    "Complexio: gleicher Anfang und gleicher Schluss.",
+    "Synonymia: semantische Wiederholung mit verschiedenen Wortkörpern.",
+    "Disiunctio: gelockerte Wiederholung mit synonymen Anfangswörtern."
+  ],
+  "lausberg_reference": "Lausberg §§ 629–630",
+  "classical_examples": [
+    {
+      "label": "Griechisch",
+      "original": "ταῦτ᾽ ἔπραξα, ταῦτ᾽ ἐπρέσβευσα, ταῦτ᾽ ἐδεήθην.",
+      "translation": "Dies tat ich, dies vertrat ich als Gesandter, dies erbat ich.",
+      "note": "Demosthenische Anfangswiederholung; klassisches Muster der Anaphora."
+    },
+    {
+      "label": "Latein",
+      "original": "Scipio Numantiam sustulit, Scipio Karthaginem delevit, Scipio pacem peperit, Scipio civitatem servavit.",
+      "translation": "Scipio hob Numantia aus, Scipio zerstörte Karthago, Scipio brachte Frieden, Scipio rettete den Staat.",
+      "note": "Lausberg-Beleg für die wiederholte Initialstellung."
+    },
+    {
+      "label": "Latein",
+      "original": "nihilne te nocturnum praesidium Palatii, nihil urbis vigiliae, nihil timor populi ... moverunt?",
+      "translation": "Hat dich denn nicht die nächtliche Wache des Palatin, nicht die Wachsamkeit der Stadt, nicht die Furcht des Volkes ... bewegt?",
+      "note": "Cicero; gesteigerte politische Dringlichkeit durch wiederholtes nihil."
+    }
+  ],
+  "modern_examples": [
+    {
+      "text": "Nicht nur hören wir das Wort. Nicht nur merken wir es. Nicht nur bewahren wir es. Wir lassen uns von ihm richten und trösten.",
+      "domain": "Predigt / Gemeindearbeit",
+      "notes": "Negativ-Anapher mit evangelischer Auflösung."
+    },
+    {
+      "text": "Heute wird nicht verwaltet. Heute wird geklärt. Heute wird entschieden.",
+      "domain": "Rede / Leitung",
+      "notes": "Kurze Stakkato-Anapher."
+    }
+  ],
+  "sermon_examples": [
+    {
+      "text": "Hier ruft Christus. Hier sammelt Christus. Hier stärkt Christus. Hier sendet Christus.",
+      "purpose": "liturgische Zuspitzung",
+      "audience": "Gemeinde",
+      "notes": "Viergliedrige Kanzel-Anapher."
+    },
+    {
+      "text": "Nicht deine Bilanz rettet dich. Nicht deine Fassade rettet dich. Nicht dein frommer Rest rettet dich. Christus rettet dich.",
+      "purpose": "Bußpredigt",
+      "audience": "gemischte Gemeinde",
+      "notes": "Negativ-Anapher mit Evangeliums-Schlussschlag."
+    }
+  ],
+  "effects": [
+    "Rhythmus",
+    "Einprägung",
+    "Affektdruck",
+    "Steigerung",
+    "liturgische Tragfähigkeit"
+  ],
+  "best_use_cases": [
+    "Predigtschluss",
+    "Ruf zur Entscheidung",
+    "Lobpreisartige Passagen",
+    "Mahnung mit wachsendem Druck"
+  ],
+  "avoid_when": [
+    "Wenn alle Glieder gleich flach bleiben.",
+    "Wenn die Wiederholung nur dekorativ wirkt.",
+    "Bei sehr langen Satzgliedern, die den Schlag verlieren."
+  ],
+  "common_confusions": [
+    "Epiphora",
+    "Complexio",
+    "bloßer Parallelismus"
+  ],
+  "negative_examples": [
+    "Mehrere Sätze mit ähnlichem Inhalt, aber ohne identisches Anfangswort.",
+    "Wiederholung nur innerhalb eines Einzelsatzes ohne Gliederstaffelung."
+  ],
+  "generation_rules": [
+    "Ein starkes Anfangswort wählen.",
+    "Drei bis vier Glieder bevorzugen.",
+    "Semantisch oder affektiv steigern.",
+    "Letztes Glied besonders belastbar machen."
+  ],
+  "recognition_rules": [
+    "Identische Initialposition in mindestens zwei parallelen Gliedern.",
+    "Wirkung entsteht aus Wiederkehr am Anfang, nicht aus bloßer Themenähnlichkeit."
+  ],
+  "evaluation_criteria": [
+    "Anfangswort klar identisch",
+    "Glieder hörbar parallel",
+    "Druck oder Verdichtung nimmt zu",
+    "Predigtlich laut lesbar"
+  ],
+  "tone_fit": [
+    "mahnend",
+    "liturgisch",
+    "prophetisch",
+    "tröstend"
+  ],
+  "difficulty_level": "mittel",
+  "tags": [
+    "Wortfigur",
+    "Wiederholung",
+    "Rhythmus",
+    "Kanzelrhythmus"
+  ],
+  "editorial_notes": "Scanbasierte Erfassung. Griechische Stellen aus dem Scan teils normalisiert."
+}

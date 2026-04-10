@@ -1,0 +1,25 @@
+{
+  "figure_id": "metapher",
+  "example_clusters": {
+    "christologisch": [
+      "Christus ist Licht.",
+      "Christus ist Leben.",
+      "Christus ist die offene Tür."
+    ],
+    "hamartiologisch": [
+      "Die Sünde ist dein Gefängnis.",
+      "Die Sünde ist dein Ankläger.",
+      "Die Sünde ist Kette und Zelle."
+    ],
+    "ekklesiologisch": [
+      "Die Kirche ist Haus.",
+      "Die Kirche ist Heimat.",
+      "Die Kirche ist Werkstatt und Sendung."
+    ],
+    "seelsorglich": [
+      "Die Erschöpfung ist ein Rauchsignal der Seele.",
+      "Die Angst ist ein Raum ohne Luft.",
+      "Die Gnade ist ein offenes Fenster."
+    ]
+  }
+}

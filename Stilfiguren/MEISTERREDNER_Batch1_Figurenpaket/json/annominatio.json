@@ -1,0 +1,135 @@
+{
+  "id": "annominatio",
+  "figure_name_de": "Annominatio",
+  "figure_name_original": [
+    {
+      "language": "Latein",
+      "term": "annominatio"
+    },
+    {
+      "language": "Griechisch",
+      "term": "παρονομασία (nahverw.)"
+    }
+  ],
+  "category": "Paronomastische Wortfigur / Laut- und Stammspiel",
+  "definition_precise": "Die Annominatio erzeugt rhetorische Nähe und Spannung durch geringe lautliche oder buchstäbliche Veränderung ähnlich klingender Wörter. Bei Lausberg steht sie im Feld der Paronomasie und umfasst Zusätze, Wegnahmen, Vertauschungen und andere minimale Formverschiebungen.",
+  "definition_simple": "Ähnlich klingende Wörter werden gegeneinander ausgespielt.",
+  "formal_pattern": "a ~ a′ / Stammnähe oder Lautnähe bei Bedeutungsverschiebung",
+  "semantic_function": "Schlagkraft, Witz, Merkfähigkeit, semantische Schärfung, oft polemische oder pointierende Wirkung.",
+  "distinguish_from": [
+    "Derivatio: echte Wortfamilie bzw. Stammableitung.",
+    "Polyptoton: gleicher Stamm mit Flexionswechsel.",
+    "Homoeoteleuton: Gleichklang nur an den Enden.",
+    "Traductio: dasselbe Wort wird wiederholt, nicht nur ein ähnlich klingendes."
+  ],
+  "lausberg_reference": "Lausberg §§ 638–639",
+  "classical_examples": [
+    {
+      "label": "Latein",
+      "original": "nisi amori mallet obtemperare",
+      "translation": "wenn er nicht lieber der Liebe gehorchen wollte.",
+      "note": "Klangnahe Reibung zwischen temperare und obtemperare."
+    },
+    {
+      "label": "Latein",
+      "original": "patres conscripti circumscripti",
+      "translation": "die eingeschriebenen Väter – die eingeschlossenen / hereingelegten Väter.",
+      "note": "Politische Pointe durch minimale Lautverschiebung."
+    },
+    {
+      "label": "Latein",
+      "original": "urbis ... orbis",
+      "translation": "der Stadt ... des Erdkreises.",
+      "note": "Paronomastische Wirkung durch Buchstabenwechsel."
+    },
+    {
+      "label": "Französisch",
+      "original": "Il pleure dans mon cœur / comme il pleut sur la ville.",
+      "translation": "Es weint in meinem Herzen, wie es auf die Stadt regnet.",
+      "note": "Paronomastische Annäherung durch pleure / pleut."
+    }
+  ],
+  "modern_examples": [
+    {
+      "text": "Du willst glänzen, aber das Glänzen blendet dich.",
+      "domain": "Predigt / Rede",
+      "notes": "Klangnahe Schärfung."
+    },
+    {
+      "text": "Aus Meinung wird Selbstmeinung; aus Profil wird Profilierung.",
+      "domain": "Kommentar / öffentliche Rede",
+      "notes": "Annominatio als Diagnoseinstrument."
+    }
+  ],
+  "sermon_examples": [
+    {
+      "text": "Wer nur sein Image pflegt, verliert am Ende das Ebenbild.",
+      "purpose": "prophetische Zuspitzung",
+      "audience": "Gemeinde / Jugend",
+      "notes": "Annominatio mit theologischer Pointe."
+    },
+    {
+      "text": "Aus Genuss wird Genusssucht, aus Freiheit Freiflug in den Fall.",
+      "purpose": "Warnung",
+      "audience": "Jugendliche / Erwachsene",
+      "notes": "Paronomastische Kippfigur."
+    }
+  ],
+  "effects": [
+    "Pointierung",
+    "Merkfähigkeit",
+    "sprachliche Schärfe",
+    "Witz",
+    "Polemik"
+  ],
+  "best_use_cases": [
+    "kurze Merksätze",
+    "diagnostische Schlagzeilen",
+    "polemische Zuspitzung",
+    "prägnante Übergänge"
+  ],
+  "avoid_when": [
+    "Wenn das Wortspiel wichtiger als der Gedanke wird.",
+    "Wenn nur Soundeffekt ohne semantische Tragfähigkeit entsteht."
+  ],
+  "common_confusions": [
+    "Derivatio",
+    "Polyptoton",
+    "bloßer Reim"
+  ],
+  "negative_examples": [
+    "Reiner Endreim ohne semantische Spannung.",
+    "Beliebige Alliteration ohne begriffliche Reibung."
+  ],
+  "generation_rules": [
+    "Zwei nahe Klangkörper suchen.",
+    "Semantische Verschiebung klar machen.",
+    "Kurze Form bevorzugen.",
+    "Nicht mehr als ein bis zwei Wortspiele pro Passage stapeln."
+  ],
+  "recognition_rules": [
+    "Laut- oder Buchstabennähe ist hörbar.",
+    "Bedeutung bleibt verschieden oder kippt.",
+    "Die Pointe sitzt in der Nähe, nicht in der Identität."
+  ],
+  "evaluation_criteria": [
+    "Klangnähe",
+    "semantische Spannung",
+    "nicht bloß dekorativ",
+    "sprechbar"
+  ],
+  "tone_fit": [
+    "polemisch",
+    "diagnostisch",
+    "witzig",
+    "merkfähig"
+  ],
+  "difficulty_level": "mittel bis hoch",
+  "tags": [
+    "Paronomasie",
+    "Wortspiel",
+    "Klangfigur",
+    "Pointierung"
+  ],
+  "editorial_notes": "Die griechische Benennung ist im Scan nur im Paronomasie-Umfeld greifbar; daher vorsichtig ausgewiesen."
+}

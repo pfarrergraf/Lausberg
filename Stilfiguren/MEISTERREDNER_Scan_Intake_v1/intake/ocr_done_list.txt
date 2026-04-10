@@ -1,0 +1,31 @@
+Anaphora - KM_C301i26040910440
+Annominatio, Polyptoton - KM_C301i26040910460
+Antitheton - KM_C301i26040910580
+Antitheton - KM_C301i26040910590
+Asyndeton, Anastrophe - KM_C301i26040910520
+Brachylogia, Praeteritio - KM_C301i26040911070
+Commoratio, Exploitatio, De eadem re dicendo, Commutatio verborum - KM_C301i26040911030
+Commoratio, Exploitatio, De eadem re dicendo, Commutatio verborum - KM_C301i26040911040
+Communicatio, Definitio, Conciliatio - KM_C301i26040910570
+Commutatio, Distinctio - KM_C301i26040911000
+Derivatio, Synonymia - KM_C301i26040910470
+Detractio, Zeugma - KM_C301i26040910510
+Disiunctio - KM_C301i26040910550
+Disiunctio, Adiunctio - KM_C301i26040910551
+Epiphora, Complexio - KM_C301i26040910450
+Epiphora, Complexio, Annominatio, Polyptoton - KM_C301i26040910451
+Evidentia, Sermocinatio, Fictio personae, Commoratio - KM_C301i26040911012
+Gedankenfiguren, Figurae sententiae - KM_C301i26040910560
+Homoeoteleuton, Homoeoptoton - KM_C301i26040910540
+Isocolon, Homoeoteleuton - KM_C301i26040910530
+Onomasiologische Distinctio, Oxymoron, Exclamatio, Evidentia - KM_C301i26040911001
+Onomasiologische Distinctio, Oxymoron, Exclamatio, Evidentia - KM_C301i26040911010
+Onomasiologische Distinctio, Oxymoron, Exclamatio, Evidentia - KM_C301i26040911011
+Paromoeosis - KM_C301i26040910541
+Permissio, Adiectio, Interpositio, Brachylogia, Praeteritio - KM_C301i26040911041
+Reflexio - KM_C301i26040910490
+Regressio, Comparatio - KM_C301i26040910591
+Regressio, Comparatio, Commutatio - KM_C301i26040910592
+Reticentia, Aposiopesis - KM_C301i26040911071
+Traductio, Distinctio - KM_C301i26040910480
+Traductio, Distinctio - KM_C301i26040910481

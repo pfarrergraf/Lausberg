@@ -1,0 +1,112 @@
+{
+  "id": "epiphora",
+  "figure_name_de": "Epiphora",
+  "figure_name_original": [
+    {
+      "language": "Griechisch",
+      "term": "ἐπιφορά / ἐπιστροφή"
+    },
+    {
+      "language": "Latein",
+      "term": "epiphora / conversio"
+    }
+  ],
+  "category": "Wortwiederholung auf Abstand / Schlusswiederholung",
+  "definition_precise": "Die Epiphora ist die wiederholte Rückkehr desselben Wortes oder derselben Wortgruppe am Ende mehrerer Glieder. Sie ist das Gegenstück zur Anaphora und prägt den Schlusspunkt einer Reihe ein.",
+  "definition_simple": "Mehrere Glieder enden mit demselben Wort.",
+  "formal_pattern": "... y / ... y / ... y",
+  "semantic_function": "Die Figur hämmert den Zielbegriff ein, bündelt die Reihe auf einen Endklang und eignet sich für Refrain, Urteil, Trost und gerichtete Amplificatio.",
+  "distinguish_from": [
+    "Anaphora: Wiederholung am Anfang.",
+    "Complexio: gleicher Anfang und gleicher Schluss.",
+    "Homoeoteleuton: Lautähnlichkeit am Ende statt identischer Wortwiederholung."
+  ],
+  "lausberg_reference": "Lausberg §§ 631-632; Verweis auf § 633 für complexio.",
+  "classical_examples": [
+    {
+      "original_language": "Latein",
+      "original_text": "Poenos populus Romanus iustitia vicit, armis vicit, liberalitate vicit.",
+      "translation_de": "Das römische Volk besiegte die Punier durch Gerechtigkeit, besiegte sie mit Waffen, besiegte sie durch Großmut.",
+      "source": "Rhetorica ad Herennium 4,18,25",
+      "notes": "Klassische Schlusswiederholung mit dem Zielwort vicit."
+    },
+    {
+      "original_language": "Latein",
+      "original_text": "quis eos postulavit? Appius; quis produxit? Appius.",
+      "translation_de": "Wer hat sie gefordert? Appius. Wer hat sie vorgeführt? Appius.",
+      "source": "Cicero pro Milone 22,59; bei Quintilian 9,3,30",
+      "notes": "Kurze, schlagende Epiphora."
+    }
+  ],
+  "modern_examples": [
+    {
+      "text": "Du kommst müde - zu Christus. Du kommst schuldig - zu Christus. Du kommst hungrig - zu Christus.",
+      "domain": "Abendmahlsliturgie",
+      "notes": "Pastorale Refrain-Epiphora."
+    },
+    {
+      "text": "Wir brauchen Wahrheit. Die Jugend braucht Wahrheit. Die Gemeinde braucht Wahrheit.",
+      "domain": "Rede / Predigt",
+      "notes": "Schlusswort als Glockenschlag."
+    }
+  ],
+  "sermon_examples": [
+    {
+      "text": "Nicht auf dich gestellt - in Christus. Nicht von Gott verlassen - in Christus. Nicht ohne Zukunft - in Christus.",
+      "purpose": "Trost",
+      "audience": "Gemeinde",
+      "notes": "Wiederholter Zielanker am Satzende."
+    },
+    {
+      "text": "Wer trägt dich? Gott. Wer sucht dich? Gott. Wer lässt dich nicht los? Gott.",
+      "purpose": "Seelsorge",
+      "audience": "gemischte Gemeinde",
+      "notes": "Kurze endständige Einhämmerung."
+    }
+  ],
+  "effects": [
+    "Einprägung",
+    "Refrainwirkung",
+    "Rhythmus",
+    "Verdichtung"
+  ],
+  "best_use_cases": [
+    "Schlusspassagen",
+    "Antwortreihen",
+    "liturgische Formeln",
+    "Trost und Mahnung"
+  ],
+  "avoid_when": [
+    "Wenn das Schlusswort zu schwach ist.",
+    "Wenn die Glieder zu lang werden und den Zielklang zudecken."
+  ],
+  "common_confusions": [
+    "Anaphora",
+    "Homoeoteleuton",
+    "bloße Wiederholung ohne Gliederstruktur"
+  ],
+  "negative_examples": [],
+  "generation_rules": [
+    "Einen tragenden Zielbegriff bestimmen.",
+    "Satzanfänge variieren, aber das Ende gleich halten.",
+    "3-4 Glieder bevorzugen.",
+    "Das Endwort akustisch tragen lassen."
+  ],
+  "recognition_rules": [],
+  "evaluation_criteria": [],
+  "tone_fit": [
+    "liturgisch",
+    "mahnend",
+    "tröstend"
+  ],
+  "difficulty_level": "leicht",
+  "tags": [
+    "Wiederholung",
+    "Schlussfigur"
+  ],
+  "editorial_notes": "OCR-Basis mit guter Textqualität; klassische Definition und Beispiele vorsichtig bereinigt.",
+  "memory_lines": [
+    "Die Epiphora denkt vom Ende her.",
+    "Was am Ende wiederkehrt, bleibt im Ohr."
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "commoratio",
+  "figure_name_de": "Commoratio",
+  "figure_name_original": [
+    {
+      "language": "Latein",
+      "term": "commoratio"
+    }
+  ],
+  "category": "Gedankenfigur / Verweilen beim Hauptgedanken",
+  "definition_precise": "Die Commoratio ist das beharrliche Verweilen bei einem tragenden Gedanken, zu dem die Rede wiederholt zurückkehrt. Bei Lausberg erscheint sie als Sonderfall der expolitio: der Zentralgedanke wird nicht verlassen, sondern aus verschiedenen Perspektiven erneut angesetzt.",
+  "definition_simple": "Bei einem Hauptgedanken bleiben und ihn immer wieder neu ansetzen.",
+  "formal_pattern": "Leitgedanke -> wiederholte Rückkehr -> neue sprachliche oder argumentative Beleuchtung",
+  "semantic_function": "Die Figur verstärkt den Kern einer Rede, indem sie ihn nicht bloß erwähnt, sondern festhält, umkreist und in der Erinnerung des Hörers verankert.",
+  "distinguish_from": [
+    "Expolitio: übergeordneter Bereich der Ausarbeitung; Commoratio ist das Verweilen beim tragenden Punkt.",
+    "Eandem rem dicendo: sprachliche Variation desselben Gedankens.",
+    "De eadem re dicendo: gedankliche Ausarbeitung desselben Sachverhalts."
+  ],
+  "lausberg_reference": "Lausberg §§ 830-831.",
+  "classical_examples": [
+    {
+      "original_language": "Latein",
+      "original_text": "commoratio est, cum in loco firmissimo, a quo tota causa continetur, manetur diutius et ad eandem sententiam saepius reditur.",
+      "translation_de": "Commoratio liegt vor, wenn man bei einem besonders tragenden Punkt, von dem der ganze Fall abhängt, länger verweilt und immer wieder zu demselben Gedanken zurückkehrt.",
+      "source": "Rhetorica ad Herennium 4,45,58",
+      "notes": "Klassische Definition des Verweilens."
+    }
+  ],
+  "modern_examples": [
+    {
+      "text": "Nicht schnell weiter. Erst muss die Gemeinde begreifen, dass hier wirklich Christus handelt.",
+      "domain": "Predigtwerkstatt",
+      "notes": "Metasprachliche Anwendung."
+    },
+    {
+      "text": "Wir kehren immer wieder zu derselben Frage zurück: Was trägt, wenn alles andere fällt?",
+      "domain": "Rede / Meditation",
+      "notes": "Leitgedanke wird gehalten."
+    }
+  ],
+  "sermon_examples": [
+    {
+      "text": "Bleib bei dem einen Satz: Er hat dich nicht aufgegeben. Und dann sag ihn noch einmal anders, wärmer, schärfer, näher.",
+      "purpose": "Seelsorge",
+      "audience": "verunsicherte Gemeinde",
+      "notes": "Commoratio als tröstende Einhämmerung."
+    },
+    {
+      "text": "Die Predigt kreist nicht um zehn Nebenlinien, sondern um das eine Zentrum: Christus für dich.",
+      "purpose": "Abendmahl / Evangelium",
+      "audience": "Gottesdienst",
+      "notes": "Verweilen beim Zentralgedanken."
+    }
+  ],
+  "effects": [
+    "Eindringlichkeit",
+    "Verankerung",
+    "Konzentration",
+    "Amplificatio"
+  ],
+  "best_use_cases": [
+    "Kernthese einer Predigt",
+    "Zentralruf",
+    "Leitmotivische Passagen"
+  ],
+  "avoid_when": [
+    "Wenn das Verweilen bloß redundant wird.",
+    "Wenn kein tragender Hauptgedanke vorhanden ist."
+  ],
+  "common_confusions": [
+    "bloße Wiederholung ohne neue Beleuchtung",
+    "weitschweifige Abschweifung"
+  ],
+  "negative_examples": [],
+  "generation_rules": [
+    "Zuerst einen echten Zentralgedanken bestimmen.",
+    "Danach sprachlich oder gedanklich mehrfach zu ihm zurückkehren.",
+    "Jede Wiederkehr muss etwas schärfen, wärmen oder zuspitzen.",
+    "Nicht zerreden; der Kern muss spürbar derselbe bleiben."
+  ],
+  "recognition_rules": [],
+  "evaluation_criteria": [],
+  "tone_fit": [
+    "beharrlich",
+    "pastoral",
+    "druckvoll"
+  ],
+  "difficulty_level": "mittel",
+  "tags": [
+    "Gedankenfigur",
+    "Expolitio"
+  ],
+  "editorial_notes": "Scanbasierte Rekonstruktion aus der Lausberg-Seite zu expolitio/commoratio.",
+  "memory_lines": [
+    "Commoratio ist kein Kreisen im Nebel, sondern Bleiben am Brennpunkt.",
+    "Ein guter Zentralgedanke hält mehrere Wiederkehren aus."
+  ]
+}

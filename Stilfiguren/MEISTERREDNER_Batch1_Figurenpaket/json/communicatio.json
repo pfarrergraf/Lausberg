@@ -1,0 +1,119 @@
+{
+  "id": "communicatio",
+  "figure_name_de": "Communicatio",
+  "figure_name_original": [
+    {
+      "language": "Latein",
+      "term": "communicatio"
+    },
+    {
+      "language": "Griechisch",
+      "term": "ἀνακοίνωσις"
+    }
+  ],
+  "category": "Gedankenfigur / fiktive Beratung",
+  "definition_precise": "Die Communicatio ist die rhetorische Frage um Rat hinsichtlich einer Handlung oder Entscheidung: der Redner berät sich scheinbar mit Richtern, Hörern oder sogar Gegnern. Sie ist mit der dubitatio verwandt, aber nicht auf die Weiterführung der Rede, sondern auf die Handlungsfrage gerichtet.",
+  "definition_simple": "Der Redner fragt sein Publikum oder den Gegner scheinbar um Rat.",
+  "formal_pattern": "vos consulo … quid faciam? / quid faceretis?",
+  "semantic_function": "Einbezug des Publikums, Ethos der Fairness, dramatisierte Deliberation, Aktivierung des Mitdenkens.",
+  "distinguish_from": [
+    "Dubitatio: Unsicherheit über die Rede-Fortführung.",
+    "Permissio: überlässt dem Gegner etwas ausdrücklich.",
+    "Concessio: gibt etwas zu, statt um Rat zu fragen."
+  ],
+  "lausberg_reference": "Lausberg § 779",
+  "classical_examples": [
+    {
+      "label": "Latein",
+      "original": "nunc ego, iudices, tam vos consulo, quid mihi faciendum putetis",
+      "translation": "Nun frage ich euch, Richter, was ihr meint, dass ich tun soll.",
+      "note": "Klassischer Lausberg-Beleg der communicatio."
+    },
+    {
+      "label": "Latein",
+      "original": "tu denique, Labiene, quid faceres tali in re ac tempore?",
+      "translation": "Du also, Labienus, was würdest du in einer solchen Sache und zu einer solchen Zeit tun?",
+      "note": "Beratung durch fingierte Gegenfrage an den Gegner."
+    }
+  ],
+  "modern_examples": [
+    {
+      "text": "Was würdet ihr tun, wenn Schweigen bequem, Wahrheit aber nötig wäre?",
+      "domain": "Rede / Diskussion",
+      "notes": "Publikumsaktivierende Communicatio."
+    },
+    {
+      "text": "Sagt selbst: Soll die Gemeinde sich an Programme klammern oder Menschen sehen?",
+      "domain": "Gemeindeleitung",
+      "notes": "Deliberative Zuspitzung."
+    }
+  ],
+  "sermon_examples": [
+    {
+      "text": "Ihr sagt mir: Was soll ein müder Mensch tun, wenn Schuld und Scham ihn zugleich drücken? Ich frage zurück: Wohin sonst als zu Christus?",
+      "purpose": "seelsorgliche Deliberation",
+      "audience": "Gemeinde",
+      "notes": "Communicatio mit evangelischer Wende."
+    },
+    {
+      "text": "Richter eures eigenen Herzens, was würdet ihr dem sagen, der immer wieder flieht und doch Frieden sucht?",
+      "purpose": "Bußpredigt",
+      "audience": "Erwachsene",
+      "notes": "Innenwendung durch Communicatio."
+    }
+  ],
+  "effects": [
+    "Einbezug",
+    "Mitdenken",
+    "ethische Beteiligung",
+    "dramatische Fairness"
+  ],
+  "best_use_cases": [
+    "Übergänge zur Anwendung",
+    "deliberative Predigtpassagen",
+    "ethische Entscheidungslagen"
+  ],
+  "avoid_when": [
+    "Wenn keine reale Alternativlage vorliegt.",
+    "Wenn zu viele Scheinfragen die Predigt zerfasern."
+  ],
+  "common_confusions": [
+    "Dubitatio",
+    "rhetorische Frage allgemein"
+  ],
+  "negative_examples": [
+    "Fragen, die keine Handlungsberatung inszenieren.",
+    "bloße Wissensfragen ohne deliberativen Druck."
+  ],
+  "generation_rules": [
+    "Konkrete Lage benennen.",
+    "Publikum oder Gegner direkt adressieren.",
+    "Die Antwort nicht sofort banal vorwegnehmen.",
+    "Communicatio zur Handlung oder Einsicht führen."
+  ],
+  "recognition_rules": [
+    "fingierte Beratung",
+    "Frage nach Handlung oder Entscheidung",
+    "Adressat wird einbezogen"
+  ],
+  "evaluation_criteria": [
+    "deliberativer Kern",
+    "Hörerbeteiligung",
+    "glaubwürdige Lage",
+    "klare Anwendung"
+  ],
+  "tone_fit": [
+    "deliberativ",
+    "seelsorglich",
+    "ethisch",
+    "dialogisch"
+  ],
+  "difficulty_level": "mittel",
+  "tags": [
+    "Gedankenfigur",
+    "Publikumseinbezug",
+    "Beratung",
+    "Rhetorische Frage"
+  ],
+  "editorial_notes": "Im gleichen Scan stehen definitio und conciliatio; hier wurde bewusst nur die communicatio entfaltet."
+}

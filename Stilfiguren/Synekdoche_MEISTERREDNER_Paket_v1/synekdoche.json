@@ -1,0 +1,188 @@
+{
+  "id": "tropus_synecdoche_001",
+  "figure_name_de": "Synekdoche",
+  "figure_name_original": [
+    {
+      "language": "griechisch",
+      "term": "συνεκδοχή"
+    },
+    {
+      "language": "latein",
+      "term": "synecdoche"
+    }
+  ],
+  "category": "Tropus / metonymischer Bereich / quantitative oder klassifikatorische Beziehung",
+  "definition_precise": "Synekdoche ist die Benennung eines Gemeinten durch einen Ausdruck, der zu ihm in einer Zugehörigkeits-, Umfangs- oder Klassenrelation steht: Teil für Ganzes, Ganzes für Teil, Art für Gattung, Gattung für Art oder Singular für Plural bzw. umgekehrt.",
+  "definition_simple": "Man nennt nicht direkt das Gemeinte, sondern einen Teil, ein Ganzes, eine Klasse oder eine Zahlform davon.",
+  "formal_pattern": "pars pro toto; totum pro parte; species pro genere; genus pro specie; singularis pro plurali; pluralis pro singulari",
+  "semantic_function": "Verdichtung, Konkretisierung, Verkörperung, anschauliche Benennung durch Zugehörigkeits- und Umfangsbeziehung.",
+  "distinguish_from": [
+    "Metapher: Ähnlichkeit statt Zugehörigkeitsbeziehung.",
+    "Metonymie allgemein: nicht jede metonymische Relation ist quantitativ oder klassifikatorisch.",
+    "bloße Generalisierung: nur dann Synekdoche, wenn eine echte Stellvertretungsrelation vorliegt."
+  ],
+  "lausberg_reference": "Lausberg, Handbuch der literarischen Rhetorik, §§ 572-577",
+  "classical_examples": [
+    {
+      "original_language": "latein",
+      "original_text": "tectum / tecta",
+      "translation_de": "Dach / Dächer für Haus.",
+      "source": "Lausberg, Synekdoche-Abschnitt",
+      "notes": "Teil für Ganzes."
+    },
+    {
+      "original_language": "latein",
+      "original_text": "parietes",
+      "translation_de": "Wände für Gebäude / Haus.",
+      "source": "Lausberg, Synekdoche-Abschnitt",
+      "notes": "Teil für Ganzes."
+    },
+    {
+      "original_language": "latein",
+      "original_text": "puppis",
+      "translation_de": "Heck für Schiff.",
+      "source": "Lausberg, Synekdoche-Abschnitt",
+      "notes": "Teil für Ganzes."
+    },
+    {
+      "original_language": "latein",
+      "original_text": "frigidus annus",
+      "translation_de": "kaltes Jahr für Winter.",
+      "source": "Lausberg, Synekdoche-Abschnitt",
+      "notes": "Ganzes für Teil."
+    },
+    {
+      "original_language": "französisch",
+      "original_text": "J’ignore le destin d’une tête si chère.",
+      "translation_de": "Ich kenne das Schicksal eines so teuren Hauptes / einer so teuren Person nicht.",
+      "source": "Lausberg, Synekdoche-Abschnitt",
+      "notes": "Teil für Ganzes; tête steht für die Person."
+    },
+    {
+      "original_language": "latein",
+      "original_text": "quadrupedem",
+      "translation_de": "Vierfüßler für Pferd.",
+      "source": "Lausberg, Synekdoche-Abschnitt",
+      "notes": "Gattung für Art."
+    },
+    {
+      "original_language": "latein",
+      "original_text": "ferrum",
+      "translation_de": "Eisen für Schwert.",
+      "source": "Lausberg, Synekdoche-Abschnitt",
+      "notes": "Rohstoffbezeichnung für konkrete Sache; im Abschnitt synekdochisch mitgeführt."
+    },
+    {
+      "original_language": "latein",
+      "original_text": "Romanus",
+      "translation_de": "der Römer für die Römer.",
+      "source": "Lausberg, Synekdoche-Abschnitt",
+      "notes": "Singular für Plural."
+    }
+  ],
+  "modern_examples": [
+    {
+      "text": "Wir brauchen neue Köpfe im Team.",
+      "domain": "Alltag / Organisation",
+      "notes": "Teil für Ganze."
+    },
+    {
+      "text": "Unter diesem Dach leben drei Generationen.",
+      "domain": "Alltag",
+      "notes": "Teil für Ganzes."
+    },
+    {
+      "text": "Noch mehr Hände werden für das Fest gebraucht.",
+      "domain": "Gemeindepraxis",
+      "notes": "Teil für Ganze."
+    }
+  ],
+  "sermon_examples": [
+    {
+      "text": "Heute sitzen suchende Gesichter vor dem Wort.",
+      "purpose": "Gemeindebeschreibung",
+      "audience": "Gottesdienstgemeinde",
+      "notes": "Teil für Ganze."
+    },
+    {
+      "text": "Gott sammelt unter diesem Dach sein Volk.",
+      "purpose": "Gemeindebild",
+      "audience": "Gemeinde",
+      "notes": "Dach für Kirchenraum."
+    },
+    {
+      "text": "Er sucht nicht nur Hände für Aufgaben, sondern Herzen für seinen Ruf.",
+      "purpose": "Berufung / Mitarbeit",
+      "audience": "Gemeinde / Mitarbeitende",
+      "notes": "Körperteile stehen für den ganzen Menschen."
+    },
+    {
+      "text": "Vor ihm beugen sich Knie - und mit den Knien ganze Leben.",
+      "purpose": "Buße / Hingabe",
+      "audience": "Predigt",
+      "notes": "Teil-Ganzes-Spannung bewusst ausgespielt."
+    }
+  ],
+  "effects": [
+    "Anschaulichkeit",
+    "Verdichtung",
+    "bildnahe Benennung",
+    "poetische Verkörperung",
+    "prägnante Kollektivbenennung"
+  ],
+  "best_use_cases": [
+    "bildkräftige Predigtformulierungen",
+    "Gemeinde- und Körperbilder",
+    "liturgische Verdichtung",
+    "kurze, memorierbare Zuspitzungen"
+  ],
+  "avoid_when": [
+    "wenn die Zugehörigkeitsrelation unklar ist",
+    "wenn bloße Pauschalisierung droht",
+    "wenn Metapher oder allgemeine Metonymie treffender wäre"
+  ],
+  "common_confusions": [
+    "Metapher",
+    "Metonymie allgemein",
+    "bloße Verallgemeinerung"
+  ],
+  "negative_examples": [
+    "Der Glaube ist ein Feuer. (Metapher.)",
+    "Das Kanzleramt schweigt. (eher allgemeine Metonymie.)",
+    "Nicht die Lauten, sondern die Treuen. (Antithese.)"
+  ],
+  "generation_rules": [
+    "Wähle einen Teil, der das Ganze sicher mitträgt.",
+    "Oder wähle eine Gattungs- bzw. Artbezeichnung mit klarer Klassenrelation.",
+    "Nutze Singular und Plural nur bewusst stilistisch."
+  ],
+  "recognition_rules": [
+    "Frage: Ist das genannte Wort Teil, Ganzes, Klasse oder Zahlform des eigentlich Gemeinten?",
+    "Frage: Beruht die Beziehung auf Zugehörigkeit statt auf Ähnlichkeit?",
+    "Frage: Lässt sich das Gemeinte stabil erschließen?"
+  ],
+  "evaluation_criteria": [
+    "klare Stellvertretungsrelation",
+    "keine Verwechslung mit Metapher",
+    "sprachlich knapp und tragfähig",
+    "im Predigtkontext hörbar"
+  ],
+  "tone_fit": [
+    "biblisch",
+    "poetisch",
+    "liturgisch",
+    "seelsorglich",
+    "anschaulich"
+  ],
+  "difficulty_level": "mittel",
+  "tags": [
+    "Tropus",
+    "Synekdoche",
+    "Teil-Ganzes",
+    "Gattung-Art",
+    "Numerus",
+    "Lausberg",
+    "MEISTERREDNER"
+  ],
+  "editorial_notes": "Projektentscheid in diesem Chat: nur Synekdoche und zugehöriger Kernbestand; intellectio wird nicht als Nebenbenennung geführt."
+}

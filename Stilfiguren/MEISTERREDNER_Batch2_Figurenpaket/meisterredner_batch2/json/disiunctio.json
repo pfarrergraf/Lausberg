@@ -1,0 +1,107 @@
+{
+  "id": "disiunctio",
+  "figure_name_de": "Disiunctio",
+  "figure_name_original": [
+    {
+      "language": "Latein",
+      "term": "disiunctio"
+    }
+  ],
+  "category": "Wortfigur / synonyme Prädikatsreihe mit wechselnden Satzgliedern",
+  "definition_precise": "Die Disiunctio besteht nach Lausberg in einer Folge von Kola, deren Prädikate jeweils synonym sind, während die übrigen Satzteile semantisch verschieden, aber syntaktisch parallel gebaut sind. Dadurch verbinden sich Synonymie und Häufung.",
+  "definition_simple": "Mehrere parallele Glieder mit ähnlichen Prädikaten, aber wechselnden Inhalten.",
+  "formal_pattern": "x1 + s1 / x2 + s2 / x3 + s3, wobei s1-s3 synonym und x1-x3 verschieden sind",
+  "semantic_function": "Die Figur erzeugt gegliederte Amplificatio: Gleichklang im Prädikat, Variation im übrigen Satz. So wirkt sie zugleich geordnet und steigernd.",
+  "distinguish_from": [
+    "Synonymia: betrifft nur die synonymen Ausdrücke selbst.",
+    "Anaphora/Epiphora: formale Wiederkehr am Anfang oder Ende, nicht notwendig synonyme Prädikate.",
+    "Congeries: freiere Häufung ohne das klare Parallelgerüst der Disiunctio."
+  ],
+  "lausberg_reference": "Lausberg §§ 739-742.",
+  "classical_examples": [
+    {
+      "original_language": "Latein",
+      "original_text": "dediderim periculis omnibus, obtulerim insidiis, obiecerim invidiae.",
+      "translation_de": "Ich hätte ihn allen Gefahren ausgeliefert, den Nachstellungen preisgegeben, dem Hass ausgesetzt.",
+      "source": "Quintilian 9,3,45",
+      "notes": "Lausberg-Beispiel für synonymische Prädikate bei wechselnden Ergänzungen."
+    },
+    {
+      "original_language": "Latein",
+      "original_text": "vos enim statuistis, vos sententiam dixistis, vos iudicavistis.",
+      "translation_de": "Denn ihr habt beschlossen, ihr habt das Urteil ausgesprochen, ihr habt gerichtet.",
+      "source": "Quintilian 9,3,45",
+      "notes": "Anaphorisch gerahmte Disiunctio."
+    }
+  ],
+  "modern_examples": [
+    {
+      "text": "Er deckt Schuld auf, er nennt Sünde beim Namen, er entlarvt die Lüge.",
+      "domain": "Predigt",
+      "notes": "Nahezu klassische Disiunctio."
+    },
+    {
+      "text": "Wir planen nicht nur, wir prüfen, wir entscheiden.",
+      "domain": "Leitung / Rede",
+      "notes": "Synonymische Prädikate mit differenzierter Aktion."
+    }
+  ],
+  "sermon_examples": [
+    {
+      "text": "Christus ruft die Müden, sammelt die Zerstreuten, stärkt die Schwachen.",
+      "purpose": "Gemeindeaufbau",
+      "audience": "Gottesdienst",
+      "notes": "Prädikate ziehen gemeinsam in dieselbe Richtung."
+    },
+    {
+      "text": "Der Geist weckt Glauben, entzündet Mut, öffnet den Mund.",
+      "purpose": "Pfingstpredigt",
+      "audience": "Gemeinde",
+      "notes": "Parallele Verdichtung."
+    }
+  ],
+  "effects": [
+    "Ordnung",
+    "Amplificatio",
+    "Parallelität",
+    "Eindringlichkeit"
+  ],
+  "best_use_cases": [
+    "Trikolons",
+    "liturgische Reihungen",
+    "charakterisierende Passagen"
+  ],
+  "avoid_when": [
+    "Wenn die Prädikate nicht wirklich synonymisch zusammenstehen.",
+    "Wenn die Reihe bloß additiv statt strukturiert wirkt."
+  ],
+  "common_confusions": [
+    "Synonymia",
+    "Congeries",
+    "Anaphora"
+  ],
+  "negative_examples": [],
+  "generation_rules": [
+    "Zuerst 2-4 wirklich nah verwandte Prädikate wählen.",
+    "Dann pro Glied einen anderen, aber parallelen Satzteil setzen.",
+    "Die Syntax streng parallel halten.",
+    "Schlussglied hörbar belasten."
+  ],
+  "recognition_rules": [],
+  "evaluation_criteria": [],
+  "tone_fit": [
+    "geordnet",
+    "klassisch",
+    "druckvoll"
+  ],
+  "difficulty_level": "mittel",
+  "tags": [
+    "Synonymie",
+    "Parallelismus"
+  ],
+  "editorial_notes": "Scanbasierte Rekonstruktion mit vorsichtiger Normalisierung der Formelschemata.",
+  "memory_lines": [
+    "Disiunctio verbindet Gleichrichtung und Variation.",
+    "Die Prädikate klingen verwandt; die Satzglieder wechseln."
+  ]
+}

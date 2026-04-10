@@ -1,0 +1,223 @@
+{
+  "id": "metonymie",
+  "figure_name_de": "Metonymie",
+  "figure_name_original": [
+    {
+      "language": "Griechisch",
+      "term": "μετωνυμία"
+    },
+    {
+      "language": "Latein",
+      "term": "metonymia"
+    },
+    {
+      "language": "Latein",
+      "term": "denominatio"
+    }
+  ],
+  "category": "Tropus / Bedeutungsübertragung durch reale Beziehung",
+  "definition_precise": "Metonymie ist die Ersetzung eines eigentlichen Ausdrucks durch einen anderen Ausdruck, dessen eigentliche Bedeutung mit dem gemeinten Inhalt in einer realen, nicht in einer vergleichenden Beziehung steht.",
+  "definition_simple": "Ein Wort steht für etwas anderes, weil beides sachlich zusammengehört.",
+  "formal_pattern": "A steht für B aufgrund realer Nähebeziehung, nicht aufgrund von Ähnlichkeit.",
+  "semantic_function": "Verdichtung, indirekte Benennung, kulturelle Aufladung, decorumfähige Ausdrucksweise, symbolische Präzisierung.",
+  "distinguish_from": [
+    {
+      "figure": "Metapher",
+      "difference": "Metapher beruht auf Ähnlichkeit; Metonymie auf realer Beziehung."
+    },
+    {
+      "figure": "Synekdoche",
+      "difference": "Synekdoche ist quantitative Beziehung; Metonymie qualitative Beziehung."
+    },
+    {
+      "figure": "Metalepsis",
+      "difference": "Metalepsis ist verwandt, aber indirekter bzw. weitergeschoben."
+    },
+    {
+      "figure": "Allegorie",
+      "difference": "Allegorie ist ein ausgedehnter Bildzusammenhang; Metonymie meist punktuell."
+    }
+  ],
+  "lausberg_reference": "Lausberg, Metonymie §§565-571; Abgrenzung zur Synekdoche in §572.",
+  "classical_examples": [
+    {
+      "original_language": "Latein",
+      "original_text": "denominatio est quae ab rebus propinquis et finitimis trahit orationem, qua possit intellegi res quae non suo vocabulo sit appellata.",
+      "translation_de": "Metonymie ist die Benennungsweise, die die Rede von nahe- und angrenzenden Dingen hernimmt, sodass die Sache verstanden wird, obwohl sie nicht mit ihrem eigentlichen Namen bezeichnet ist.",
+      "source": "Lausberg-Scan mit Verweis auf Her. 4,32,43",
+      "notes": "Grunddefinition der realen Nähebeziehung."
+    },
+    {
+      "original_language": "Latein",
+      "original_text": "metonymia quae est nominis pro nomine positio",
+      "translation_de": "Metonymie ist die Setzung eines Namens anstelle eines Namens.",
+      "source": "Lausberg-Scan mit Verweis auf Quint. 8,6,23",
+      "notes": "Von Lausberg als zu enge Formel markiert."
+    },
+    {
+      "original_language": "Latein",
+      "original_text": "Martem ... pro bello, Cererem pro frugibus, Liberum pro vino, Neptunum pro mari",
+      "translation_de": "Mars für den Krieg, Ceres für die Feldfrucht, Liber für den Wein, Neptun für das Meer.",
+      "source": "Lausberg §568, Person-Sache-Beziehung",
+      "notes": "Mythologische Metonymie; Gottheit für Funktionsbereich."
+    },
+    {
+      "original_language": "Latein",
+      "original_text": "iam proximus ardet Ucalegon",
+      "translation_de": "Schon brennt ganz in der Nähe Ucalegon.",
+      "source": "Lausberg §568, Person-Sache-Beziehung",
+      "notes": "Eigentümer/Bewohner statt Haus oder Besitz."
+    },
+    {
+      "original_language": "Latein",
+      "original_text": "poculum epotum",
+      "translation_de": "der ausgetrunkene Becher / der Becher wurde ausgetrunken",
+      "source": "Lausberg §568, Gefäß-Inhalt-Beziehung",
+      "notes": "Gefäß statt Inhalt."
+    },
+    {
+      "original_language": "Latein",
+      "original_text": "cedant arma togae",
+      "translation_de": "Die Waffen sollen der Toga weichen.",
+      "source": "Lausberg §568, Symbol-Beziehung",
+      "notes": "Symbol statt gemeinter Bereich."
+    },
+    {
+      "original_language": "Französisch",
+      "original_text": "j’ai quitté la robe pour l’épée",
+      "translation_de": "Ich habe die Robe gegen das Schwert eingetauscht.",
+      "source": "Lausberg §568, Symbol-Beziehung",
+      "notes": "Symbolische Metonymie für Stand/Funktion."
+    },
+    {
+      "original_language": "Latein",
+      "original_text": "Venerem quam coitum dixisse magis decet",
+      "translation_de": "Es ziemt sich eher, 'Venus' zu sagen als 'Beischlaf'.",
+      "source": "Lausberg §569 mit Verweis auf Quint. 8,6,24",
+      "notes": "Metonymie als Mittel des aptum."
+    }
+  ],
+  "modern_examples": [
+    {
+      "text": "Berlin zögert.",
+      "domain": "Politik",
+      "notes": "Ort statt Institution/Entscheidungsträger."
+    },
+    {
+      "text": "Rom schweigt.",
+      "domain": "Kirche/Politik",
+      "notes": "Ort statt Leitung oder Institution."
+    },
+    {
+      "text": "Er trank noch ein Glas.",
+      "domain": "Alltag",
+      "notes": "Gefäß statt Inhalt."
+    },
+    {
+      "text": "Die Redaktion setzte heute auf mehr Schärfe im Blatt.",
+      "domain": "Medien",
+      "notes": "Produkt/Institution statt handelnde Personen."
+    }
+  ],
+  "sermon_examples": [
+    {
+      "text": "Heute schwieg die Kanzel, wo sie hätte warnen müssen.",
+      "purpose": "prophetische Kritik",
+      "audience": "Gemeinde / Leitende",
+      "notes": "Ort/Instrument statt Prediger oder Predigtamt."
+    },
+    {
+      "text": "Der Tisch des Herrn ist offen, aber nicht belanglos.",
+      "purpose": "Abendmahlsprofil",
+      "audience": "Gottesdienstgemeinde",
+      "notes": "Tisch statt Mahlgemeinschaft / Sakramentsvollzug."
+    },
+    {
+      "text": "Wer nur die Krone will, versteht das Kreuz nicht.",
+      "purpose": "christologische Zuspitzung",
+      "audience": "Predigtgemeinde",
+      "notes": "Symbolische Metonymie."
+    },
+    {
+      "text": "Heute redet nicht nur die Straße, heute redet die Not.",
+      "purpose": "gesellschaftliche Verdichtung",
+      "audience": "öffentliche Predigt",
+      "notes": "Ort bzw. Zustand statt konkrete Menschen."
+    }
+  ],
+  "effects": [
+    "Verdichtung",
+    "sachliche Prägnanz",
+    "symbolische Aufladung",
+    "stilistische Veredelung",
+    "indirekte Benennung",
+    "kulturelle Resonanz"
+  ],
+  "best_use_cases": [
+    "Predigt mit dichter Symbolsprache",
+    "liturgische Verdichtung",
+    "prophetische Gesellschaftsanalyse",
+    "decorumfähige Benennung heikler Themen",
+    "institutionelle oder kulturell geladene Kurzformeln"
+  ],
+  "avoid_when": [
+    "wenn die reale Beziehung nicht klar erkennbar ist",
+    "wenn eigentlich Ähnlichkeit gemeint ist",
+    "wenn Teil-Ganzes-Fälle vorliegen",
+    "wenn die Kürzung rätselhaft statt prägnant wirkt"
+  ],
+  "common_confusions": [
+    "Metapher",
+    "Synekdoche",
+    "Allegorie",
+    "bloße Schlagwortsprache ohne reale Beziehung"
+  ],
+  "negative_examples": [
+    {
+      "text": "Er ist ein Löwe.",
+      "reason": "Metapher, keine Metonymie."
+    },
+    {
+      "text": "Ein Dach über dem Kopf.",
+      "reason": "Eher Synekdoche als Metonymie."
+    },
+    {
+      "text": "Nicht stark, sondern schwach.",
+      "reason": "Antithese, keine Metonymie."
+    }
+  ],
+  "generation_rules": [
+    "Bestimme zuerst die reale Beziehungsart.",
+    "Wähle dann den verdichtenden Ausdruck mit klarer kultureller oder sachlicher Nähe.",
+    "Nutze Metonymie nur dort, wo der Hörer den Bezug ohne Rätsel lösen kann.",
+    "Für Predigten eignen sich besonders Ort-, Symbol- und Institution-Metonymien."
+  ],
+  "recognition_rules": [
+    "Frage: Besteht reale Nähe zwischen Ausdruck und Gemeintem?",
+    "Frage: Ist die Beziehung qualitativ statt quantitativ?",
+    "Frage: Könnte das Beispiel ohne Ähnlichkeitsdenken verstanden werden?"
+  ],
+  "evaluation_criteria": [
+    "reale Beziehung klar",
+    "keine Verwechslung mit Metapher",
+    "keine Verwechslung mit Synekdoche",
+    "sprachliche Verdichtung gelungen",
+    "im Kontext sofort nachvollziehbar"
+  ],
+  "tone_fit": [
+    "prophetisch",
+    "liturgisch",
+    "essayistisch",
+    "kompakt pointierend"
+  ],
+  "difficulty_level": "mittel",
+  "tags": [
+    "Tropus",
+    "Metonymie",
+    "Kontiguität",
+    "qualitative Beziehung",
+    "Symbolsprache",
+    "Predigtrhetorik"
+  ],
+  "editorial_notes": "Metonymie bleibt das Hauptlemma. Nebennamen nur in Klammern oder Fußnoten. Wichtigste Projektgrenze: Metonymie strikt von Metapher und Synekdoche trennen."
+}

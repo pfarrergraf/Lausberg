@@ -1,0 +1,57 @@
+{
+  "id": "anapher",
+  "figure_name_de": "Anapher",
+  "figure_name_original": [
+    {
+      "language": "griechisch",
+      "term": "anaphora"
+    },
+    {
+      "language": "latein",
+      "term": "anaphora"
+    }
+  ],
+  "category": "wiederholungsfigur",
+  "definition_precise": "",
+  "definition_simple": "",
+  "formal_pattern": "",
+  "semantic_function": "",
+  "distinguish_from": [],
+  "lausberg_reference": "",
+  "classical_examples": [
+    {
+      "original_language": "",
+      "original_text": "",
+      "translation_de": "",
+      "source": "",
+      "notes": ""
+    }
+  ],
+  "modern_examples": [
+    {
+      "text": "",
+      "domain": "alltag",
+      "notes": ""
+    }
+  ],
+  "sermon_examples": [
+    {
+      "text": "",
+      "purpose": "eindringlichkeit",
+      "audience": "gemeinde",
+      "notes": ""
+    }
+  ],
+  "effects": [],
+  "best_use_cases": [],
+  "avoid_when": [],
+  "common_confusions": [],
+  "negative_examples": [],
+  "generation_rules": [],
+  "recognition_rules": [],
+  "evaluation_criteria": [],
+  "tone_fit": [],
+  "difficulty_level": "",
+  "tags": [],
+  "editorial_notes": ""
+}

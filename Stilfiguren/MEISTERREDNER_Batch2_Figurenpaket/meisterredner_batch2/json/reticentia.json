@@ -1,0 +1,111 @@
+{
+  "id": "reticentia",
+  "figure_name_de": "Reticentia",
+  "figure_name_original": [
+    {
+      "language": "Griechisch",
+      "term": "ἀποσιώπησις"
+    },
+    {
+      "language": "Latein",
+      "term": "reticentia / aposiopesis"
+    }
+  ],
+  "category": "Gedankenfigur / Satzabbruch",
+  "definition_precise": "Die Reticentia ist die kenntlich gemachte Auslassung eines begonnenen Gedankens durch Satzabbruch. Lausberg versteht sie als Aposiopese: Der Sprecher bricht sichtbar ab, sodass das Ungesagte als Affekt, Scheu oder Berechnung mitgehört wird.",
+  "definition_simple": "Ein Satz wird absichtlich abgebrochen, damit das Ungesagte wirkt.",
+  "formal_pattern": "begonnener Satz -> Abbruch / Gedankenstrich / Schweigen",
+  "semantic_function": "Die Figur steigert Affekt, Scham, Drohung oder Rücksicht. Das Publikum ergänzt die ausgesparte Aussage und erlebt gerade dadurch deren Schärfe.",
+  "distinguish_from": [
+    "Ellipsis: grammatische Auslassung ohne dramatisch markierten Abbruch.",
+    "Praeteritio: behauptetes Übergehen eines Themas.",
+    "Aposiopesis: meist als griechisch-lateinischer Parallelterminus derselben Figur."
+  ],
+  "lausberg_reference": "Lausberg §§ 887-889.",
+  "classical_examples": [
+    {
+      "original_language": "Latein",
+      "original_text": "quos ego - sed motos praestat componere fluctus.",
+      "translation_de": "Euch werde ich - doch besser ist es, die aufgewühlten Fluten zu beruhigen.",
+      "source": "Vergil, Aeneis 1,135; bei Quintilian 9,2,54",
+      "notes": "Affekt-Aposiopese: der Zorn bricht ab."
+    },
+    {
+      "original_language": "Latein",
+      "original_text": "praecisio est, cum dictis quibus reliquum, quod coeptum est dici, relinquitur inchoatum.",
+      "translation_de": "Eine Praecisio liegt vor, wenn nach bereits Gesagtem der Rest dessen, was begonnen wurde, unausgesprochen im Anfangsstadium bleibt.",
+      "source": "Rhetorica ad Herennium 4,30,41",
+      "notes": "Knappe Definition des abgebrochenen Satzes."
+    }
+  ],
+  "modern_examples": [
+    {
+      "text": "Wenn du weiter so lebst, dann ...",
+      "domain": "Mahnung / Gespräch",
+      "notes": "Das Ungesagte trägt die Drohung."
+    },
+    {
+      "text": "Ich könnte jetzt viel über die Nacht sagen - aber du weißt es selbst.",
+      "domain": "Predigt / Seelsorge",
+      "notes": "Schweigen als Mitrede des Hörers."
+    }
+  ],
+  "sermon_examples": [
+    {
+      "text": "Und wenn Christus dich nicht hielte - nein, ich will es gar nicht zu Ende sagen.",
+      "purpose": "Ernst und Demut",
+      "audience": "Gemeinde",
+      "notes": "Abbruch erzeugt theologische Beklemmung."
+    },
+    {
+      "text": "Was ohne Gnade aus deinem Leben würde ... aber gerade deshalb predigen wir Christus.",
+      "purpose": "Evangelische Wendung",
+      "audience": "Gottesdienst",
+      "notes": "Reticentia mit Umbruch ins Evangelium."
+    }
+  ],
+  "effects": [
+    "Affekt",
+    "Drohung",
+    "Scheu",
+    "Emphase"
+  ],
+  "best_use_cases": [
+    "warnende Passagen",
+    "Zorn",
+    "heilige Scheu",
+    "dramatische Wendepunkte"
+  ],
+  "avoid_when": [
+    "Wenn der Abbruch künstlich und melodramatisch wirkt.",
+    "Wenn das Publikum das Ungesagte nicht sinnvoll ergänzen kann."
+  ],
+  "common_confusions": [
+    "Ellipsis",
+    "Praeteritio"
+  ],
+  "negative_examples": [],
+  "generation_rules": [
+    "Einen Satz mit starker Erwartung ansetzen.",
+    "Am Punkt höchster Spannung abbrechen.",
+    "Nur dort einsetzen, wo das Ungesagte wirklich mitgehört wird.",
+    "Oft mit anschließender Wendung zurück zur Sache verbinden."
+  ],
+  "recognition_rules": [],
+  "evaluation_criteria": [],
+  "tone_fit": [
+    "dramatisch",
+    "erschüttert",
+    "warnend"
+  ],
+  "difficulty_level": "mittel",
+  "tags": [
+    "Schweigen",
+    "Affekt"
+  ],
+  "editorial_notes": "Lausberg-Stelle per OCR gut erschlossen; französische und lateinische Beispiele wurden nur sparsam übernommen.",
+  "memory_lines": [
+    "Reticentia sagt gerade durch ihr Schweigen.",
+    "Der Abbruch ist nur dann stark, wenn das Ungesagte größer ist als das Gesagte."
+  ]
+}

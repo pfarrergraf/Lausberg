@@ -1,0 +1,127 @@
+{
+  "id": "asyndeton",
+  "figure_name_de": "Asyndeton",
+  "figure_name_original": [
+    {
+      "language": "Griechisch",
+      "term": "ἀσύνδετον"
+    },
+    {
+      "language": "Latein",
+      "term": "dissolutio / inconexio / asyndeton"
+    }
+  ],
+  "category": "Verbindungslose Reihung / Wortgruppenfigur",
+  "definition_precise": "Das Asyndeton ist die Verbindungslosigkeit koordinierter Glieder, also die Reihung ohne Konjunktionen. Lausberg unterscheidet nominale und verbale Asyndeta sowie Einzelwort- und Wortgruppen-Asyndeta.",
+  "definition_simple": "Mehrere Glieder stehen ohne Bindewörter hintereinander.",
+  "formal_pattern": "a, b, c",
+  "semantic_function": "Beschleunigung, Verdichtung, affektive Härte, Schlagkraft und eindringliche Aufzählung.",
+  "distinguish_from": [
+    "Polysyndeton: die Reihung wird gerade durch viele Konjunktionen getragen.",
+    "Adiunctio / Disiunctio: terminologische Untertypen bei Wortgruppen.",
+    "Brachylogia: Kürze ist nicht identisch mit Konjunktionslosigkeit."
+  ],
+  "lausberg_reference": "Lausberg §§ 709–711",
+  "classical_examples": [
+    {
+      "label": "Latein",
+      "original": "aera, manus, navalia demus",
+      "translation": "Lasst uns Bronze, Hände, Schiffsgerät geben.",
+      "note": "Nominales Einzelwort-Asyndeton."
+    },
+    {
+      "label": "Latein",
+      "original": "haec eadem, Aenea, terram, mare, sidera iuro",
+      "translation": "Dies alles, Aeneas, schwöre ich bei Erde, Meer, Gestirnen.",
+      "note": "Feierliche asyndetische Aufzählung."
+    },
+    {
+      "label": "Latein",
+      "original": "quid vesper serus vehat, unde serenas ventus agat nubes, quid cogitet humidus auster",
+      "translation": "Was der späte Abend bringt, woher der Wind die heiteren Wolken treibt, was der feuchte Südwind im Sinn hat.",
+      "note": "Verbales Wortgruppen-Asyndeton."
+    }
+  ],
+  "modern_examples": [
+    {
+      "text": "Druck. Termine. Müdigkeit. Reizbarkeit. Kein Atem.",
+      "domain": "Seelsorge / Alltag",
+      "notes": "Stakkatoartige Zustandszeichnung."
+    },
+    {
+      "text": "Hören, prüfen, entscheiden, handeln.",
+      "domain": "Leitung / Teamkommunikation",
+      "notes": "Verbales Asyndeton."
+    }
+  ],
+  "sermon_examples": [
+    {
+      "text": "Staub. Blut. Schweigen. Spott. Und mitten darin: Liebe.",
+      "purpose": "Passionspredigt",
+      "audience": "Gemeinde",
+      "notes": "Harte Bildsplitter vor evangelischem Gegenschlag."
+    },
+    {
+      "text": "Brot. Kelch. Verheißung. Gegenwart.",
+      "purpose": "Abendmahl",
+      "audience": "Gemeinde",
+      "notes": "Kurzes liturgisches Asyndeton."
+    }
+  ],
+  "effects": [
+    "Tempo",
+    "Härte",
+    "Dichte",
+    "Druck",
+    "affektive Beschleunigung"
+  ],
+  "best_use_cases": [
+    "Passionsbilder",
+    "emotionale Verdichtung",
+    "kurze Zustandsdiagnosen",
+    "Schlagreihen im Appell"
+  ],
+  "avoid_when": [
+    "Wenn die Reihe inhaltlich ungeordnet ist.",
+    "Wenn zu viele Glieder den Fokus verwässern."
+  ],
+  "common_confusions": [
+    "Polysyndeton",
+    "bloße Liste",
+    "Adiunctio/Disiunctio"
+  ],
+  "negative_examples": [
+    "Reihung mit ständigem und.",
+    "Beliebige Stichwortliste ohne innere Richtung."
+  ],
+  "generation_rules": [
+    "Bindewörter bewusst streichen.",
+    "Glieder nach Steigerung oder Bildlogik ordnen.",
+    "Kurze, sprechbare Elemente bevorzugen.",
+    "Bei längeren Reihen einen Gegenschlag setzen."
+  ],
+  "recognition_rules": [
+    "Koordinierte Glieder ohne Konjunktion.",
+    "Wirkung beruht auf Verkürzung der Verknüpfung."
+  ],
+  "evaluation_criteria": [
+    "keine Bindewörter",
+    "innere Ordnung",
+    "hörbares Tempo",
+    "prägnante Kürze"
+  ],
+  "tone_fit": [
+    "drängend",
+    "dramatisch",
+    "nüchtern-diagnostisch",
+    "poetisch verdichtend"
+  ],
+  "difficulty_level": "mittel",
+  "tags": [
+    "Reihung",
+    "Verknappung",
+    "Tempo",
+    "Passion"
+  ],
+  "editorial_notes": "Der OCR-Scan enthält auch Anastrophe; hier wurde nur der asyndetische Hauptblock ausgewertet."
+}

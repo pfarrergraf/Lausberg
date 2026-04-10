@@ -1,0 +1,35 @@
+{
+  "id": "metapher_lausberg",
+  "figure_name_de": "Metapher",
+  "figure_name_original": [
+    {
+      "language": "Griechisch",
+      "term": "μεταφορά"
+    },
+    {
+      "language": "Latein",
+      "term": "translatio"
+    }
+  ],
+  "category": "Tropus",
+  "definition_precise": "Übertragung eines Ausdrucks aus seinem eigentlichen Bedeutungsbereich in einen anderen aufgrund einer Analogie.",
+  "definition_simple": "Ein Wort wird bildhaft in einen anderen Zusammenhang übertragen.",
+  "formal_pattern": "A wird als B gesetzt (ohne Vergleichspartikel)",
+  "semantic_function": "Veranschaulichung, Verdichtung, affektive Aktivierung",
+  "distinguish_from": [
+    "Vergleich",
+    "Allegorie",
+    "Katakrese"
+  ],
+  "lausberg_reference": "§558–564",
+  "effects": [
+    "Veranschaulichung",
+    "Affekt",
+    "Publikumsaktivierung"
+  ],
+  "difficulty_level": "mittel",
+  "tags": [
+    "Tropus",
+    "Metapher"
+  ]
+}

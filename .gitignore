@@ -4,4 +4,7 @@
 venv
 /pdf
 /Seiten*
-*.json
+
+*.env
+*.zip
+*.png

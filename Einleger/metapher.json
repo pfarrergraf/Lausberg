@@ -1,0 +1,145 @@
+{
+  "id": "metapher",
+  "figure_name_de": "Metapher",
+  "figure_name_original": [
+    "μεταφορά",
+    "metaphora",
+    "translatio"
+  ],
+  "category": "Tropus",
+  "definition_precise": "Übertragung eines Ausdrucks aus seinem eigentlichen Bedeutungsbereich in einen anderen Bereich aufgrund von Ähnlichkeit oder Analogie; Grundform der Bedeutungsverschiebung.",
+  "definition_simple": "Ein Wort oder Ausdruck wird bildhaft in einen anderen Zusammenhang übertragen, ohne dass ein Vergleichspartikel gesetzt wird.",
+  "formal_pattern": "A wird durch B ersetzt; implizite Analogie statt explizitem Vergleich.",
+  "semantic_function": "Veranschaulichung, Verdichtung, Affektsteigerung, Aktivierung der Mitdeutung des Hörers.",
+  "distinguish_from": [
+    {
+      "figure": "Vergleich / similitudo",
+      "difference": "Vergleich nennt die Analogie explizit; Metapher verkürzt und impliziert sie."
+    },
+    {
+      "figure": "Allegorie",
+      "difference": "Allegorie ist eine fortgesetzte, systematisch ausgebaute Metaphernkette."
+    },
+    {
+      "figure": "Katakrese",
+      "difference": "Katakrese ist die notwendige bzw. lexicalisierte Metapher, wenn ein eigentliches Wort fehlt oder verbraucht ist."
+    },
+    {
+      "figure": "Personifikation",
+      "difference": "Personifikation ist eine besonders eindringliche Form der verlebendigten Metapher."
+    }
+  ],
+  "lausberg_reference": "Lausberg, §§ 558–564 (Metapher / metaphora, translatio)",
+  "subtypes": [
+    "Genus → Species",
+    "Species → Genus",
+    "Species → Species",
+    "Analogie (Hauptfall)"
+  ],
+  "classical_examples": [
+    {
+      "original_language": "Latein",
+      "original_text": "metaphora brevior est similitudo",
+      "translation_de": "Die Metapher ist ein verkürzter Vergleich.",
+      "source": "Quintilian, nach Lausberg",
+      "notes": "Grundformel der Abgrenzung zur similitudo."
+    }
+  ],
+  "modern_examples": [
+    {
+      "text": "Die Angst ist ein Raum ohne Luft.",
+      "domain": "Seelsorge",
+      "notes": "affektive Zustandsmetapher"
+    },
+    {
+      "text": "Der Druck ist ein Taktgeber, der dein Leben kolonisiert.",
+      "domain": "Gegenwart / Alltag",
+      "notes": "soziale und existentielle Verdichtung"
+    },
+    {
+      "text": "Die Gemeinde ist kein Publikum; sie ist ein Leib.",
+      "domain": "Gemeinde",
+      "notes": "ekklesiologische Metapher"
+    }
+  ],
+  "sermon_examples": [
+    {
+      "text": "Das Kreuz ist kein Holzereignis; es ist Gericht, Lastaufnahme, Königszeichen, Weltenachse.",
+      "purpose": "Karfreitag",
+      "audience": "Gemeinde",
+      "notes": "Metapher + Synonymia"
+    },
+    {
+      "text": "Das Grab ist eine widerlegte Behauptung.",
+      "purpose": "Ostern",
+      "audience": "Gemeinde",
+      "notes": "pointierte ontologische Metapher"
+    },
+    {
+      "text": "Dein Herz ist belagerte Stadt.",
+      "purpose": "Bußpredigt",
+      "audience": "Gemeinde / Jugend",
+      "notes": "Kampfmetaphorik"
+    }
+  ],
+  "effects": [
+    "lässt abstrakte Inhalte sehen",
+    "verdichtet komplexe Sachverhalte",
+    "erhöht Affekt und Einprägsamkeit",
+    "fordert das Publikum zur Mitdeutung heraus"
+  ],
+  "best_use_cases": [
+    "Predigtkernthesen",
+    "theologische Verdichtung",
+    "Einleitung oder Wendepunkt",
+    "Seelsorge und prophetische Zuspitzung"
+  ],
+  "avoid_when": [
+    "die Analogie unklar bleibt",
+    "Bildfelder unkontrolliert gemischt werden",
+    "nur tote Metaphern verwendet werden",
+    "das Bild die Sache verdeckt statt erschließt"
+  ],
+  "common_confusions": [
+    "Vergleich",
+    "bloße Bildlichkeit ohne tragfähige Übertragung",
+    "Allegorie",
+    "Personifikation"
+  ],
+  "negative_examples": [
+    "mehrere unverbundene Bildfelder im selben Satz",
+    "dekorative Metaphern ohne funktionalen Gewinn"
+  ],
+  "generation_rules": [
+    "abstrakten Zielbegriff bestimmen",
+    "konkretes Erfahrungsfeld wählen",
+    "Analogie explizit prüfen, aber im Satz implizit lassen",
+    "zuerst knapp setzen, dann ggf. periphrastisch oder narrativ ausbauen"
+  ],
+  "recognition_rules": [
+    "kein Vergleichspartikel",
+    "Bedeutungsübertragung aus fremdem Feld",
+    "tragfähige Analogie zwischen Bildträger und Sache"
+  ],
+  "evaluation_criteria": [
+    "Trägt die Analogie?",
+    "Ist das Bild frisch oder wenigstens reaktiviert?",
+    "Steigert die Metapher das Verstehen und die Affektwirkung?",
+    "Bleibt das Bildfeld konsistent?"
+  ],
+  "tone_fit": [
+    "bildstark",
+    "würdig",
+    "predigtfähig",
+    "verdichtend"
+  ],
+  "difficulty_level": "mittel",
+  "tags": [
+    "Tropus",
+    "Lausberg",
+    "Grundfigur",
+    "Predigt",
+    "Bildfeld"
+  ],
+  "editorial_notes": "Für das Kompendium sollte zusätzlich ein Feld 'freshness_level' (frisch / habitualisiert / tot) erwogen werden."
+}

@@ -1,0 +1,135 @@
+{
+  "id": "antitheton",
+  "figure_name_de": "Antitheton",
+  "figure_name_original": [
+    {
+      "language": "Griechisch",
+      "term": "ἀντίθεσις"
+    },
+    {
+      "language": "Latein",
+      "term": "antitheton / antithesis"
+    }
+  ],
+  "category": "Semantische Figur / Gegensatzfigur",
+  "definition_precise": "Das Antitheton stellt Gegensätzliches in paralleler oder isokolischer Form einander gegenüber. Die formale Gleichheit der Glieder steigert gerade den inhaltlichen Gegensatz.",
+  "definition_simple": "Gegensätze werden scharf und parallel nebeneinander gesetzt.",
+  "formal_pattern": "A – B / hinc … illinc … / nicht x, sondern y",
+  "semantic_function": "Klärung, Entscheidung, Zuspitzung, Argumentationsdruck und starke Einprägsamkeit.",
+  "distinguish_from": [
+    "Oxymoron: Gegensatz im engen Wortverbund.",
+    "Correctio: Zurücknahme einer Aussage zugunsten einer stärkeren.",
+    "Comparatio: Vergleich statt Gegenüberstellung.",
+    "Commutatio: invertierte Wiederholung derselben Stämme."
+  ],
+  "lausberg_reference": "Lausberg §§ 787–793",
+  "classical_examples": [
+    {
+      "label": "Latein",
+      "original": "vicit pudorem libido, timorem audacia",
+      "translation": "Die Begierde besiegte die Scham, die Kühnheit die Furcht.",
+      "note": "Mehrfache koordinierte Einzelwort-Antithese."
+    },
+    {
+      "label": "Latein",
+      "original": "frigida pugnabant calidis, humentia siccis, mollia cum duris",
+      "translation": "Kalte stritten mit Warmem, Feuchtes mit Trockenem, Weiches mit Hartem.",
+      "note": "Ovidisches Muster der antithetischen Gegenpaarung."
+    },
+    {
+      "label": "Latein",
+      "original": "contra malum bonum, contra mortem vita",
+      "translation": "Gegen das Böse das Gute, gegen den Tod das Leben.",
+      "note": "Theologisch anschlussfähige Kontrastbildung."
+    },
+    {
+      "label": "Französisch",
+      "original": "Fier ennemi de Rome, et de Rome estimé.",
+      "translation": "Stolzer Feind Roms – und von Rom geachtet.",
+      "note": "Knappe französische Antithese."
+    }
+  ],
+  "modern_examples": [
+    {
+      "text": "Nicht Aufmerksamkeit fehlt uns, sondern Sammlung.",
+      "domain": "Rede / Kommentar",
+      "notes": "Einfaches nicht-sondern-Muster."
+    },
+    {
+      "text": "Wir verwalten Programme, aber verlieren Personen.",
+      "domain": "Gemeindeleitung",
+      "notes": "Antithese mit Leitungskritik."
+    }
+  ],
+  "sermon_examples": [
+    {
+      "text": "Nicht die Nacht trägt das letzte Wort – das Licht Christi trägt es.",
+      "purpose": "Osterpredigt",
+      "audience": "Gemeinde",
+      "notes": "Evangelische Finalantithese."
+    },
+    {
+      "text": "Nicht dein Versagen definiert dich, sondern die Treue Gottes.",
+      "purpose": "Seelsorge",
+      "audience": "Belastete Hörer",
+      "notes": "Tröstende Antithese."
+    }
+  ],
+  "effects": [
+    "Schärfung",
+    "Entscheidung",
+    "Klarheit",
+    "Merkfähigkeit",
+    "dialektischer Druck"
+  ],
+  "best_use_cases": [
+    "Kernthesen",
+    "Schlusssätze",
+    "prophetische Kontraste",
+    "evangelische Entlastungssätze"
+  ],
+  "avoid_when": [
+    "Wenn der Sachverhalt nicht wirklich binär ist.",
+    "Wenn zu viele Antithesen die Rede schematisch machen."
+  ],
+  "common_confusions": [
+    "Oxymoron",
+    "Correctio",
+    "bloßer Vergleich"
+  ],
+  "negative_examples": [
+    "Zwei Aussagen ohne echte Gegensätzlichkeit.",
+    "Parallelismus ohne Gegensatzinhalt."
+  ],
+  "generation_rules": [
+    "Kontrastpartner präzise bestimmen.",
+    "Form möglichst parallel halten.",
+    "Das stärkere Glied ans Ende setzen.",
+    "Inhaltlich erden, nicht nur formal spiegeln."
+  ],
+  "recognition_rules": [
+    "Gegensinn liegt im Inhalt.",
+    "Formale Balance oder Parallelität ist hörbar.",
+    "Kontrast dient Sinnschärfung."
+  ],
+  "evaluation_criteria": [
+    "echter Gegensatz",
+    "saubere Parallelität",
+    "Schlussdruck",
+    "keine bloße Dekoration"
+  ],
+  "tone_fit": [
+    "prophetisch",
+    "lehrhaft",
+    "polemisch",
+    "tröstend"
+  ],
+  "difficulty_level": "mittel",
+  "tags": [
+    "Gegensatz",
+    "Semantik",
+    "Isocolon",
+    "Entscheidung"
+  ],
+  "editorial_notes": "Die beiden Antitheton-Scans wurden zusammen gelesen, weil sie denselben Abschnitt ergänzen."
+}

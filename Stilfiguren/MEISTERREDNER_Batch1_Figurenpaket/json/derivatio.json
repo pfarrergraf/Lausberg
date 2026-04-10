@@ -1,0 +1,134 @@
+{
+  "id": "derivatio",
+  "figure_name_de": "Derivatio",
+  "figure_name_original": [
+    {
+      "language": "Latein",
+      "term": "derivatio"
+    },
+    {
+      "language": "Latein",
+      "term": "figura etymologica (nahverw.)"
+    }
+  ],
+  "category": "Stammwiederholung / Wortfamilienfigur",
+  "definition_precise": "Die Derivatio ist die Wiederholung durch Ableitung: nicht dasselbe Wort kehrt wieder, sondern ein etymologisch oder stammmäßig verwandtes. Lausberg fasst sie als gelockerte Gleichheit des Wortkörpers innerhalb der Wortwiederholung.",
+  "definition_simple": "Dieselbe Wortwurzel erscheint in verschiedenen Ableitungen.",
+  "formal_pattern": "Stamm a → a1 / a2 / a3",
+  "semantic_function": "semantische Aufhellung, Verstärkung, Wortfamilien-Effekt, oft etymologischer Nachdruck.",
+  "distinguish_from": [
+    "Traductio: identisches Wort wird wiederholt.",
+    "Polyptoton: identisches Wort mit anderer Flexion.",
+    "Annominatio: Klangnähe ohne sichere Wortfamilie.",
+    "Distinctio: Bedeutung wird differenziert, nicht primär abgeleitet."
+  ],
+  "lausberg_reference": "Lausberg § 648 (Übergang zu § 649)",
+  "classical_examples": [
+    {
+      "label": "Latein",
+      "original": "voce vocans Hecaten",
+      "translation": "mit der Stimme Hekate rufend",
+      "note": "Klassische etymologische Stammwiederholung."
+    },
+    {
+      "label": "Latein",
+      "original": "ire iter",
+      "translation": "einen Weg gehen / eine Reise gehen",
+      "note": "Formelhafte figura-etymologica-Nähe."
+    },
+    {
+      "label": "Latein",
+      "original": "homo sum, humani nihil a me alienum puto",
+      "translation": "Ich bin ein Mensch; nichts Menschliches halte ich für mir fremd.",
+      "note": "Berühmtes Beispiel mit Stammnähe homo / humani."
+    },
+    {
+      "label": "Latein",
+      "original": "omnibus vinclis devinctam",
+      "translation": "mit allen Fesseln gebunden.",
+      "note": "Ableitungsdruck durch vinclis / devinctam."
+    }
+  ],
+  "modern_examples": [
+    {
+      "text": "Wer nur Leistung leistet, verlernt am Ende das Leben.",
+      "domain": "Kommentar / Predigt",
+      "notes": "Wortfamilien-Spiel mit semantischer Schärfung."
+    },
+    {
+      "text": "Aus Bindung kann Verbundenheit werden – oder Verbundenheit kann zur Bindung verarmen.",
+      "domain": "Seelsorge",
+      "notes": "Ableitungsfamilie mit Bedeutungsbewegung."
+    }
+  ],
+  "sermon_examples": [
+    {
+      "text": "Du willst das Leben sichern und verlierst dabei das Lebendige.",
+      "purpose": "geistliche Diagnose",
+      "audience": "Gemeinde",
+      "notes": "Wortfamilie Leben / lebendig."
+    },
+    {
+      "text": "Gott rechtfertigt nicht nur Recht – er richtet auf, was recht werden soll.",
+      "purpose": "Lehrpredigt",
+      "audience": "Erwachsene",
+      "notes": "Stammfamilie recht / rechtfertigen / recht werden."
+    }
+  ],
+  "effects": [
+    "Wortfamilien-Echo",
+    "semantische Verdichtung",
+    "Merkfähigkeit",
+    "etymologische Tiefenschärfe"
+  ],
+  "best_use_cases": [
+    "Lehrsätze",
+    "theologische Begriffsentfaltung",
+    "kurze Merksätze",
+    "Wortfeldpredigt"
+  ],
+  "avoid_when": [
+    "Wenn die Wortfamilie künstlich wirkt.",
+    "Wenn Ableitungen nur formal, nicht inhaltlich tragen."
+  ],
+  "common_confusions": [
+    "Traductio",
+    "Polyptoton",
+    "Annominatio"
+  ],
+  "negative_examples": [
+    "Bloß identisches Wort ohne Ableitung.",
+    "Klangähnlichkeit ohne Wortfamilie."
+  ],
+  "generation_rules": [
+    "Eine tragfähige Wortfamilie wählen.",
+    "Semantische Nuancen der Ableitungen nutzen.",
+    "Ableitungen nicht bloß häufen, sondern führen.",
+    "Bedeutungsgewinn hörbar machen."
+  ],
+  "recognition_rules": [
+    "Stammverwandtschaft erkennbar",
+    "nicht identisches Wort",
+    "Wirkung beruht auf Ableitungsnähe"
+  ],
+  "evaluation_criteria": [
+    "Wortfamilie klar",
+    "Nuancen unterscheiden sich",
+    "keine bloße Spielerei",
+    "sprechbar"
+  ],
+  "tone_fit": [
+    "lehrhaft",
+    "meditativ",
+    "merksatzartig",
+    "poetisch"
+  ],
+  "difficulty_level": "hoch",
+  "tags": [
+    "Wortfamilie",
+    "figura etymologica",
+    "Ableitung",
+    "Semantik"
+  ],
+  "editorial_notes": "Die Scanseite führt von traductio zu derivatio; hier wurde die derivatio als Hauptfigur übernommen."
+}

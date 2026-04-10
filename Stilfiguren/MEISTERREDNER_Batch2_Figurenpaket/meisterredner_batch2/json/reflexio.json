@@ -1,0 +1,112 @@
+{
+  "id": "reflexio",
+  "figure_name_de": "Reflexio",
+  "figure_name_original": [
+    {
+      "language": "Griechisch",
+      "term": "ἀντανάκλασις"
+    },
+    {
+      "language": "Latein",
+      "term": "reflexio"
+    }
+  ],
+  "category": "Dialogische Distinctio",
+  "definition_precise": "Die Reflexio ist nach Lausberg eine Distinctio in Dialogform: Ein vom ersten Sprecher verwendetes Wort wird vom zweiten Sprecher aufgenommen, aber in verändertem, parteiisch-emphatischem Sinn zurückgespiegelt.",
+  "definition_simple": "Ein Wort wird im Dialog aufgegriffen und mit anderer Bedeutung zurückgegeben.",
+  "formal_pattern": "Sprecher A: Wort X -> Sprecher B: Wort X in verschobenem Sinn",
+  "semantic_function": "Reflexio schärft Witz, Gegenschlag und intellektuelle Wendung. Sie lebt vom überraschenden Bedeutungsumschlag desselben Ausdrucks im Antwortzug.",
+  "distinguish_from": [
+    "Distinctio: Bedeutungsunterscheidung desselben Wortes ohne notwendige Dialogform.",
+    "Paronomasie: Spiel mit ähnlichen, nicht identischen Wortkörpern.",
+    "Traductio: Wiedergebrauch desselben Wortes in fortlaufender Rede, nicht zwingend dialogisch."
+  ],
+  "lausberg_reference": "Lausberg §§ 663-664.",
+  "classical_examples": [
+    {
+      "original_language": "Latein",
+      "original_text": "immo, inquit, rogo exspectes.",
+      "translation_de": "Im Gegenteil, sagte er, ich bitte dich geradezu, zu warten.",
+      "source": "Quintilian 9,3,68 im Proculeius-Beispiel",
+      "notes": "Das Wort exspectare kippt vom harmlosen zum bedrohlichen Sinn."
+    },
+    {
+      "original_language": "Latein",
+      "original_text": "hoc schema fieri solet, cum id quod ab altero dictum est, non in eam mentem quae intellegitur, sed in aliam aut contrariam accipitur.",
+      "translation_de": "Diese Figur entsteht, wenn das, was der eine gesagt hat, nicht in dem Sinn aufgenommen wird, der gemeint war, sondern in einem anderen oder gegenteiligen Sinn.",
+      "source": "Rutilius Lupus 1,5",
+      "notes": "Klassische Funktionsbeschreibung."
+    }
+  ],
+  "modern_examples": [
+    {
+      "text": "A: Ich brauche nur Freiheit. - B: Freiheit? Du meinst gerade deine Lizenz zum Davonlaufen.",
+      "domain": "Dialog / Predigt",
+      "notes": "Antwort nimmt das Wort gegensinnig auf."
+    },
+    {
+      "text": "A: Ich warte auf den richtigen Zeitpunkt. - B: Auf den Zeitpunkt? Oder auf den Vorwand, nichts zu ändern?",
+      "domain": "Seelsorge",
+      "notes": "Dialogischer Bedeutungsumschlag."
+    }
+  ],
+  "sermon_examples": [
+    {
+      "text": "Du sagst: Ich suche Frieden. Christus fragt zurück: Frieden - oder nur Ruhe ohne Umkehr?",
+      "purpose": "Gewissensschärfung",
+      "audience": "Gemeinde",
+      "notes": "Das Schlüsselwort wird im zweiten Zug neu belichtet."
+    },
+    {
+      "text": "Einer sagt: Ich will frei sein. Die Predigt antwortet: Frei - wovon, und frei wozu?",
+      "purpose": "Predigtlicher Dialog",
+      "audience": "Jugend / Erwachsene",
+      "notes": "Reflexio-nahe Umprägung des Leitworts."
+    }
+  ],
+  "effects": [
+    "Witz",
+    "Schärfung",
+    "Gegenschlag",
+    "Bedeutungsumschlag"
+  ],
+  "best_use_cases": [
+    "Dialogpredigt",
+    "Gewissensfragen",
+    "Streitgespräch",
+    "apologetische Zuspitzung"
+  ],
+  "avoid_when": [
+    "Wenn der Bedeutungswechsel zu unklar bleibt.",
+    "Wenn bloß dasselbe Wort mechanisch wiederholt wird."
+  ],
+  "common_confusions": [
+    "Distinctio",
+    "Paronomasie",
+    "Traductio"
+  ],
+  "negative_examples": [],
+  "generation_rules": [
+    "Ein mehrdeutiges oder stark belastbares Wort wählen.",
+    "Ersten und zweiten Sprechzug klar trennen.",
+    "Der zweite Zug muss den Sinn sichtbar verschieben.",
+    "Am besten knapp und schlagend formulieren."
+  ],
+  "recognition_rules": [],
+  "evaluation_criteria": [],
+  "tone_fit": [
+    "pointiert",
+    "dialogisch",
+    "ironisch"
+  ],
+  "difficulty_level": "hoch",
+  "tags": [
+    "Dialog",
+    "Distinctio"
+  ],
+  "editorial_notes": "Aus OCR erschlossene Lausberg-Stelle; dialogische Struktur besonders wichtig.",
+  "memory_lines": [
+    "Reflexio lebt vom Zurückspiegeln.",
+    "Dasselbe Wort, anderer Schlag."
+  ]
+}

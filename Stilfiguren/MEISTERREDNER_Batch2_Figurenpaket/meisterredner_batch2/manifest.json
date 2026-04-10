@@ -1,0 +1,48 @@
+{
+  "batch": "Batch 2",
+  "figures": [
+    "brachylogia",
+    "commoratio",
+    "detractio",
+    "disiunctio",
+    "epiphora",
+    "reflexio",
+    "reticentia",
+    "traductio"
+  ],
+  "docx_files": [
+    "Brachylogia_Einleger_Tiefgang_A4_v1.docx",
+    "Commoratio_Einleger_Tiefgang_A4_v1.docx",
+    "Detractio_Einleger_Tiefgang_A4_v1.docx",
+    "Disiunctio_Einleger_Tiefgang_A4_v1.docx",
+    "Epiphora_Einleger_Tiefgang_A4_v1.docx",
+    "Reflexio_Einleger_Tiefgang_A4_v1.docx",
+    "Reticentia_Einleger_Tiefgang_A4_v1.docx",
+    "Traductio_Einleger_Tiefgang_A4_v1.docx"
+  ],
+  "json_files": [
+    "brachylogia.json",
+    "commoratio.json",
+    "detractio.json",
+    "disiunctio.json",
+    "epiphora.json",
+    "reflexio.json",
+    "reticentia.json",
+    "traductio.json"
+  ],
+  "ocr_files": [
+    "brachylogia_Brachylogia, Praeteritio - KM_C301i26040911070.txt",
+    "commoratio_Commoratio, Exploitatio, De eadem re dicendo, Commutatio verborum - KM_C301i26040911030.txt",
+    "detractio_Detractio, Zeugma - KM_C301i26040910510.txt",
+    "disiunctio_Disiunctio - KM_C301i26040910550.txt",
+    "epiphora_Epiphora, Complexio - KM_C301i26040910450.txt",
+    "reflexio_Reflexio - KM_C301i26040910490.txt",
+    "reticentia_Reticentia, Aposiopesis - KM_C301i26040911071.txt",
+    "traductio_Traductio, Distinctio - KM_C301i26040910480.txt"
+  ],
+  "qa": {
+    "docx_rendered_successfully": true,
+    "pages_rendered": 14,
+    "visual_review": "limited_environment_spot_check_only"
+  }
+}

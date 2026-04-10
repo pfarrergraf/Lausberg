@@ -1,0 +1,19 @@
+{
+  "package_name": "metapher_compendium_packet",
+  "figure_id": "metapher",
+  "generated_files": [
+    "Metapher_Einleger_Tiefgang_A4_v1.docx",
+    "metapher.json",
+    "metapher_examples.json",
+    "metapher_compendium_packet.json",
+    "metapher_readme.md"
+  ],
+  "intended_use": [
+    "MEISTERREDNER-Einleger",
+    "Korpusaufbau",
+    "RAG / Retrieval",
+    "Generatoren und Bewertungsagenten"
+  ],
+  "source_basis": "Metapher.pdf (Lausberg-Auszug, 4 Seiten)",
+  "status": "draft_v1"
+}

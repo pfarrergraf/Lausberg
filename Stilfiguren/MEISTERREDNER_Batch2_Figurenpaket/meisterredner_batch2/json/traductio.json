@@ -1,0 +1,107 @@
+{
+  "id": "traductio",
+  "figure_name_de": "Traductio",
+  "figure_name_original": [
+    {
+      "language": "Latein",
+      "term": "traductio"
+    }
+  ],
+  "category": "Wiedergebrauch desselben Wortes in neuer Fügung",
+  "definition_precise": "Die Traductio ist der wiederholte Gebrauch desselben Wortes in fortlaufender Rede, wobei die Stellung oder die semantische Beleuchtung wechselt. Sie gehört in die Nähe der Wortwiederholungsfiguren, lebt aber stärker von der Neuverwendung desselben Ausdrucks in veränderter Umgebung.",
+  "definition_simple": "Dasselbe Wort kommt mehrfach wieder und trägt in jeder Setzung einen etwas anderen Akzent.",
+  "formal_pattern": "X ... X ... X in neuer syntaktischer oder semantischer Einbindung",
+  "semantic_function": "Traductio hält einen Leitbegriff fest, führt ihn durch verschiedene Satzlagen und macht ihn durch Wiedergebrauch einprägsam und belastbar.",
+  "distinguish_from": [
+    "Distinctio: derselbe Wortkörper mit ausdrücklich unterschiedlichem Sinn.",
+    "Anaphora/Epiphora: feste Stellung am Anfang oder Ende.",
+    "Polyptoton: Wiederkehr desselben Stamms in verschiedenen Flexionsformen."
+  ],
+  "lausberg_reference": "Lausberg im Umfeld der gelockerten Wortwiederholung; vgl. die Scanseite Traductio/Distinctio.",
+  "classical_examples": [
+    {
+      "original_language": "Französisch",
+      "original_text": "Chaque jour, chaque instant.",
+      "translation_de": "Jeden Tag, jeden Augenblick.",
+      "source": "Corneille, Héraclius 1,1,64; auf der Traductio/Distinctio-Seite",
+      "notes": "Wiederaufnahme mit verschobener Fügung und Zeitverdichtung."
+    },
+    {
+      "original_language": "Französisch",
+      "original_text": "Vous ne donnez qu’un jour, qu’une heure, qu’un moment.",
+      "translation_de": "Ihr gebt nur einen Tag, nur eine Stunde, nur einen Augenblick.",
+      "source": "Racine, Andromaque 4,3,1208; auf der Scanseite",
+      "notes": "Wiederholte Fügung mit zunehmender Verdichtung."
+    }
+  ],
+  "modern_examples": [
+    {
+      "text": "Gnade für den Anfang, Gnade für den Fall, Gnade bis ans Ende.",
+      "domain": "Predigt",
+      "notes": "Leitwort wird durchgeführt."
+    },
+    {
+      "text": "Heute zählt nicht nur Arbeit, heute zählt Ausrichtung, heute zählt Wahrheit.",
+      "domain": "Rede",
+      "notes": "Dasselbe Leitwort in wechselnder Einbindung."
+    }
+  ],
+  "sermon_examples": [
+    {
+      "text": "Christus vor dir, Christus mit dir, Christus über dir.",
+      "purpose": "liturgische Einprägung",
+      "audience": "Gemeinde",
+      "notes": "Leitwort wird mehrfach neu angesetzt."
+    },
+    {
+      "text": "Nicht deine Kraft trägt dich, sondern die Kraft Gottes; und diese Kraft bleibt Kraft auch in der Schwachheit.",
+      "purpose": "Trost",
+      "audience": "Seelsorge",
+      "notes": "Leitwort wird weitergeführt und vertieft."
+    }
+  ],
+  "effects": [
+    "Einprägung",
+    "Leitwortbindung",
+    "rhythmische Führung",
+    "Verdichtung"
+  ],
+  "best_use_cases": [
+    "Leitbegriffspredigt",
+    "Segensformeln",
+    "liturgische Passagen"
+  ],
+  "avoid_when": [
+    "Wenn nur monotone Wiederholung entsteht.",
+    "Wenn die Neuverwendung keinen neuen Akzent setzt."
+  ],
+  "common_confusions": [
+    "Distinctio",
+    "Anaphora",
+    "Polyptoton"
+  ],
+  "negative_examples": [],
+  "generation_rules": [
+    "Ein tragendes Leitwort wählen.",
+    "Es mehrfach in neuer syntaktischer Umgebung setzen.",
+    "Jede neue Setzung soll den Begriff weiterführen, nicht nur verdoppeln.",
+    "Kurze Ketten bevorzugen."
+  ],
+  "recognition_rules": [],
+  "evaluation_criteria": [],
+  "tone_fit": [
+    "liturgisch",
+    "meditativ",
+    "eindringlich"
+  ],
+  "difficulty_level": "mittel",
+  "tags": [
+    "Wiederholung",
+    "Leitwort"
+  ],
+  "editorial_notes": "Best-effort-Fassung; die zugrunde liegende Scanseite ist gemischt mit Synonymie/Distinctio-Material. Traductio wurde deshalb vorsichtig profiliert.",
+  "memory_lines": [
+    "Traductio führt ein Wort durch die Rede.",
+    "Dasselbe Wort bleibt - aber nicht an derselben Stelle stehen."
+  ]
+}

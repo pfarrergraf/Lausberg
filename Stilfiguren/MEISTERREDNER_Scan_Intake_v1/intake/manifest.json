@@ -1,0 +1,250 @@
+[
+  {
+    "pdf_file": "Anaphora - KM_C301i26040910440.pdf",
+    "source_title": "Anaphora",
+    "suggested_main_figure": "Anaphora",
+    "ocr_path": "ocr/Anaphora - KM_C301i26040910440/ocr.txt",
+    "note_crop": "note_crops/Anaphora - KM_C301i26040910440_note.png",
+    "status": "ocr_done"
+  },
+  {
+    "pdf_file": "Annominatio, Polyptoton - KM_C301i26040910460.pdf",
+    "source_title": "Annominatio, Polyptoton",
+    "suggested_main_figure": "Annominatio",
+    "ocr_path": "ocr/Annominatio, Polyptoton - KM_C301i26040910460/ocr.txt",
+    "note_crop": "note_crops/Annominatio, Polyptoton - KM_C301i26040910460_note.png",
+    "status": "ocr_done"
+  },
+  {
+    "pdf_file": "Antitheton - KM_C301i26040910580.pdf",
+    "source_title": "Antitheton",
+    "suggested_main_figure": "Antitheton",
+    "ocr_path": "ocr/Antitheton - KM_C301i26040910580/ocr.txt",
+    "note_crop": "note_crops/Antitheton - KM_C301i26040910580_note.png",
+    "status": "ocr_done"
+  },
+  {
+    "pdf_file": "Antitheton - KM_C301i26040910590.pdf",
+    "source_title": "Antitheton",
+    "suggested_main_figure": "Antitheton",
+    "ocr_path": "ocr/Antitheton - KM_C301i26040910590/ocr.txt",
+    "note_crop": "note_crops/Antitheton - KM_C301i26040910590_note.png",
+    "status": "ocr_done"
+  },
+  {
+    "pdf_file": "Asyndeton, Anastrophe - KM_C301i26040910520.pdf",
+    "source_title": "Asyndeton, Anastrophe",
+    "suggested_main_figure": "Asyndeton",
+    "ocr_path": "ocr/Asyndeton, Anastrophe - KM_C301i26040910520/ocr.txt",
+    "note_crop": "note_crops/Asyndeton, Anastrophe - KM_C301i26040910520_note.png",
+    "status": "ocr_done"
+  },
+  {
+    "pdf_file": "Brachylogia, Praeteritio - KM_C301i26040911070.pdf",
+    "source_title": "Brachylogia, Praeteritio",
+    "suggested_main_figure": "Brachylogia",
+    "ocr_path": "ocr/Brachylogia, Praeteritio - KM_C301i26040911070/ocr.txt",
+    "note_crop": "note_crops/Brachylogia, Praeteritio - KM_C301i26040911070_note.png",
+    "status": "ocr_done"
+  },
+  {
+    "pdf_file": "Commoratio, Exploitatio, De eadem re dicendo, Commutatio verborum - KM_C301i26040911030.pdf",
+    "source_title": "Commoratio, Exploitatio, De eadem re dicendo, Commutatio verborum",
+    "suggested_main_figure": "Commoratio",
+    "ocr_path": "ocr/Commoratio, Exploitatio, De eadem re dicendo, Commutatio verborum - KM_C301i26040911030/ocr.txt",
+    "note_crop": "note_crops/Commoratio, Exploitatio, De eadem re dicendo, Commutatio verborum - KM_C301i26040911030_note.png",
+    "status": "ocr_done"
+  },
+  {
+    "pdf_file": "Commoratio, Exploitatio, De eadem re dicendo, Commutatio verborum - KM_C301i26040911040.pdf",
+    "source_title": "Commoratio, Exploitatio, De eadem re dicendo, Commutatio verborum",
+    "suggested_main_figure": "Commoratio",
+    "ocr_path": "ocr/Commoratio, Exploitatio, De eadem re dicendo, Commutatio verborum - KM_C301i26040911040/ocr.txt",
+    "note_crop": "note_crops/Commoratio, Exploitatio, De eadem re dicendo, Commutatio verborum - KM_C301i26040911040_note.png",
+    "status": "ocr_done"
+  },
+  {
+    "pdf_file": "Communicatio, Definitio, Conciliatio - KM_C301i26040910570.pdf",
+    "source_title": "Communicatio, Definitio, Conciliatio",
+    "suggested_main_figure": "Communicatio",
+    "ocr_path": "ocr/Communicatio, Definitio, Conciliatio - KM_C301i26040910570/ocr.txt",
+    "note_crop": "note_crops/Communicatio, Definitio, Conciliatio - KM_C301i26040910570_note.png",
+    "status": "ocr_done"
+  },
+  {
+    "pdf_file": "Commutatio, Distinctio - KM_C301i26040911000.pdf",
+    "source_title": "Commutatio, Distinctio",
+    "suggested_main_figure": "Commutatio",
+    "ocr_path": "ocr/Commutatio, Distinctio - KM_C301i26040911000/ocr.txt",
+    "note_crop": "note_crops/Commutatio, Distinctio - KM_C301i26040911000_note.png",
+    "status": "ocr_done"
+  },
+  {
+    "pdf_file": "Derivatio, Synonymia - KM_C301i26040910470.pdf",
+    "source_title": "Derivatio, Synonymia",
+    "suggested_main_figure": "Derivatio",
+    "ocr_path": "ocr/Derivatio, Synonymia - KM_C301i26040910470/ocr.txt",
+    "note_crop": "note_crops/Derivatio, Synonymia - KM_C301i26040910470_note.png",
+    "status": "ocr_done"
+  },
+  {
+    "pdf_file": "Detractio, Zeugma - KM_C301i26040910510.pdf",
+    "source_title": "Detractio, Zeugma",
+    "suggested_main_figure": "Detractio",
+    "ocr_path": "ocr/Detractio, Zeugma - KM_C301i26040910510/ocr.txt",
+    "note_crop": "note_crops/Detractio, Zeugma - KM_C301i26040910510_note.png",
+    "status": "ocr_done"
+  },
+  {
+    "pdf_file": "Disiunctio - KM_C301i26040910550.pdf",
+    "source_title": "Disiunctio",
+    "suggested_main_figure": "Disiunctio",
+    "ocr_path": "ocr/Disiunctio - KM_C301i26040910550/ocr.txt",
+    "note_crop": "note_crops/Disiunctio - KM_C301i26040910550_note.png",
+    "status": "ocr_done"
+  },
+  {
+    "pdf_file": "Disiunctio, Adiunctio - KM_C301i26040910551.pdf",
+    "source_title": "Disiunctio, Adiunctio",
+    "suggested_main_figure": "Disiunctio",
+    "ocr_path": "ocr/Disiunctio, Adiunctio - KM_C301i26040910551/ocr.txt",
+    "note_crop": "note_crops/Disiunctio, Adiunctio - KM_C301i26040910551_note.png",
+    "status": "ocr_done"
+  },
+  {
+    "pdf_file": "Epiphora, Complexio - KM_C301i26040910450.pdf",
+    "source_title": "Epiphora, Complexio",
+    "suggested_main_figure": "Epiphora",
+    "ocr_path": "ocr/Epiphora, Complexio - KM_C301i26040910450/ocr.txt",
+    "note_crop": "note_crops/Epiphora, Complexio - KM_C301i26040910450_note.png",
+    "status": "ocr_done"
+  },
+  {
+    "pdf_file": "Epiphora, Complexio, Annominatio, Polyptoton - KM_C301i26040910451.pdf",
+    "source_title": "Epiphora, Complexio, Annominatio, Polyptoton",
+    "suggested_main_figure": "Epiphora",
+    "ocr_path": "ocr/Epiphora, Complexio, Annominatio, Polyptoton - KM_C301i26040910451/ocr.txt",
+    "note_crop": "note_crops/Epiphora, Complexio, Annominatio, Polyptoton - KM_C301i26040910451_note.png",
+    "status": "ocr_done"
+  },
+  {
+    "pdf_file": "Evidentia, Sermocinatio, Fictio personae, Commoratio - KM_C301i26040911012.pdf",
+    "source_title": "Evidentia, Sermocinatio, Fictio personae, Commoratio",
+    "suggested_main_figure": "Evidentia",
+    "ocr_path": "ocr/Evidentia, Sermocinatio, Fictio personae, Commoratio - KM_C301i26040911012/ocr.txt",
+    "note_crop": "note_crops/Evidentia, Sermocinatio, Fictio personae, Commoratio - KM_C301i26040911012_note.png",
+    "status": "ocr_done"
+  },
+  {
+    "pdf_file": "Gedankenfiguren, Figurae sententiae - KM_C301i26040910560.pdf",
+    "source_title": "Gedankenfiguren, Figurae sententiae",
+    "suggested_main_figure": "Gedankenfiguren",
+    "ocr_path": "ocr/Gedankenfiguren, Figurae sententiae - KM_C301i26040910560/ocr.txt",
+    "note_crop": "note_crops/Gedankenfiguren, Figurae sententiae - KM_C301i26040910560_note.png",
+    "status": "ocr_done"
+  },
+  {
+    "pdf_file": "Homoeoteleuton, Homoeoptoton - KM_C301i26040910540.pdf",
+    "source_title": "Homoeoteleuton, Homoeoptoton",
+    "suggested_main_figure": "Homoeoteleuton",
+    "ocr_path": "ocr/Homoeoteleuton, Homoeoptoton - KM_C301i26040910540/ocr.txt",
+    "note_crop": "note_crops/Homoeoteleuton, Homoeoptoton - KM_C301i26040910540_note.png",
+    "status": "ocr_done"
+  },
+  {
+    "pdf_file": "Isocolon, Homoeoteleuton - KM_C301i26040910530.pdf",
+    "source_title": "Isocolon, Homoeoteleuton",
+    "suggested_main_figure": "Isocolon",
+    "ocr_path": "ocr/Isocolon, Homoeoteleuton - KM_C301i26040910530/ocr.txt",
+    "note_crop": "note_crops/Isocolon, Homoeoteleuton - KM_C301i26040910530_note.png",
+    "status": "ocr_done"
+  },
+  {
+    "pdf_file": "Onomasiologische Distinctio, Oxymoron, Exclamatio, Evidentia - KM_C301i26040911001.pdf",
+    "source_title": "Onomasiologische Distinctio, Oxymoron, Exclamatio, Evidentia",
+    "suggested_main_figure": "Onomasiologische Distinctio",
+    "ocr_path": "ocr/Onomasiologische Distinctio, Oxymoron, Exclamatio, Evidentia - KM_C301i26040911001/ocr.txt",
+    "note_crop": "note_crops/Onomasiologische Distinctio, Oxymoron, Exclamatio, Evidentia - KM_C301i26040911001_note.png",
+    "status": "ocr_done"
+  },
+  {
+    "pdf_file": "Onomasiologische Distinctio, Oxymoron, Exclamatio, Evidentia - KM_C301i26040911010.pdf",
+    "source_title": "Onomasiologische Distinctio, Oxymoron, Exclamatio, Evidentia",
+    "suggested_main_figure": "Onomasiologische Distinctio",
+    "ocr_path": "ocr/Onomasiologische Distinctio, Oxymoron, Exclamatio, Evidentia - KM_C301i26040911010/ocr.txt",
+    "note_crop": "note_crops/Onomasiologische Distinctio, Oxymoron, Exclamatio, Evidentia - KM_C301i26040911010_note.png",
+    "status": "ocr_done"
+  },
+  {
+    "pdf_file": "Onomasiologische Distinctio, Oxymoron, Exclamatio, Evidentia - KM_C301i26040911011.pdf",
+    "source_title": "Onomasiologische Distinctio, Oxymoron, Exclamatio, Evidentia",
+    "suggested_main_figure": "Onomasiologische Distinctio",
+    "ocr_path": "ocr/Onomasiologische Distinctio, Oxymoron, Exclamatio, Evidentia - KM_C301i26040911011/ocr.txt",
+    "note_crop": "note_crops/Onomasiologische Distinctio, Oxymoron, Exclamatio, Evidentia - KM_C301i26040911011_note.png",
+    "status": "ocr_done"
+  },
+  {
+    "pdf_file": "Paromoeosis - KM_C301i26040910541.pdf",
+    "source_title": "Paromoeosis",
+    "suggested_main_figure": "Paromoeosis",
+    "ocr_path": "ocr/Paromoeosis - KM_C301i26040910541/ocr.txt",
+    "note_crop": "note_crops/Paromoeosis - KM_C301i26040910541_note.png",
+    "status": "ocr_done"
+  },
+  {
+    "pdf_file": "Permissio, Adiectio, Interpositio, Brachylogia, Praeteritio - KM_C301i26040911041.pdf",
+    "source_title": "Permissio, Adiectio, Interpositio, Brachylogia, Praeteritio",
+    "suggested_main_figure": "Permissio",
+    "ocr_path": "ocr/Permissio, Adiectio, Interpositio, Brachylogia, Praeteritio - KM_C301i26040911041/ocr.txt",
+    "note_crop": "note_crops/Permissio, Adiectio, Interpositio, Brachylogia, Praeteritio - KM_C301i26040911041_note.png",
+    "status": "ocr_done"
+  },
+  {
+    "pdf_file": "Reflexio - KM_C301i26040910490.pdf",
+    "source_title": "Reflexio",
+    "suggested_main_figure": "Reflexio",
+    "ocr_path": "ocr/Reflexio - KM_C301i26040910490/ocr.txt",
+    "note_crop": "note_crops/Reflexio - KM_C301i26040910490_note.png",
+    "status": "ocr_done"
+  },
+  {
+    "pdf_file": "Regressio, Comparatio - KM_C301i26040910591.pdf",
+    "source_title": "Regressio, Comparatio",
+    "suggested_main_figure": "Regressio",
+    "ocr_path": "ocr/Regressio, Comparatio - KM_C301i26040910591/ocr.txt",
+    "note_crop": "note_crops/Regressio, Comparatio - KM_C301i26040910591_note.png",
+    "status": "ocr_done"
+  },
+  {
+    "pdf_file": "Regressio, Comparatio, Commutatio - KM_C301i26040910592.pdf",
+    "source_title": "Regressio, Comparatio, Commutatio",
+    "suggested_main_figure": "Regressio",
+    "ocr_path": "ocr/Regressio, Comparatio, Commutatio - KM_C301i26040910592/ocr.txt",
+    "note_crop": "note_crops/Regressio, Comparatio, Commutatio - KM_C301i26040910592_note.png",
+    "status": "ocr_done"
+  },
+  {
+    "pdf_file": "Reticentia, Aposiopesis - KM_C301i26040911071.pdf",
+    "source_title": "Reticentia, Aposiopesis",
+    "suggested_main_figure": "Reticentia",
+    "ocr_path": "ocr/Reticentia, Aposiopesis - KM_C301i26040911071/ocr.txt",
+    "note_crop": "note_crops/Reticentia, Aposiopesis - KM_C301i26040911071_note.png",
+    "status": "ocr_done"
+  },
+  {
+    "pdf_file": "Traductio, Distinctio - KM_C301i26040910480.pdf",
+    "source_title": "Traductio, Distinctio",
+    "suggested_main_figure": "Traductio",
+    "ocr_path": "ocr/Traductio, Distinctio - KM_C301i26040910480/ocr.txt",
+    "note_crop": "note_crops/Traductio, Distinctio - KM_C301i26040910480_note.png",
+    "status": "ocr_done"
+  },
+  {
+    "pdf_file": "Traductio, Distinctio - KM_C301i26040910481.pdf",
+    "source_title": "Traductio, Distinctio",
+    "suggested_main_figure": "Traductio",
+    "ocr_path": "ocr/Traductio, Distinctio - KM_C301i26040910481/ocr.txt",
+    "note_crop": "note_crops/Traductio, Distinctio - KM_C301i26040910481_note.png",
+    "status": "ocr_done"
+  }
+]

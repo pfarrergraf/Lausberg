@@ -1,0 +1,130 @@
+{
+  "id": "commutatio",
+  "figure_name_de": "Commutatio",
+  "figure_name_original": [
+    {
+      "language": "Latein",
+      "term": "commutatio"
+    }
+  ],
+  "category": "Gegensatz- und Wiederholungsfigur / invertierte Umkehrung",
+  "definition_precise": "Die Commutatio stellt einen Gedanken und seine Umkehrung durch Wiederholung zweier Wortstämme oder Sinnträger einander gegenüber, wobei in der Wiederholung die syntaktische Funktion der beiden Träger vertauscht wird. Sie ist eine besondere Form der Überkreuzung und steht dem Polyptoton sowie dem Antitheton nahe.",
+  "definition_simple": "Dieselben Wörter oder Stämme kehren in umgedrehter Ordnung und Funktion wieder.",
+  "formal_pattern": "a^x b^y / b^x a^y oder a^x b^y / a^y b^x",
+  "semantic_function": "Aphoristische Prägnanz, dialektische Schärfe, Memorisierbarkeit und pointierte Umkehr.",
+  "distinguish_from": [
+    "Chiasmus: Überkreuzung ohne notwendige Wiederholung derselben Stämme.",
+    "Antitheton: Gegensatz ohne invertierte Stammwiederholung.",
+    "Polyptoton: Flexionswechsel desselben Wortes ohne gedankliche Umkehr.",
+    "Correctio: Korrektur statt Spiegel-Umkehr."
+  ],
+  "lausberg_reference": "Lausberg §§ 800–801",
+  "classical_examples": [
+    {
+      "label": "Latein",
+      "original": "non ut edam vivo, sed ut vivam edo",
+      "translation": "Ich lebe nicht, um zu essen, sondern ich esse, um zu leben.",
+      "note": "Schulklassisches Muster der commutatio."
+    },
+    {
+      "label": "Latein",
+      "original": "in pace bellum quaeritas, in bello pacem desideras",
+      "translation": "Im Frieden suchst du Krieg, im Krieg ersehnst du Frieden.",
+      "note": "Vertauschte Wortstämme in gegenläufiger Funktion."
+    },
+    {
+      "label": "Latein",
+      "original": "poema loquens pictura, pictura tacitum poema debet esse",
+      "translation": "Dichtung ist ein sprechendes Bild; ein Bild soll ein schweigendes Gedicht sein.",
+      "note": "Berühmter commutatio-Typus mit Kunstvergleich."
+    },
+    {
+      "label": "Latein",
+      "original": "si consul Antonius, Brutus hostis; si conservator rei publicae Brutus, hostis Antonius",
+      "translation": "Wenn Antonius Konsul ist, ist Brutus Feind; wenn Brutus der Bewahrer des Staates ist, ist Antonius Feind.",
+      "note": "Politische Umkehrfigur."
+    }
+  ],
+  "modern_examples": [
+    {
+      "text": "Wir tragen das Evangelium nicht; das Evangelium trägt uns.",
+      "domain": "Predigt / Theologie",
+      "notes": "Prägnante Umkehrfigur."
+    },
+    {
+      "text": "Du benutzt die Zeit nicht nur – die Zeit benutzt am Ende dich.",
+      "domain": "Alltag / Kommentar",
+      "notes": "Umkehr als Diagnose."
+    }
+  ],
+  "sermon_examples": [
+    {
+      "text": "Du suchst Frieden ohne Wahrheit; in der Wahrheit findet dich der Frieden.",
+      "purpose": "Seelsorge",
+      "audience": "Gemeinde",
+      "notes": "Gedankliche Umkehr in zwei Halbzeilen."
+    },
+    {
+      "text": "Nicht wir machen das Kreuz verständlich; das Kreuz macht uns verständlich.",
+      "purpose": "Karfreitag",
+      "audience": "Gemeinde",
+      "notes": "Christologische commutatio."
+    }
+  ],
+  "effects": [
+    "Pointierung",
+    "Umkehrdruck",
+    "Merkfähigkeit",
+    "dialektische Klarheit"
+  ],
+  "best_use_cases": [
+    "Merksätze",
+    "Schlusspointen",
+    "dialektische Einsichten",
+    "theologische Paradoxien mit Klarform"
+  ],
+  "avoid_when": [
+    "Wenn die Umkehr nur formal, nicht gedanklich trägt.",
+    "Wenn zu viele ähnliche Spiegelungen manieriert wirken."
+  ],
+  "common_confusions": [
+    "Chiasmus",
+    "Antitheton",
+    "Polyptoton"
+  ],
+  "negative_examples": [
+    "Bloße Wortwiederholung ohne vertauschte Funktion.",
+    "Parallelismus ohne Umkehr."
+  ],
+  "generation_rules": [
+    "Zwei tragende Sinnträger bestimmen.",
+    "Erstes Glied normal setzen.",
+    "Zweites Glied invertieren.",
+    "Die Umkehr semantisch tragen lassen."
+  ],
+  "recognition_rules": [
+    "Wiederholung derselben Stämme oder Sinnträger",
+    "im zweiten Glied vertauschte Funktion",
+    "klare Umkehr des Gedankens"
+  ],
+  "evaluation_criteria": [
+    "echte Inversion",
+    "sprachliche Prägnanz",
+    "keine bloße Spielerei",
+    "aphoristische Belastbarkeit"
+  ],
+  "tone_fit": [
+    "weisheitlich",
+    "polemisch",
+    "merksatzartig",
+    "theologisch pointiert"
+  ],
+  "difficulty_level": "hoch",
+  "tags": [
+    "Umkehr",
+    "Spiegelfigur",
+    "Aphorismus",
+    "Chiasmus-nah"
+  ],
+  "editorial_notes": "Die OCR-Quelle enthält auch distinctio; für Batch 1 wurde die commutatio priorisiert."
+}

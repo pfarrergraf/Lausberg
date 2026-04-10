@@ -1,0 +1,3656 @@
+{
+  "meta": {
+    "quelle": "Heinrich Lausberg – Handbuch der literarischen Rhetorik",
+    "bearbeitung": "Systematische Ausarbeitung für Predigt, Rhetorik und Rednerschule",
+    "schema_version": "2.0",
+    "felder_erklaerung": {
+      "figur_name": "Lateinischer oder deutscher Hauptname",
+      "alternativnamen": "Weitere gängige Bezeichnungen",
+      "griechisch": "Griechischer Fachbegriff",
+      "lateinisch": "Lateinischer Fachbegriff",
+      "oberkategorie": "Hauptklasse (Tropus, Gedankenfigur, Wortfigur, Grundkategorie)",
+      "lausberg_paragraphen": "Paragraphen im Handbuch",
+      "definition_original": "Lausberg-nahe Originaldefinition",
+      "erklaerung_einfach": "Klare deutsche Kurzerklärung",
+      "fremdsprachige_originale": "Originaltextstellen mit vollständigen Übersetzungen",
+      "wirkung": "Rhetorische Wirkungsqualitäten",
+      "rhetorische_funktionen": "Genaue Funktionen im Redezusammenhang",
+      "beispiele_quellennahe": "Belege aus antiken und klassischen Quellen",
+      "examples_modern": "Moderne Predigtbeispiele",
+      "predigtanwendung": "Einsatzbereiche in der Predigt",
+      "predigtwerkstatt": "Stufenweise Ausarbeitung von Predigtbeispielen",
+      "kombinationen": "Kombinatorik mit anderen Stilmitteln",
+      "verbesserungshinweise": "Tipps und Warnungen",
+      "bewertung": "Wertung 1–5 je Dimension"
+    }
+  },
+  "grundlagen": [
+    {
+      "konzept": "Rhetorik als System",
+      "lausberg_paragraphen": "§§ 1–31",
+      "definition": "Rhetorik ist die Kunstlehre der wirkungsvollen Rede: ars bene dicendi – die Kunst, so zu sprechen, dass es wirkt.",
+      "erklaerung_einfach": "Rhetorik ist nicht schönes Reden, sondern zielgerichtetes Sprechen mit Wirkung auf Menschen. Stilmittel kommen ganz am Ende; vorher kommen Ziel, Gedanke und Struktur.",
+      "dreischritt_entstehung_kunst": {
+        "apeiria": {
+          "griechisch": "ἀπειρία",
+          "bedeutung": "Unerfahrenheit – man handelt ohne Wissen, keine Regel, kein System",
+          "predigt": "Man redet drauflos, intuitiv, ohne Aufbau"
+        },
+        "tyche": {
+          "griechisch": "τύχη",
+          "lateinisch": "casus",
+          "bedeutung": "Zufall – etwas gelingt zufällig, erste funktionierende Muster entstehen",
+          "predigt": "Eine Predigt trifft – man weiß nicht warum"
+        },
+        "empeiria": {
+          "griechisch": "ἐμπειρία",
+          "bedeutung": "Erfahrung – Wiederholung wird bewusst erkannt, Muster werden stabil, erste Regeln entstehen",
+          "predigt": "Das funktioniert – ich kann es wiederholen"
+        },
+        "techne": {
+          "griechisch": "τέχνη",
+          "lateinisch": "ars",
+          "bedeutung": "Kunst – systematisierte, bewusst angewandte Fähigkeit. Nicht bloß Können, sondern: verstehende Durchdringung, systematisch lehrhafte, vom konkreten Fall abstrahierende Formulierung der Erfahrung.",
+          "predigt": "Regelwissen für Predigttypen: Sonntagspredigt ≠ Trauerfeier ≠ Stegreifrede"
+        }
+      },
+      "bedingungen_guter_rede": {
+        "natura": {
+          "griechisch": "φύσις",
+          "bedeutung": "Natürliche Anlage – Voraussetzung, nicht veränderbar, aber nutzbar",
+          "predigt": "Stimme, Temperament, Sprachgefühl, emotionale Grundanlage"
+        },
+        "ars": {
+          "bedeutung": "Bewusst angewandte Kunstlehre – entsteht aus Apeiria → Tyche → Empeiria → Techne",
+          "predigt": "Aufbau, Dramaturgie, Stilmittel bewusst einsetzen"
+        },
+        "exercitatio": {
+          "bedeutung": "Übung – Anwendung und Verstärkung der Kunst",
+          "predigt": "Wöchentliches Predigen mit Reflexion und bewusster Verbesserung"
+        }
+      },
+      "kernregel": "Talent bringt dich auf die Bühne. Kunst hält dich dort. Übung macht dich wirksam.",
+      "predigt_anwendung": [
+        "Gute Predigt ist nicht Information, sondern wirksame Rede zur Transformation von Menschen",
+        "Stilmittel ohne Struktur = Dekoration; Stilmittel mit Struktur = Durchschlagskraft",
+        "Erst Ziel, dann Gedanke, dann Struktur, dann erst Stilmittel"
+      ],
+      "tags": [
+        "grundlage",
+        "system",
+        "aufbau",
+        "ars",
+        "natura",
+        "exercitatio"
+      ]
+    },
+    {
+      "konzept": "Drei Redeziele: docere – movere – delectare",
+      "definition": "Gute Rede dient gleichzeitig drei Zielen: dem Lehren, dem Bewegen und dem angenehmen Wirken.",
+      "teile": {
+        "docere": {
+          "bedeutung": "Lehren – verständlich machen",
+          "predigt_schwach": "Niemand versteht, was gemeint ist",
+          "predigt_stark": "Der Hörer versteht klar, worum es geht"
+        },
+        "movere": {
+          "bedeutung": "Bewegen – emotional innerlich bewegen",
+          "predigt_schwach": "Niemand verändert sich",
+          "predigt_stark": "Der Hörer wird innerlich getroffen, verändert, herausgefordert"
+        },
+        "delectare": {
+          "bedeutung": "Erfreuen – angenehm hörbar sein, Langeweile vermeiden",
+          "predigt_schwach": "Niemand hört zu",
+          "predigt_stark": "Der Hörer hört gern zu, folgt mit Aufmerksamkeit"
+        }
+      },
+      "kombinationen": [
+        {
+          "kombi": "docere + Interrogatio",
+          "beispiel": "Was ist Gnade eigentlich?"
+        },
+        {
+          "kombi": "movere + Exclamatio",
+          "beispiel": "Und trotzdem liebt er dich!"
+        },
+        {
+          "kombi": "delectare + Parallelismus",
+          "beispiel": "Nicht perfekt, nicht stark, nicht fehlerlos – aber geliebt."
+        },
+        {
+          "kombi": "docere + movere + Subiectio + Klimax",
+          "beispiel": "Du fragst: Reicht das wirklich? Reicht Gnade für mein Leben, für meine Schuld, für mein Versagen? Ja – sie reicht weiter, als du denkst."
+        }
+      ],
+      "tags": [
+        "grundlage",
+        "ziel",
+        "wirkung",
+        "architektur"
+      ]
+    },
+    {
+      "konzept": "Figura – Definition und System",
+      "lausberg_paragraphen": "§§ 601–603",
+      "definition_original": "figura sit arte aliqua novata forma dicendi – Eine Figur ist eine durch Kunst erneuerte Form des Sprechens. (Quintilian 9,1,14)",
+      "fremdsprachige_originale": [
+        {
+          "sprache": "Latein",
+          "original": "figura dicitur … in sensu vel sermone aliqua a vulgari et simplici specie cum ratione mutatio",
+          "uebersetzung": "Eine Figur ist eine bewusste Veränderung gegenüber der gewöhnlichen und einfachen Ausdrucksweise",
+          "quelle": "Quintilian 9,1,11"
+        },
+        {
+          "sprache": "Latein",
+          "original": "figura sit arte aliqua novata forma dicendi",
+          "uebersetzung": "Eine Figur ist eine durch Kunst erneuerte Form des Sprechens",
+          "quelle": "Quintilian 9,1,14"
+        }
+      ],
+      "erklaerung_einfach": "Eine Figur ist keine zufällige Abweichung, sondern eine absichtsvolle, mit Vernunft vollzogene Veränderung gegenüber der einfachen, geraden Ausdrucksweise – um stärker zu wirken.",
+      "system": {
+        "figurae_elocutionis_verborum": "Wortfiguren – betreffen die sprachliche Gestalt (Oberfläche), auch schemata lexeos",
+        "figurae_sententiae": "Gedankenfiguren – greifen in die geistige Architektur ein; eigentlich im Bereich der inventio zu behandeln, auch schemata dianoias",
+        "tropi": "Bedeutungsübertragungen – Sonderfall, von den meisten Theoretikern von den Figuren getrennt behandelt"
+      },
+      "kernregel": "Figur = absichtsvolle Abweichung vom Normalen, mit Vernunft und für Wirkung.",
+      "tags": [
+        "grundlage",
+        "figur",
+        "system",
+        "definition"
+      ]
+    },
+    {
+      "konzept": "Ornatus – Rhetorischer Schmuck",
+      "lausberg_paragraphen": "§ 538",
+      "alternativnamen": [
+        "Schmuck",
+        "rhetorische Geschmücktheit"
+      ],
+      "griechisch": "κόσμος",
+      "lateinisch": "ornatus; cultus atque ornatus",
+      "oberkategorie": "Tugend der elocutio",
+      "definition_original": "Der ornatus ist die meistangestrebte, weil glanzvollste und wirkungsvollste virtus, die über die sprachliche Korrektheit (Latinitas) und die intellektuelle Verständlichkeit (perspicuitas elocutionis) hinausgeht.",
+      "erklaerung_einfach": "Ornatus ist die rhetorische Kunst, Sprache so zu gestalten, dass sie gern gehört wird, Aufmerksamkeit bindet, glaubwürdiger wirkt und den Hörer mitreißt. Kein Luxus, sondern Wirkfaktor.",
+      "fremdsprachige_originale": [
+        {
+          "sprache": "Latein",
+          "original": "libenter audiunt / magis attendunt / facilius credunt",
+          "uebersetzung_woertlich": "sie hören gern / sie achten mehr darauf / sie glauben leichter",
+          "uebersetzung_idiomatisch": "Der Hörer hört lieber zu, achtet wacher und ist eher bereit zu glauben.",
+          "funktion": "Psychologische Wirkung des Schmucks auf den Hörer"
+        },
+        {
+          "sprache": "Latein",
+          "original": "plerumque ipsa delectatione capiuntur, nonnumquam admiratione auferuntur",
+          "uebersetzung_woertlich": "meist werden sie schon durch das Vergnügen gefangen, bisweilen durch Bewunderung fortgetragen",
+          "uebersetzung_idiomatisch": "Oft gewinnt der Schmuck durch Freude; mitunter reißt er den Hörer durch Bewunderung mit.",
+          "funktion": "Höhepunkt der Wirkungsskala"
+        },
+        {
+          "sprache": "Latein",
+          "original": "auditorem benevolum, attentum, docilem parare",
+          "uebersetzung": "den Hörer wohlwollend, aufmerksam, belehrbar machen",
+          "funktion": "Ornatus dient nicht nur Schönheit, sondern der Redeführung"
+        },
+        {
+          "sprache": "Griechisch",
+          "original": "κόσμος",
+          "uebersetzung": "Ordnung, Schmuck – Schmuckgestalt, geordnete Schönheit"
+        }
+      ],
+      "wichtige_rangordnung": "Erst korrekt (Latinitas) → dann verständlich (perspicuitas) → dann schön und wirkungsvoll (ornatus)",
+      "wirkung": [
+        "delectatio",
+        "Aufmerksamkeit",
+        "Glaubwürdigkeit",
+        "Vermeidung von Langeweile",
+        "movere – Erschütterung"
+      ],
+      "beispiele_deutsche_literatur": [
+        "Ein feste Burg ist unser Gott (Luther) – einprägsam, bildstark, klangvoll",
+        "O Haupt voll Blut und Wunden – Rhythmus, Pathos, Klang und Bild",
+        "Der Mond ist aufgegangen – schlichte aber geschmückte Sprache"
+      ],
+      "examples_modern": [
+        "Das Evangelium ist kein Staubregal, sondern Feuer im kalten Haus.",
+        "Wir brauchen keine graue Sprache für große Wahrheiten.",
+        "Klarheit überzeugt; Schönheit lässt erinnern."
+      ],
+      "predigtanwendung": [
+        "Einstieg",
+        "Übergang",
+        "Zuspitzung",
+        "Schluss",
+        "Ostern / Weihnachten / Trauer / Taufe"
+      ],
+      "predigtwerkstatt": {
+        "ausgangssatz": "Gott ist treu.",
+        "stufen": [
+          {
+            "stufe": 1,
+            "text": "Gott ist treu.",
+            "mittel": "schlicht"
+          },
+          {
+            "stufe": 2,
+            "text": "Gott ist treu – auch wenn unser Herz wankt.",
+            "mittel": "leichter ornatus"
+          },
+          {
+            "stufe": 3,
+            "text": "Gott ist treu. Wenn unser Herz wankt, steht sein Wort. Wenn unsere Hand loslässt, hält seine Gnade.",
+            "mittel": "ornatus mit Antithese"
+          },
+          {
+            "stufe": 4,
+            "text": "Gott ist treu. Unsere Herzen zittern, seine Wahrheit nicht. Unsere Hände rutschen ab, seine Gnade nicht. Unsere Nacht wird lang – sein Morgen kommt.",
+            "mittel": "ornatus + Anapher + Antithese + Klimax"
+          },
+          {
+            "stufe": 5,
+            "text": "Er nimmt die Last von deinen Schultern. Er nimmt die Scham von deinem Gesicht. Er nimmt die Nacht aus deinem Herzen. Er stellt dich wieder ins Licht.",
+            "mittel": "Ornatus höchster Stufe: Metapher + Anapher + Klimax. Nicht mehr nur schön, sondern mitreißend (movere)."
+          }
+        ]
+      },
+      "kombinationen": [
+        {
+          "kombi": "Ornatus + Metapher",
+          "beispiel": "Gottes Gnade hält noch, wenn dein inneres Dach schon eingebrochen ist.",
+          "wirkung": "Bild macht Wahrheit anschaulich"
+        },
+        {
+          "kombi": "Ornatus + Anapher",
+          "beispiel": "Wenn du fällst, ist er da. Wenn du zweifelst, ist er da. Wenn du schweigst, ist er da.",
+          "wirkung": "Rhythmus plus Schmuck"
+        },
+        {
+          "kombi": "Ornatus + Klimax",
+          "beispiel": "Er sieht, er ruft, er rettet.",
+          "wirkung": "Knappheit und Steigerung ergeben Glanz ohne Überladung"
+        },
+        {
+          "kombi": "Ornatus + Antithese",
+          "beispiel": "Wir schwanken. Er bleibt.",
+          "wirkung": "Einfacher Kontrast, hohe Merkfähigkeit"
+        },
+        {
+          "kombi": "Ornatus + Metapher + Anapher + Klimax",
+          "beispiel": "Er nimmt die Last von deinen Schultern. Er nimmt die Scham von deinem Gesicht. Er nimmt die Nacht aus deinem Herzen. Er stellt dich wieder ins Licht.",
+          "wirkung": "Ornatus als Summe: nicht leere Verzierung, sondern wirkungsvolle hörbare Schönheit"
+        }
+      ],
+      "verbesserungshinweise": [
+        "Ornatus darf nie den Inhalt verdecken",
+        "Am stärksten in Kombination mit Metapher, Anapher, Antithese, Klimax",
+        "In Traueransprachen eher schlicht; in Festpredigten darf er dichter sein",
+        "Schlechter Ornatus wird Selbstzweck und klingt nach Kunstübung"
+      ],
+      "bewertung": {
+        "verstaendlichkeit_hoeren": 4,
+        "feierlichkeit": 5,
+        "eindringlichkeit": 4,
+        "merkfaehigkeit": 5,
+        "gefahr_ueberkuenstlichkeit": 5,
+        "eignung_predigt": 5,
+        "eignung_vortrag": 5,
+        "eignung_unterricht": 5
+      },
+      "tags": [
+        "einstieg",
+        "zuspitzung",
+        "schluss",
+        "memorierbarkeit",
+        "rhythmus",
+        "bildhaftigkeit",
+        "feierlichkeit"
+      ]
+    },
+    {
+      "konzept": "Cicero-Kette: industria → scientia → facultas → felicitas",
+      "lausberg_paragraphen": "§§ 20–28 (Bedingungen rhetorischer Vollkommenheit)",
+      "definition": "Die rhetorische Vollkommenheit entsteht nicht aus Talent allein, sondern durch eine notwendige Abfolge: industria (Fleiß) geht voran, daraus folgt scientia (Wissen), aus ihr entsteht facultas (die verfügbare Fähigkeit), und aus ihr felicitas (dauerhafter Wirkungserfolg).",
+      "original_latein": "industriam vero scientia consequitur; ex scientia copia et facultas ingenii nascitur; ex qua facultate verae et stabilis felicitas laudis oritur",
+      "uebersetzung": "Auf den Fleiß folgt das Wissen; aus dem Wissen entstehen Fülle des Ausdrucks und Fähigkeit des Geistes; aus dieser Fähigkeit entspringt echter und beständiger Ruhm.",
+      "quelle": "Cicero (Kontext bei Lausberg §§ 20ff.)",
+      "begriffsreihe": {
+        "industria": {
+          "griechisch": "ἐπιμέλεια",
+          "bedeutung": "Fleiß, ausdauernde Tätigkeit, gezielte Mühe",
+          "predigt": "Regelmäßige Predigtvorbereitung, bewusstes Üben, tägliche Lektüre",
+          "unterschied_zu_exercitatio": "Industria ist die Haltung (Willensbasis), exercitatio ist die konkrete Übungshandlung"
+        },
+        "scientia": {
+          "griechisch": "ἐπιστήμη",
+          "bedeutung": "Erkenntnis, Wissen – nicht bloße Information, sondern durchdrungenes Verständnis",
+          "predigt": "Kenntnis von Schrift, Rhetorik, Menschenwissen, Auslegungsgeschichte",
+          "verhältnis_zu_doctrina": "scientia ist das Wissen; doctrina ist das systematisierte, gelehrt vermittelte Wissen",
+          "verhältnis_zu_disciplina": "disciplina ist scientia als eingeübte Ordnung und Disziplin"
+        },
+        "copia": {
+          "griechisch": "εὐπορία",
+          "bedeutung": "Fülle des Ausdrucks, sprachliche Verfügbarkeit – der Redner findet immer Worte",
+          "predigt": "Wortreichtum, Beispielvorrat, Bildbibliothek, Schlussformelrepertoire",
+          "hinweis": "copia entsteht nicht aus Talent, sondern aus scientia: Wer viel weiß, hat viel zu sagen"
+        },
+        "facultas": {
+          "griechisch": "δύναμις",
+          "bedeutung": "Verfügbare Fähigkeit – nicht nur theoretisches Können, sondern die jederzeit abrufbare Praxis",
+          "predigt": "Die Stilmittel sitzen, die Dramaturgie sitzt, die Bewegung zum Herzen sitzt – spontan, abrufbar",
+          "unterschied_zu_ars": "ars ist die Regelkenntnis, facultas ist die inkorporierte, handlungsfertige Kunst"
+        },
+        "felicitas": {
+          "griechisch": "εὐτυχία",
+          "bedeutung": "Echter, beständiger Wirkungserfolg – Ruhm, der aus Wahrheit und Können zusammen entsteht",
+          "predigt": "Nicht mediale Popularität, sondern Wirkung auf Menschen: veränderte Herzen, bleibende Prägung",
+          "predigt_warnung": "Felicitas ohne industria + scientia + facultas ist nur Moment-Ruhm – nicht stabil"
+        }
+      },
+      "erweiterte_kette": {
+        "voluntas": "Wille, etwas zu lernen und zu wachsen – Voraussetzung aller industria",
+        "industria": "Fleiß auf dem Boden des Willens",
+        "scientia": "Durchdrungenes Wissen als Frucht der industria",
+        "doctrina": "Systematisierte, lehrhafte Ordnung der scientia",
+        "disciplina": "Eingeübte Ordnung, die intern geworden ist",
+        "facultas": "Die abrufbare Fähigkeit als Frucht von scientia + disciplina",
+        "felicitas": "Dauerhafter wirklicher Ruhm = Frucht aller vorangehenden Glieder"
+      },
+      "unterschied_zu_natura": "Die Cicero-Kette beschreibt, was durch Mühe erarbeitet wird – im Unterschied zu natura (Begabung), die vorgegeben ist. Lausberg: Natura ist Bedingung, die Kette beschreibt die Vollendung.",
+      "predigt_anwendung": [
+        "Brief an Prediger/Redner-Schüler über den Weg zur Wirksamkeit",
+        "Ermutigung: Wirksamkeit ist nicht nur Begabung, sondern erarbeitbar",
+        "Warnung vor reiner Intuition und vor bloßem Regelwissen ohne Übung",
+        "Grundlage für Rednerschule: Curriculumaufbau auf dieser Kette"
+      ],
+      "rednerschule_anwendung": {
+        "stufe_1_voluntas": "Warum will ich predigen/reden? Klärungsseminar",
+        "stufe_2_industria": "Fleiß als spirituelle Praxis: tägliche Lektüre, wöchentliche Vorbereitung",
+        "stufe_3_scientia": "Grundkurse: Rhetorik, Homiletik, Bibel, Menschenwissen",
+        "stufe_4_doctrina": "Systematische Rhetorik-Schule (z.B. mit Lausberg als Gerüst)",
+        "stufe_5_disciplina": "Regelmäßige Übungen mit Feedback, transkribierte Predigten, Korrektur",
+        "stufe_6_facultas": "Freie Predigtübungen, Stegreif, Situationsreden",
+        "stufe_7_felicitas": "Gemeindepraxis mit Reflexion – beständige Wirkung"
+      },
+      "tags": [
+        "grundlage",
+        "cicero",
+        "bildung",
+        "facultas",
+        "industria",
+        "rednerschule",
+        "system"
+      ]
+    },
+    {
+      "konzept": "Die fünf officia des Redners: inventio – dispositio – elocutio – memoria – actio",
+      "lausberg_paragraphen": "§§ 43–254 (Gesamtdarstellung)",
+      "definition": "Jede gut konstruierte Rede durchläuft fünf Arbeitsphasen. Nur wer alle beherrscht, kann vollständig gut reden.",
+      "teile": {
+        "inventio": {
+          "lateinisch": "inventio",
+          "griechisch": "εὕρεσις",
+          "bedeutung": "Auffindung – das Herausarbeiten des relevanten Gedankenmaterials",
+          "predigt": "Was ist die Botschaft? Was will ich sagen? Texteröffnung, Themenklärung"
+        },
+        "dispositio": {
+          "lateinisch": "dispositio",
+          "griechisch": "τάξις",
+          "bedeutung": "Anordnung – die wirkungsvolle Gliederung des Materials",
+          "predigt": "Aufbau der Predigt: Einstieg, Entfaltung, Zuspitzung, Abschluss"
+        },
+        "elocutio": {
+          "lateinisch": "elocutio",
+          "griechisch": "λέξις",
+          "bedeutung": "Stilgebung – die sprachliche Ausführung, Stilmittel, Formulierung",
+          "predigt": "Hier sitzen alle Stilmittel. Elocutio kommt nach Inventio und Dispositio, nicht davor."
+        },
+        "memoria": {
+          "lateinisch": "memoria",
+          "griechisch": "μνήμη",
+          "bedeutung": "Einprägen des Vorbereiteten für den freien Vortrag",
+          "predigt": "Nicht auswendig lernen, sondern die Rede im Kopf haben – Schlüssel für freies Predigen"
+        },
+        "actio": {
+          "lateinisch": "actio; pronuntiatio",
+          "griechisch": "ὑπόκρισις",
+          "bedeutung": "Der Vortrag selbst: Stimme, Rhythmus, Körper, Präsenz",
+          "predigt": "Lautstärke, Pause, Tempo, Blickkontakt, Gestik – die Rede lebt erst in der actio"
+        }
+      },
+      "predigtprioritaeten": {
+        "häufigstes_defizit": "Prediger arbeiten oft umgekehrt: erst Formulierung (elocutio), dann Gedanke (inventio) → führt zu unscharfer Predigt",
+        "richtige_reihenfolge": "inventio → dispositio → elocutio → memoria → actio",
+        "leitsatz": "Stilmittel kommen ganz am Ende – nicht am Anfang"
+      },
+      "tags": [
+        "grundlage",
+        "five_offices",
+        "inventio",
+        "dispositio",
+        "elocutio",
+        "memoria",
+        "actio",
+        "system"
+      ]
+    },
+    {
+      "konzept": "Rednerbildung: natura – ars – exercitatio",
+      "lausberg_paragraphen": "§§ 1–8",
+      "definition": "Jede Kunst (τέχνη / ars) setzt die natürliche Anlage (φύσις / natura) voraus und wird durch Übung (ἐξάσκησις / exercitatio) zur Meisterschaft. Die Kunst selbst entsteht nicht aus dem Nichts, sondern durch den Dreischritt: ἀπειρία (Unerfahrenheit) → τύχη (Zufall) → ἐμπειρία (Erfahrung) → τέχνη (Kunst).",
+      "fremdsprachige_originale": [
+        {
+          "sprache": "Griechisch",
+          "original": "φύσις – τύχη – τέχνη",
+          "uebersetzung_woertlich": "Natur – Zufall – Kunst",
+          "uebersetzung_idiomatisch": "Natürliche Anlage, zufälliger Erfolg, planvoll eingesetzte Kunst",
+          "funktion": "Grundtrias des Kunstbegriffs bei Lausberg"
+        },
+        {
+          "sprache": "Griechisch",
+          "original": "ἀπειρία → τύχη → ἐμπειρία → τέχνη",
+          "uebersetzung_woertlich": "Unerfahrenheit → Zufall → Erfahrung → Kunst",
+          "uebersetzung_idiomatisch": "Erst ist der Mensch unerfahren; durch Zufall entdeckt er Wirkungsweisen; durch Wiederholung entsteht Erfahrung; durch Reflexion dieser Erfahrung entsteht Kunst.",
+          "funktion": "Entstehungsgeschichte der ars (Lausberg § 2)"
+        },
+        {
+          "sprache": "Latein",
+          "original": "industriam vero scientia consequitur; ex scientia copia et facultas ingenii nascitur",
+          "uebersetzung_woertlich": "Auf Fleiß folgt Erkenntnis; aus Erkenntnis entstehen Fülle und Fähigkeit",
+          "uebersetzung_idiomatisch": "Wer tätig und fleißig ist, gewinnt Wissen; aus Wissen entsteht die Fähigkeit, souverän und reich über eine Sache zu verfügen.",
+          "funktion": "Cicero-Formel für die Kette von Arbeit zu wirksamer Rede"
+        }
+      ],
+      "erklaerung_einfach": "Gute Rhetorik entsteht aus drei Faktoren: (1) natura – die gegebene Begabung des Redners; (2) ars – das systematisch erlernte Regelwissen, das aus reflektierter Erfahrung abstrahiert wird; (3) exercitatio – die Übung, durch die Wissen zur zweiten Natur wird. Lausberg betont: Talent allein reicht nicht; Theorie allein reicht nicht; nur aus dem Zusammenspiel aller drei entsteht Meisterschaft.",
+      "dreischritt_entstehung": {
+        "apeiria": "Unerfahrenheit – der Anfänger redet drauflos ohne System",
+        "tyche": "Zufall – eine Predigt trifft, ohne dass man weiß warum",
+        "empeiria": "Erfahrung – Muster werden erkannt und wiederholbar gemacht",
+        "techne": "Kunst – die abstrahierte, systematisch-lehrhafte Formulierung der Erfahrung. Erst hier entstehen Kategorien (Kasus), übertragbare Regeln und Schubladen."
+      },
+      "predigtanwendung": [
+        "Nur ars ohne natura klingt trocken und gemacht",
+        "Nur natura ohne ars bleibt unstrukturiert und zufällig wirkungsvoll",
+        "Nur exercitatio ohne ars macht Gewohnheiten, aber keine Entwicklung",
+        "Das Ziel: Anlage + System + Übung = wirkungsvolle, evangelistische Predigt"
+      ],
+      "predigtwerkstatt": {
+        "ausgangssatz": "Gott liebt dich.",
+        "stufen": [
+          {
+            "stufe": 1,
+            "text": "Gott liebt dich.",
+            "mittel": "nur natura: richtig, aber wirkungslos"
+          },
+          {
+            "stufe": 2,
+            "text": "Gott liebt dich – nicht die Version von dir, die du gerne wärst, sondern dich, genau jetzt.",
+            "mittel": "natura + ars: rhetorisch geformte Wahrheit mit konkreter Zuspitzung"
+          },
+          {
+            "stufe": 3,
+            "text": "Du fragst: Kann Gott mich lieben, nach allem? Mir, der ich mich selbst kaum noch annehmen kann? Ja – denn Gott liebt nicht wer du sein könntest, sondern wer du bist.",
+            "mittel": "natura + ars + exercitatio: Subiectio + Klimax + Antithese = Meisterschaft"
+          }
+        ]
+      },
+      "combinationen": [
+        {
+          "kombi": "natura + Interrogatio",
+          "beispiel": "Kennst du dieses Gefühl, dass Gott sich abgewandt hat?",
+          "wirkung": "Authentizität durch echte Frage"
+        },
+        {
+          "kombi": "ars + Klimax",
+          "beispiel": "Du zweifelst. Du kämpfst. Du zerbrichst. Und dort beginnt Gott.",
+          "wirkung": "Gezielte Steigerung durch Struktur"
+        },
+        {
+          "kombi": "exercitatio + Subiectio",
+          "beispiel": "Du sagst: Ich kann nicht mehr. Ich sage dir: Du kannst – weil Gott kann.",
+          "wirkung": "Souveräne Hörerfüh­rung durch Übung"
+        }
+      ],
+      "tags": [
+        "grundlagen",
+        "rednerbildung",
+        "ars",
+        "techne",
+        "natura",
+        "exercitatio",
+        "lausberg_kapitel_1"
+      ]
+    }
+  ],
+  "stilmittel": [
+    {
+      "figur_name": "Interrogatio",
+      "alternativnamen": [
+        "rhetorische Frage"
+      ],
+      "griechisch": "ἐρώτημα",
+      "lateinisch": "interrogatio",
+      "oberkategorie": "Gedankenfigur",
+      "unterkategorie": "Fragefigur",
+      "lausberg_paragraphen": "§§ 767–772",
+      "verwandte_figuren": [
+        "Subiectio",
+        "Dubitatio",
+        "Quaesitum",
+        "Exclamatio"
+      ],
+      "abgrenzung": "Keine echte Informationsfrage – Antwort ist implizit oder bereits klar vorgegeben. Unterschied zur Subiectio: Interrogatio stellt nur die Frage, Subiectio gibt selbst die Antwort.",
+      "definition_original": "Die interrogatio unterscheidet sich vom Aussagesatz durch die pronuntiatio. Sie verstärkt, spitzt zu oder lädt emotional auf. Sie kann Zustimmung erzwingen, Affekte wecken oder Argumente indirekt formulieren.",
+      "erklaerung_einfach": "Eine Frage, die keine echte Antwort erwartet. Die Aussage wird in Frageform gekleidet, wodurch sie stärker, emotionaler und eindringlicher wirkt.",
+      "fremdsprachige_originale": [
+        {
+          "sprache": "Latein",
+          "original": "quo modo? qui fieri potest?",
+          "uebersetzung_woertlich": "Auf welche Weise? Wie kann es geschehen?",
+          "uebersetzung_idiomatisch": "Wie soll das möglich sein?",
+          "funktion": "Ausdruck von Zweifel / Unverständnis"
+        },
+        {
+          "sprache": "Latein",
+          "original": "quisquam numen Iunonis adorat?",
+          "uebersetzung_woertlich": "Verehrt irgendjemand die Macht der Juno?",
+          "uebersetzung_idiomatisch": "Verehrt überhaupt noch jemand Juno?",
+          "quelle": "Vergil",
+          "funktion": "Empörung / Anklage – impliziert: Nein, niemand mehr"
+        },
+        {
+          "sprache": "Latein",
+          "original": "quid non mortalia pectora cogis?",
+          "uebersetzung_woertlich": "Was zwingst du nicht die sterblichen Herzen?",
+          "uebersetzung_idiomatisch": "Wozu zwingst du nicht die Herzen der Menschen?",
+          "quelle": "Vergil",
+          "funktion": "Bewunderung / Überwältigung"
+        },
+        {
+          "sprache": "Latein",
+          "original": "heu quae me tellus… accipiet?",
+          "uebersetzung_idiomatisch": "Ach, welches Land wird mich aufnehmen?",
+          "quelle": "Vergil",
+          "funktion": "Klage / hoffnungslose Frage"
+        },
+        {
+          "sprache": "Latein",
+          "original": "quas peti terras iubes?",
+          "uebersetzung_idiomatisch": "In welche Länder befiehlst du mir zu gehen?",
+          "quelle": "Seneca",
+          "funktion": "Hilflosigkeit / Ohnmacht"
+        }
+      ],
+      "wirkung": [
+        "Emotionalisierung",
+        "Zuspitzung",
+        "Dramatisierung",
+        "Hörerführung",
+        "Verstärkung"
+      ],
+      "rhetorische_funktionen": [
+        "Zustimmung erzwingen (auf die man nicht mit Nein antworten kann)",
+        "Emotion verstärken: Empörung, Bewunderung, Zweifel",
+        "Stilistische Variation statt direkter Aussage",
+        "Vorwürfe, Zweifel oder Ironie transportieren",
+        "Hörer persönlich ansprechen und beteiligen"
+      ],
+      "beispiele_deutsche_literatur": [
+        "Was ist der Mensch, dass du seiner gedenkst? (Psalm 8)",
+        "Herr, wer darf Gast sein in deinem Zelt? (Psalm 15)"
+      ],
+      "examples_modern": [
+        "Wie lange noch?",
+        "Wann, wenn nicht heute? Wo, wenn nicht hier? Wer, wenn nicht du?",
+        "Glaubst du wirklich, du kannst so sterben, wie du jetzt lebst?",
+        "Was hält dich – die Angst, dass Gott nicht wirklich da ist, oder die Angst, dass er es ist?",
+        "Hast du aufgehört, fromme Worte zu machen, und angefangen, ihn wirklich anzurufen?",
+        "Wenn heute dein letzter Abend wäre – hättest du mit Gott alles geklärt?",
+        "Du kennst die Wahrheit. Die Frage ist, was du jetzt damit machst."
+      ],
+      "predigtanwendung": [
+        "Einstieg",
+        "Zuspitzung",
+        "Gewissensansprache",
+        "Schluss"
+      ],
+      "predigtwerkstatt": {
+        "ausgangssatz": "Wie lange noch?",
+        "stufen": [
+          {
+            "stufe": 1,
+            "text": "Wie lange noch?",
+            "mittel": "Interrogatio – schlicht"
+          },
+          {
+            "stufe": 2,
+            "text": "Wie lange willst du noch warten? Wie lange willst du noch ausweichen?",
+            "mittel": "Doppelfrage"
+          },
+          {
+            "stufe": 3,
+            "text": "Wie lange läufst du noch vor dem davon, was du weißt? Wie lange sagst du noch: Irgendwann?",
+            "mittel": "Interrogatio + innere Konfrontation"
+          },
+          {
+            "stufe": 4,
+            "text": "Wann, wenn nicht heute? Wo, wenn nicht hier? Wer, wenn nicht du – genau du, mit allem, was du mitbringst?",
+            "mittel": "Dreifache Interrogatio (wann/wo/wer) + Amplificatio"
+          },
+          {
+            "stufe": 5,
+            "text": "Wenn heute dein letzter Abend wäre – wärst du mit Gott fertig? Du kennst die Antwort. Die Frage ist, was du jetzt damit machst.",
+            "mittel": "Eschatologische Interrogatio + Subiectio + Commoratio"
+          }
+        ]
+      },
+      "kombinationen": [
+        {
+          "kombi": "Interrogatio + Subiectio",
+          "beispiel": "Du fragst: Kann Gott mir vergeben? Ja – genau dir.",
+          "wirkung": "Frage und Antwort ergeben vollständigen Dialog"
+        },
+        {
+          "kombi": "Interrogatio + Metapher",
+          "beispiel": "Wie lange willst du noch vor verschlossener Tür stehen, wenn Christus selbst die Tür geöffnet hat?",
+          "wirkung": "Die Frage drängt, die Metapher macht sie anschaulich"
+        },
+        {
+          "kombi": "Interrogatio + Anapher",
+          "beispiel": "Wie lange noch? Wie lange noch fern? Wie lange noch stolz?",
+          "wirkung": "Rhythmische Intensivierung der Dringlichkeit"
+        },
+        {
+          "kombi": "Interrogatio + Epimone",
+          "beispiel": "Wen hat er jemals verschont? Wessen Freundschaft hat er gehalten? Wann hat er jemanden nicht verraten?",
+          "wirkung": "Mehrere Fragen kreisen insistierend um denselben Vorwurf"
+        }
+      ],
+      "verbesserungshinweise": [
+        "Einsetzen bei Entscheidungssituationen und Gewissensansprache",
+        "Vermeiden bei nüchterner Lehre",
+        "Gut kombinierbar mit Wiederholung (Anapher) und Dialog (Subiectio)",
+        "Besonders stark im gesprochenen Wort",
+        "Zu viele Fragen nacheinander wirken belehrend oder künstlich"
+      ],
+      "bewertung": {
+        "verstaendlichkeit_hoeren": 5,
+        "feierlichkeit": 3,
+        "eindringlichkeit": 5,
+        "merkfaehigkeit": 4,
+        "gefahr_ueberkuenstlichkeit": 3,
+        "eignung_predigt": 5,
+        "eignung_vortrag": 5,
+        "eignung_unterricht": 4
+      },
+      "tags": [
+        "einstieg",
+        "zuspitzung",
+        "gewissen",
+        "emotion",
+        "frage",
+        "dringlichkeit"
+      ]
+    },
+    {
+      "figur_name": "Subiectio",
+      "alternativnamen": [
+        "Dialogfigur",
+        "fingierter Dialog",
+        "Hypophora"
+      ],
+      "lateinisch": "subiectio",
+      "oberkategorie": "Gedankenfigur",
+      "unterkategorie": "Dialogische Figur",
+      "lausberg_paragraphen": "§§ 771–772",
+      "verwandte_figuren": [
+        "Interrogatio",
+        "Dialogismus",
+        "Sermocinatio"
+      ],
+      "abgrenzung": "Enthält immer Frage + Antwort. Der Redner stellt die Frage und beantwortet sie selbst. Unterschied zur Interrogatio: Diese bleibt mit der Frage stehen.",
+      "definition_original": "Die subiectio ist ein in die Rede hineingenommener fingierter (monologischer) Dialog mit Frage und Antwort. Ziel: Gedankenführung strukturieren, Einwände vorwegnehmen, Spannung erzeugen.",
+      "erklaerung_einfach": "Ein eingebauter Dialog: Der Redner stellt Fragen – oft im Namen des Gegners oder Publikums – und beantwortet sie selbst. Simuliert einen Gegenspieler, erhöht Klarheit und Überzeugungskraft.",
+      "fremdsprachige_originale": [
+        {
+          "sprache": "Latein",
+          "original": "domus tibi deerat? at habebas; pecunia superabat? at egebas",
+          "uebersetzung_woertlich": "Fehlte dir ein Haus? Aber du hattest eines. Hattest du zu viel Geld? Aber du warst bedürftig.",
+          "uebersetzung_idiomatisch": "Dir fehlte ein Haus? – Nein, du hattest eines. Hattest du zu viel Geld? – Nein, du hattest Mangel.",
+          "quelle": "Cicero",
+          "funktion": "Widerlegung durch fingierten Dialog"
+        },
+        {
+          "sprache": "Latein",
+          "original": "quid ergo?",
+          "uebersetzung_idiomatisch": "Was also?",
+          "funktion": "Scheinbarer Einwand, der zur nächsten Aussage überleitet"
+        }
+      ],
+      "wirkung": [
+        "Struktur",
+        "Überzeugungskraft",
+        "Klarheit",
+        "Spannung",
+        "Nähe zum Hörer"
+      ],
+      "rhetorische_funktionen": [
+        "Frage + direkte Antwort im selben Redebeitrag",
+        "Gegenspieler simulieren: Einwand – Antwort",
+        "Einwände der Zuhörer vorwegnehmen",
+        "Spannung erzeugen und sofort lösen",
+        "Identifikation beim Hörer herstellen"
+      ],
+      "examples_modern": [
+        "Du sagst: Das ist nichts für mich. – Er sagt: Genau für dich bin ich gestorben.",
+        "Reicht das wirklich für alles? – Es hat das Kreuz gereicht. Es reicht auch für dich.",
+        "Du fragst: Hat Gott mich vergessen? – Er hat deinen Namen in seine Hände eingeschrieben. Mit seinem Blut.",
+        "Ist das nicht zu einfach? – Einfach war am Kreuz gar nichts.",
+        "Was jetzt? – Jetzt komm. Das ist alles, was er verlangt."
+      ],
+      "predigtanwendung": [
+        "Auslegung",
+        "Argumentation",
+        "Einwandbehandlung",
+        "Evangelistische Predigt",
+        "Zuspitzung"
+      ],
+      "predigtwerkstatt": {
+        "ausgangssatz": "Gilt Gnade wirklich für mich?",
+        "stufen": [
+          {
+            "stufe": 1,
+            "text": "Du fragst: Gilt das für mich? – Ja.",
+            "mittel": "Subiectio – schlicht"
+          },
+          {
+            "stufe": 2,
+            "text": "Du fragst: Für mich? – Er sagt: Genau für dich.",
+            "mittel": "Subiectio als direkter Dialog"
+          },
+          {
+            "stufe": 3,
+            "text": "Du sagst: Aber du kennst mich nicht wirklich. – Er sagt: Ich kenne alles. Und ich bin trotzdem hier.",
+            "mittel": "Subiectio + Paradoxon"
+          },
+          {
+            "stufe": 4,
+            "text": "Du sagst: Das ist zu viel, was ich getan habe. – Er zeigt dir seine Hände. Er zeigt dir seine Seite. Er sagt: Ich weiß. Und ich habe es trotzdem bezahlt. Für dich.",
+            "mittel": "Subiectio + Evidentia + Aetiologia"
+          },
+          {
+            "stufe": 5,
+            "text": "Du fragst: Reicht das wirklich für alles? – Wenn das Kreuz nicht gereicht hätte, wäre er nicht auferstanden. Er ist auferstanden. Also reicht es. Für dich. Heute. Ohne Restschuld.",
+            "mittel": "Subiectio + Enthymem + Klimax + Antithese"
+          },
+          {
+            "stufe": 6,
+            "titel": "Vollkombination Stufe 1 – reine Subiectio",
+            "text": "Du fragst: Kann Gott mir wirklich vergeben? Ich antworte: Ja, genau dir.",
+            "mittel": "Subiectio allein – Dialog- und Antwortstruktur"
+          },
+          {
+            "stufe": 7,
+            "titel": "Vollkombination Stufe 2 – + Klimax",
+            "text": "Du fragst: Kann Gott mir wirklich vergeben? Mir, der ich gelogen habe, der ich gefallen bin, der ich wieder und wieder zurück in dieselbe Schuld gegangen bin? Ich antworte: Ja, genau dir.",
+            "mittel": "Subiectio + Klimax: Schuldlast wächst stufenweise"
+          },
+          {
+            "stufe": 8,
+            "titel": "Vollkombination Stufe 3 – + Anapher",
+            "text": "Du fragst: Kann Gott mir wirklich vergeben? Mir, der ich gefallen bin? Mir, der ich versagt habe? Mir, der ich bete und doch wieder zweifle, lese und doch wieder vergesse, verspreche und doch wieder breche? Ich antworte: Ja, genau dir.",
+            "mittel": "Subiectio + Klimax + Anapher: Rhythmus durch Wiederkehr von 'Mir, der ich'"
+          },
+          {
+            "stufe": 9,
+            "titel": "Vollkombination Stufe 4 – + Metapher (Höhepunkt)",
+            "text": "Du fragst: Kann Gott mir wirklich vergeben? Mir, der ich gefallen bin? Mir, der ich versagt habe? Mir, der ich mit schmutzigen Händen, mit müdem Herzen, mit zerrissener Seele vor ihm stehe? Ich antworte: Ja, genau dir – denn Christus sucht nicht die Sauberen, sondern wäscht die Schuldigen.",
+            "mittel": "Subiectio + Klimax + Anapher + Metapher: Vollkombination. Satzteilhäufung (schmutzige Hände / müdes Herz / zerrissene Seele) + Antithese im Schlusssatz als evangelistischer Landepunkt."
+          }
+        ]
+      },
+      "kombinationen": [
+        {
+          "kombi": "Subiectio + Interrogatio",
+          "beispiel": "Du fragst: Hört Gott mich überhaupt? Ich sage dir: Ja – und mehr, als du denkst.",
+          "wirkung": "Dialog und Frage zur unmittelbaren Ansprache"
+        },
+        {
+          "kombi": "Subiectio + Klimax",
+          "beispiel": "Du fragst: Kann Gott mir vergeben? Mir? Mir, der ich gelogen habe, gefallen bin, wieder und wieder zurückgefallen bin? Ja, genau dir.",
+          "wirkung": "Innere Beteiligung steigt Stufe für Stufe"
+        },
+        {
+          "kombi": "Subiectio + Anapher",
+          "beispiel": "Mir, der ich gefallen bin? Mir, der ich versagt habe? Mir, der ich mich vor Gott verstecke? – Ja, genau dir.",
+          "wirkung": "Rhythmus verleiht der Selbstanklage Eindringlichkeit"
+        },
+        {
+          "kombi": "Subiectio + Epimone",
+          "beispiel": "Du fragst: Gilt Gottes Gnade auch mir? Mir im Stolz? Mir im Versagen? Mir in der verborgenen Schuld? Ja, gerade dir.",
+          "wirkung": "Dialog plus insistierende Ausfaltung"
+        },
+        {
+          "kombi": "Subiectio + Expolitio",
+          "beispiel": "Du fragst: Kann Gott mir vergeben? Ja. Ja dem Gefallenen. Ja dem Schuldigen. Ja dem, der kaum noch hoffen kann.",
+          "wirkung": "Antwort wird weiter entfaltet und vertieft"
+        }
+      ],
+      "verbesserungshinweise": [
+        "Besonders bei Zweifeln und Einwänden einsetzen",
+        "Mündlich sehr wirkungsvoll",
+        "Gut kombinierbar mit Interrogatio, Klimax, Anapher",
+        "Vermeiden bei rein informativen Texten",
+        "Wirkt gestellt, wenn zu häufig eingesetzt"
+      ],
+      "bewertung": {
+        "verstaendlichkeit_hoeren": 5,
+        "feierlichkeit": 3,
+        "eindringlichkeit": 5,
+        "merkfaehigkeit": 4,
+        "gefahr_ueberkuenstlichkeit": 3,
+        "eignung_predigt": 5,
+        "eignung_vortrag": 5,
+        "eignung_unterricht": 4
+      },
+      "tags": [
+        "argumentation",
+        "auslegung",
+        "zuspitzung",
+        "evangelistisch",
+        "dialog",
+        "einwand"
+      ]
+    },
+    {
+      "figur_name": "Metapher",
+      "alternativnamen": [
+        "translatio",
+        "immutatio",
+        "Bedeutungsübertragung"
+      ],
+      "griechisch": "μεταφορά",
+      "lateinisch": "translatio; immutatio",
+      "oberkategorie": "Tropus",
+      "unterkategorie": "Bedeutungsübertragung / Bildübertragung",
+      "lausberg_paragraphen": "§§ 531 ff.",
+      "verwandte_figuren": [
+        "Synekdoche",
+        "Metonymie",
+        "Allegorie",
+        "Hyperbel",
+        "Vergleich",
+        "Similitudo"
+      ],
+      "abgrenzung": "Vergleich nennt beide Seiten ausdrücklich ('wie'); Metapher verschmilzt sie. Metonymie ersetzt durch sachliche Nähe. Synekdoche durch Teil-Ganzes-Relation.",
+      "definition_original": "Veränderung der sprachlichen Ausdrucksweise durch übertragene Benennung. Ein Ausdruck wird aus seinem gewöhnlichen Bedeutungsbereich in einen anderen übertragen.",
+      "erklaerung_einfach": "Die Metapher spricht von einer Sache durch ein anderes Bild. Ein Wort steht nicht im gewöhnlichen, sondern im übertragenen Sinn. Sie verdichtet, macht anschaulich und erzeugt emotionale Färbung.",
+      "wann_stark": "Wenn das Bild klar, passend und innerlich zwingend ist",
+      "wann_schwach": "Wenn zu viele Bilder übereinanderliegen oder das Bild nicht zur Sache passt (Bildbruch, Kitsch)",
+      "wirkung": [
+        "Bildhaftigkeit",
+        "Verdichtung",
+        "Emotionalisierung",
+        "Veranschaulichung",
+        "Feierlichkeit",
+        "Einprägsamkeit"
+      ],
+      "rhetorische_funktionen": [
+        "Abstraktes hörbar machen",
+        "Theologie verkörpern und erfahrbar machen",
+        "Emotionale und geistliche Resonanz erzeugen",
+        "Merkfähigkeit erhöhen",
+        "Feierlichkeit verleihen"
+      ],
+      "beispiele_deutsche_literatur": [
+        "Der Herr ist mein Hirte. (Psalm 23) – Bildübertragung mit Leitfunktion",
+        "Ein feste Burg ist unser Gott. (Luther) – Gott als Schutzraum",
+        "Die Zeit rinnt uns durch die Finger. – alltagssprachlich aber rhetorisch sauber"
+      ],
+      "examples_modern": [
+        "Das Kreuz ist kein religiöses Denkmal – es ist der Ort, wo deine Schuld bezahlt wurde.",
+        "Gottes Gnade ist kein Pflaster auf der Wunde – sie ist ein neues Herz.",
+        "Du kämpfst gegen die Flut mit einem Löffel. Er hält die ganze See in der Hand.",
+        "Das Evangelium ist kein Aufbauseminar für schwierige Zeiten. Es ist Feuer. Und Feuer verändert, was es berührt.",
+        "Sein Blut ist kein Symbol – es ist der Preis, der wirklich bezahlt wurde."
+      ],
+      "predigtanwendung": [
+        "Einstieg",
+        "Auslegung",
+        "Zuspitzung",
+        "Schluss",
+        "Trauerpredigten mit schlichter Bildwelt"
+      ],
+      "predigtwerkstatt": {
+        "ausgangssatz": "Gott trägt dich.",
+        "stufen": [
+          {
+            "stufe": 1,
+            "text": "Gott trägt dich.",
+            "mittel": "schlicht"
+          },
+          {
+            "stufe": 2,
+            "text": "Gott trägt dich auch dann, wenn deine Knie längst nicht mehr tragen.",
+            "mittel": "Metapher einfach"
+          },
+          {
+            "stufe": 3,
+            "text": "Wenn dein eigenes Herz einknickt, bleibt Gottes Hand der Boden unter deinen Füßen.",
+            "mittel": "Metapher ausgebaut"
+          }
+        ]
+      },
+      "kombinationen": [
+        {
+          "kombi": "Metapher + Interrogatio",
+          "beispiel": "Wie lange willst du noch vor verschlossener Tür stehen, wenn Christus selbst die Tür geöffnet hat?",
+          "wirkung": "Die Frage drängt, die Metapher macht sie anschaulich"
+        },
+        {
+          "kombi": "Metapher + Subiectio",
+          "beispiel": "Du fragst: Kann Gott mich noch annehmen? Ich antworte: Ja – selbst aus verbrannter Erde lässt er noch einen Garten wachsen.",
+          "wirkung": "Subiectio führt den Hörer, Metapher schenkt Bildkraft"
+        },
+        {
+          "kombi": "Metapher + Klimax",
+          "beispiel": "Er klopft an dein Gewissen, an dein Herz, an dein verborgenstes Inneres.",
+          "wirkung": "Das Bild wird stufenweise gesteigert"
+        },
+        {
+          "kombi": "Metapher + Anapher",
+          "beispiel": "Wenn die Nacht fällt, ist er Licht. Wenn die Kraft fällt, ist er Halt. Wenn die Hoffnung fällt, ist er Zukunft.",
+          "wirkung": "Wiederholung gibt Rhythmus, Metapher gibt Gehalt"
+        },
+        {
+          "kombi": "Metapher + Antithese",
+          "beispiel": "Was dir wie das Ende vorkommt, ist bei Gott oft der Anfang.",
+          "wirkung": "Kontrast schärft das Bild"
+        },
+        {
+          "kombi": "Metapher + Subiectio + Klimax + Anapher (Vollkombination)",
+          "beispiel": "Du fragst: Kann Gott mir wirklich vergeben? Mir, der ich gefallen bin? Mir, der ich versagt habe? Mir, der ich mit schmutzigen Händen, mit müdem Herzen, mit zerrissener Seele vor ihm stehe? Ich antworte: Ja, genau dir – denn Christus sucht nicht die Sauberen, sondern wäscht die Schuldigen.",
+          "wirkung": "Dialog + Steigerung + Rhythmus + Bild + Schlusspointe"
+        }
+      ],
+      "verbesserungshinweise": [
+        "Bildklarheit vor Bildmenge – lieber ein starkes Bild als viele schwache",
+        "Bildbruch und vermischte Metaphern vermeiden",
+        "Mit Anapher, Klimax, Interrogatio und Antithese kombinierbar",
+        "Für mündliche Rede besonders stark, weil Bilder schneller haften als Begriffe",
+        "Fromme Standardbilder ohne Frische vermeiden"
+      ],
+      "bewertung": {
+        "verstaendlichkeit_hoeren": 5,
+        "feierlichkeit": 4,
+        "eindringlichkeit": 5,
+        "merkfaehigkeit": 5,
+        "gefahr_ueberkuenstlichkeit": 4,
+        "eignung_predigt": 5,
+        "eignung_vortrag": 5,
+        "eignung_unterricht": 4
+      },
+      "tags": [
+        "bildhaftigkeit",
+        "tropus",
+        "einstieg",
+        "schluss",
+        "auslegung",
+        "trost",
+        "feierlichkeit"
+      ]
+    },
+    {
+      "figur_name": "Expolitio",
+      "alternativnamen": [
+        "Ausmalung",
+        "variierende Wiederaufnahme"
+      ],
+      "lateinisch": "expolitio",
+      "oberkategorie": "Gedankenfigur",
+      "unterkategorie": "Wiederholende Ausarbeitung / variierende Wiederaufnahme",
+      "lausberg_paragraphen": "§§ 830–839",
+      "verwandte_figuren": [
+        "Commoratio",
+        "Interpretatio",
+        "Paraphrasis",
+        "Enumeratio",
+        "Anaphora",
+        "Gradatio",
+        "Epimone"
+      ],
+      "abgrenzung": "Nicht stumpfe Wiederholung (Tautologie) und nicht bloße Anapher. Stärker als bloße Wiederholung: derselbe Gedanke verweilt und wird variiert. Commoratio = Expolitio des Zentralgedankens der ganzen Rede.",
+      "definition_original": "Die expolitio ist die Ausmalung (rem expolire) eines Gedankens (res) durch Abwandlung (variatio) der sprachlichen Formulierung (verba) und der zum Hauptgedanken gehörenden Nebengedanken. – expolitio est, cum in eodem loco manemus et diutius apud eandem rem dicere videmur.",
+      "erklaerung_einfach": "Ein zentraler Gedanke wird nicht nur einmal gesagt, sondern mehrfach aufgegriffen und dabei sprachlich oder gedanklich variiert. Das Wort bleibt, aber neue Seiten werden entfaltet. Fruchtbares Verweilen, kein leeres Wiederholen.",
+      "fremdsprachige_originale": [
+        {
+          "sprache": "Latein",
+          "original": "expolitio est, cum in eodem loco manemus et diutius apud eandem rem dicere videmur",
+          "uebersetzung_woertlich": "Ausmalung ist, wenn wir an derselben Stelle verweilen und den Eindruck erwecken, länger über dieselbe Sache zu sprechen",
+          "uebersetzung_idiomatisch": "Expolitio ist das verweilende, variierende Weiterreden über denselben Gedanken",
+          "funktion": "Grunddefinition"
+        },
+        {
+          "sprache": "Latein",
+          "original": "commoratio una in re permultum movet",
+          "uebersetzung_woertlich": "Das Verweilen bei einer Sache bewegt sehr viel",
+          "uebersetzung_idiomatisch": "Das Beharren bei einem einzigen Punkt wirkt außerordentlich stark",
+          "funktion": "Begründet die affektische Kraft"
+        },
+        {
+          "sprache": "Latein",
+          "original": "commutabimus tripliciter: verbis, pronuntiando, tractando",
+          "uebersetzung_idiomatisch": "Die Variation geschieht auf drei Ebenen: im Wortlaut, im Vortragen und in der Art der gedanklichen Behandlung",
+          "funktion": "Grundschema der Unterarten"
+        },
+        {
+          "sprache": "Latein",
+          "original": "eandem rem dicemus non eodem modo – nam id quidem obtundere auditorem est, non rem expolire – sed commutate",
+          "uebersetzung_idiomatisch": "Wir werden denselben Gedanken nicht auf dieselbe Weise sagen – denn das stumpft den Hörer nur ab – sondern in veränderter Form",
+          "funktion": "Unterscheidung von bloßer Wiederholung und echter Expolitio"
+        },
+        {
+          "sprache": "Latein",
+          "original": "Quousque tandem abutere, Catilina, patientia nostra? quamdiu etiam furor iste tuus nos eludet? quem ad finem sese effrenata iactabit audacia?",
+          "uebersetzung_idiomatisch": "Wie lange noch, Catilina, wirst du unsere Geduld missbrauchen? Wie lange noch wird dieser Wahnsinn uns täuschen? Bis zu welchem Ende wird deine entfesselte Frechheit sich austoben?",
+          "quelle": "Cicero, In Catilinam",
+          "funktion": "Klassischer dreifacher Expolitio-Effekt mit Interrogatio und Klimax"
+        }
+      ],
+      "unterformen": {
+        "eandem_rem_dicere": {
+          "name": "Eandem rem dicere – sprachliche Expolitio",
+          "beschreibung": "Gleicher Gedanke, anderer Wortlaut.",
+          "beispiel": "Er ist gefallen. – Er ist gescheitert. – Er ist zu Boden gegangen.",
+          "predigt": "Gott trägt dich. Gott hält dich. Gott lässt dich nicht aus seiner Hand."
+        },
+        "commutando_pronuntiationem": {
+          "name": "Commutando pronuntiationem – Vortragssteigerung",
+          "beschreibung": "Worte bleiben, aber Vortrag, Stimme, Mimik, Gebärde steigern die Wirkung.",
+          "beispiel": "ruhig: 'Christus lebt.' – fester: 'Christus lebt.' – jubelnd: 'Christus lebt!'",
+          "wichtig": "Nicht jede Steigerung ist Textsteigerung – vieles ist Vortragssteigerung"
+        },
+        "interpretatio": {
+          "name": "Interpretatio – kurze sprachliche Paraphrase",
+          "lausberg": "§ 837",
+          "beschreibung": "Wort-für-Wort-Entsprechung; kürzeste Form der sprachlichen Paraphrase.",
+          "beispiel": "'Er starb.' → 'Er kam ums Leben.' | 'Gott rettet.' → 'Gott befreit.' → 'Gott zieht heraus.'"
+        },
+        "gedanklich_variierende_paraphrase": {
+          "name": "Gedanklich variierende Paraphrase",
+          "lausberg": "§ 838",
+          "beschreibung": "Der Hauptgedanke bleibt, wird aber in koordinierte Teilgedanken aufgespalten. Unterformen: Satzhäufung, Satzteilhäufung, Einzelworthäufung.",
+          "beispiel": "Ich brauche Vergebung für meine Worte. Ich brauche Vergebung für meine Taten. Ich brauche Vergebung für mein verborgenes Denken."
+        },
+        "commutando_tractationem": {
+          "name": "Commutando tractationem – andere Behandlung",
+          "lausberg": "§ 839",
+          "beschreibung": "Nicht mehr nur anderes Wortmaterial, sondern affektische Änderung der ganzen Ausdrucksweise.",
+          "folgefiguren": [
+            "sermocinatio (§ 840) – Selbstgespräch",
+            "exsuscitatio (§ 841) – aufrüttelnde Erregung"
+          ]
+        }
+      },
+      "wirkung": [
+        "Eindringlichkeit",
+        "Einprägung",
+        "Affektische Steigerung",
+        "Verlangsamung zur Vertiefung",
+        "Hörerführung"
+      ],
+      "examples_modern": [
+        "Gott vergibt. Er nimmt die Schuld nicht nur in Kauf – er trägt sie ans Kreuz. Er macht das Urteil nicht milder – er kassiert es. Er lässt dich nicht mit weniger Schuld stehen – er lässt dich ohne.",
+        "Gott vergibt. Das heißt: Das Urteil ist gesprochen – und Christus fängt es auf. Der Ankläger meldet sich – und wird überstimmt. Die Scham macht dich stumm – und Gott nennt trotzdem deinen Namen."
+      ],
+      "predigtanwendung": [
+        "Auslegung",
+        "Zuspitzung",
+        "Trost",
+        "Gewissensansprache",
+        "Schluss"
+      ],
+      "predigtwerkstatt": {
+        "ausgangssatz": "Gott vergibt.",
+        "stufen": [
+          {
+            "stufe": 1,
+            "text": "Gott vergibt.",
+            "mittel": "schlicht"
+          },
+          {
+            "stufe": 2,
+            "text": "Gott vergibt. Er nimmt Schuld ab. Er löst von Scham. Er richtet den Gefallenen auf.",
+            "mittel": "Expolitio einfach"
+          },
+          {
+            "stufe": 3,
+            "text": "Gott vergibt. Er deckt Schuld nicht nur zu, er nimmt sie weg. Er lässt Scham nicht nur verstummen, er löst sie. Er hebt den Gefallenen nicht nur an, er stellt ihn wieder auf.",
+            "mittel": "Expolitio mit Antithese"
+          }
+        ]
+      },
+      "kombinationen": [
+        {
+          "kombi": "Expolitio + Subiectio",
+          "beispiel": "Du fragst: Kann Gott mir vergeben? Ja. Ja dem Gefallenen. Ja dem Schuldigen. Ja dem, der kaum noch hoffen kann.",
+          "wirkung": "Dialogischer Rahmen plus variierende Entfaltung"
+        },
+        {
+          "kombi": "Expolitio + Anapher",
+          "beispiel": "Mir, der ich gefallen bin. Mir, der ich gelogen habe. Mir, der ich mich vor Gott verstecke.",
+          "wirkung": "Wiederkehr des Anfangs verleiht Rhythmus"
+        },
+        {
+          "kombi": "Expolitio + Klimax",
+          "beispiel": "Er sieht deine Schuld. Er trägt deine Schuld. Er tilgt deine Schuld.",
+          "wirkung": "Derselbe Gedanke wächst in seiner Dimension"
+        },
+        {
+          "kombi": "Expolitio + Antithese",
+          "beispiel": "Ich bringe Schuld – Christus bringt Vergebung. Ich bringe Scham – Christus bringt Freispruch. Ich bringe Bruch – Christus bringt Heilung.",
+          "wirkung": "Gegensatz schärft die Ausfaltung"
+        },
+        {
+          "kombi": "Expolitio + Trikolon",
+          "beispiel": "Er sucht. Er findet. Er rettet.",
+          "wirkung": "Knapp, rhythmisch, merkfähig"
+        },
+        {
+          "kombi": "Expolitio + Isokolon",
+          "beispiel": "Er trägt im Dunkel. Er hält im Fallen. Er ruft im Schweigen.",
+          "wirkung": "Gleich gebauter Rhythmus"
+        },
+        {
+          "kombi": "Vollkombination: Subiectio + Expolitio + Klimax + Anapher + Metapher",
+          "beispiel": "Du fragst: Kann Gott mir wirklich vergeben? Mir, der ich gefallen bin? Mir, der ich versagt habe? Mir, der ich mit schmutzigen Händen, mit müdem Herzen, mit zerrissener Seele vor ihm stehe? Ich antworte: Ja, genau dir – denn Christus sucht nicht die Sauberen, sondern wäscht die Schuldigen.",
+          "wirkung": "Dialog + Steigerung + Rhythmus + Bild + Evangeliumsöffnung"
+        },
+        {
+          "kombi": "Expolitio + Interrogatio",
+          "beispiel": "Wie sollte Christus gerade dich nicht meinen, wenn er doch für Sünder gekommen ist?",
+          "wirkung": "Die fragende Dringlichkeit treibt die Expolitio voran"
+        },
+        {
+          "kombi": "Expolitio + Periphrase",
+          "beispiel": "'Gott vergibt' → 'Gott nimmt die Last von den Schultern' → 'Gott bricht das Siegel der Vergangenheit'",
+          "wirkung": "Periphrase entfaltet den Gedanken durch immer reichere Umschreibungen"
+        }
+      ],
+      "verbesserungshinweise": [
+        "Nicht mechanisch wiederholen – mit innerer Steigerung arbeiten",
+        "Klaren Zentralsatz vor dem Einsatz festlegen",
+        "Mit Subiectio, Anapher und Klimax besonders kombinierbar",
+        "Für mündliche Rede stärker als für Fließtext",
+        "In der Seelsorge sehr stark bei Schuld, Trost und Ruf Gottes"
+      ],
+      "bewertung": {
+        "verstaendlichkeit_hoeren": 5,
+        "feierlichkeit": 3,
+        "eindringlichkeit": 5,
+        "merkfaehigkeit": 4,
+        "gefahr_ueberkuenstlichkeit": 4,
+        "eignung_predigt": 5,
+        "eignung_vortrag": 5,
+        "eignung_unterricht": 5
+      },
+      "tags": [
+        "auslegung",
+        "zuspitzung",
+        "trost",
+        "ermahnung",
+        "gliederung",
+        "memorierbarkeit",
+        "rhythmus"
+      ]
+    },
+    {
+      "figur_name": "Commoratio",
+      "alternativnamen": [
+        "Verweilung am Hauptgedanken"
+      ],
+      "lateinisch": "commoratio",
+      "oberkategorie": "Gedankenfigur",
+      "unterkategorie": "Verweilende Ausarbeitung des tragenden Zentralgedankens",
+      "verwandte_figuren": [
+        "Expolitio",
+        "Epimone",
+        "Gradatio"
+      ],
+      "abgrenzung": "Expolitio behandelt einen Gedanken innerhalb der Rede. Commoratio behandelt den tragenden Hauptgedanken der ganzen Rede – er kehrt immer wieder zurück wie Blut durch den ganzen Körper der Rede.",
+      "definition_original": "commoratio est, cum in loco firmissimo, a quo tota causa continetur, manetur diutius et eodem saepius reditur ... hic locus non est a tota causa separatus sicut membrum aliquod, sed tanquam sanguis perfusus est per totum corpus orationis.",
+      "uebersetzung_definition": "Commoratio liegt vor, wenn man bei dem stärksten Punkt, von dem der ganze Fall zusammengehalten wird, länger verweilt und immer wieder zu ihm zurückkehrt; dieser Punkt ist nicht wie ein einzelnes Glied vom Ganzen getrennt, sondern wie Blut durch den ganzen Körper der Rede hindurchgegossen.",
+      "erklaerung_einfach": "Der zentrale Leitgedanke der Predigt kehrt immer wieder zurück – in der Auslegung, im Trost, in der Anwendung, im Schluss. Er hält alles zusammen.",
+      "wirkung": [
+        "Kohärenz",
+        "Eindringlichkeit",
+        "Einprägung",
+        "Architekturklarheit"
+      ],
+      "examples_modern": [
+        "Er ist auferstanden. Darum ist dein Versagen nicht das Ende. Er ist auferstanden. Darum ist der Tod nicht das Letzte. Er ist auferstanden. Darum fängst du nicht von vorne an – du fängst mit ihm an.",
+        "Das Kreuz steht. Und wenn das Kreuz steht, dann steht alles, was Gott je gesagt hat. Und wenn das steht, dann steht auch dieses: Er liebt dich. Bedingungslos. Heute."
+      ],
+      "predigtanwendung": [
+        "Strukturprinzip der ganzen Predigt",
+        "Thematischer Schlussrefrain",
+        "Osterpredigt",
+        "Auferstehungspredigt"
+      ],
+      "kombinationen": [
+        {
+          "kombi": "Commoratio + Anapher",
+          "beispiel": "Er lebt für dich. Er lebt über dir. Er lebt vor dir.",
+          "wirkung": "Rhythmus verstärkt das Verweilen"
+        },
+        {
+          "kombi": "Commoratio + Antithese",
+          "beispiel": "Der Tod spricht Ende. Christus spricht Anfang.",
+          "wirkung": "Kontrast schärft den Zentralgedanken"
+        },
+        {
+          "kombi": "Commoratio + Schlussrefrain",
+          "beispiel": "Christus lebt – am Ende jeder Hauptbewegung der Predigt",
+          "wirkung": "Architektonische Einheit"
+        }
+      ],
+      "tags": [
+        "struktur",
+        "leitgedanke",
+        "architektur",
+        "ostern",
+        "auferstehung"
+      ],
+      "predigtwerkstatt": {
+        "ausgangssatz": "Christus lebt.",
+        "stufen": [
+          {
+            "stufe": 1,
+            "text": "Christus lebt.",
+            "mittel": "schlichte Aussage – der Zentralgedanke"
+          },
+          {
+            "stufe": 2,
+            "text": "Christus lebt. Darum ist Schuld nicht das Letzte. Christus lebt. Darum ist Grab nicht das Letzte. Christus lebt. Darum ist Angst nicht das Letzte.",
+            "mittel": "Commoratio + Epimone: der Leitgedanke kehrt dreimal wieder"
+          },
+          {
+            "stufe": 3,
+            "text": "Christus lebt. Und wenn Christus lebt, dann ist deine Schuld nicht mehr Richter, dein Grab nicht mehr Herr und deine Angst nicht mehr König.",
+            "mittel": "Commoratio + Antithese + Klimax: dreifache Machtenthronung"
+          }
+        ]
+      }
+    },
+    {
+      "figur_name": "Epimone",
+      "alternativnamen": [
+        "Verweilen",
+        "beharrende Wiederaufnahme",
+        "insistierende Häufung"
+      ],
+      "griechisch": "ἐπιμονή",
+      "lateinisch": "epimone",
+      "oberkategorie": "Grenzfigur Gedankenfigur / Wortfigur",
+      "unterkategorie": "Insistierende Häufung",
+      "lausberg_paragraphen": "§ 839 (Umfeld)",
+      "abgrenzung": "Zur Expolitio: Epimone bezeichnet das beharrende Verweilen. Zur Anaphora: dort Wiederkehr des Anfangs, hier der Sinn. Zur Enumeratio: dort Ordnung, hier insistierende Verstärkung.",
+      "definition_original": "epimone est, quotiens in eodem sensu diutius immoramur. – ἐπιμονή δέ ἐστι προφορὰ πλειόνων λέξεων ἐπίσης τὸ αὐτὸ σημαινουσῶν, ἢ καὶ λόγων.",
+      "erklaerung_einfach": "Beharrliches Verweilen beim selben Gedanken durch dicht gehäufte gleichbedeutende Wörter oder Sätze. Nicht bloße Wiederholung, sondern beharrliche Verstärkung durch Kreisen um dieselbe Sache.",
+      "fremdsprachige_originale": [
+        {
+          "sprache": "Latein",
+          "original": "epimone est, quotiens in eodem sensu diutius immoramur",
+          "uebersetzung_idiomatisch": "Epimone ist das beharrliche Verweilen beim selben Gedanken",
+          "funktion": "Kurzdefinition"
+        },
+        {
+          "sprache": "Latein",
+          "original": "cui tandem pepercit? cuius amicitiae fidem custodivit? cui bono inimicus non fuit? quando non aut accusavit aliquem aut verberavit aut prodidit?",
+          "uebersetzung_idiomatisch": "Wen hat er jemals geschont? Wessen Freundschaft hat er treu gehalten? Wem war er kein Gegner? Wann hat er nicht jemanden angeklagt, misshandelt oder verraten?",
+          "funktion": "Insistierendes Kreisen um denselben Vorwurf"
+        },
+        {
+          "sprache": "Griechisch",
+          "original": "ἐπιμονή δέ ἐστι προφορὰ πλειόνων λέξεων ἐπίσης τὸ αὐτὸ σημαινουσῶν, ἢ καὶ λόγων",
+          "uebersetzung_idiomatisch": "Epimone ist die Häufung gleichbedeutender Wörter oder ganzer Aussagen zum selben Sinn",
+          "funktion": "Präzisierung: wortweise und satzweise möglich"
+        },
+        {
+          "sprache": "Griechisch",
+          "original": "ὁ θεὸς ἡμᾶς ἐρρύσατο ἀπὸ συμπλοκῆς, ἀπὸ μάχης, ἀπὸ τραυμάτων, ἀπὸ αἱμάτων",
+          "uebersetzung_idiomatisch": "Gott hat uns gerettet – aus der Verstrickung, aus dem Kampf, aus Verwundung, aus Blutvergießen",
+          "funktion": "Gehäufte Gefahren malen die Rettung aus"
+        },
+        {
+          "sprache": "Griechisch",
+          "original": "ἀλλ' ἦδέ μ' ἐξέσωσεν, ἦδέ μοι τροϕός, μήτηρ, ἀδελϕή, δμωίς, ἄγκυρα, στέγη",
+          "uebersetzung_idiomatisch": "Aber sie hat mich gerettet; sie war mir Amme, Mutter, Schwester, Helferin, Anker und Obdach.",
+          "quelle": "Euripides",
+          "funktion": "Einzelworthäufung malt eine Person durch dichte Benennungen aus"
+        },
+        {
+          "sprache": "Griechisch",
+          "original": "οἱ Θηβαῖοι φίλον, εὐεργέτην, σωτῆρα τὸν Φίλιππον ἡγοῦντο, πάντ' ἐκεῖνος ἦν αὐτοῖς",
+          "uebersetzung_idiomatisch": "Die Thebaner sahen in Philipp einen Freund, Wohltäter und Retter; er war ihnen alles.",
+          "quelle": "Demosthenes",
+          "funktion": "Verdichtete Häufung von Ehrentiteln"
+        },
+        {
+          "sprache": "Französisch",
+          "original": "Plus me plaist le sejour qu'ont basty mes ayeux / Que des palais Romains le front audacieux, / Plus que le marbre dur me plaist l'ardoise fine, / Plus mon Loyre Gaulois que le Tibre Latin, / Plus mon petit Lyré que le mont Palatin.",
+          "uebersetzung_idiomatisch": "Mehr liebe ich die Heimat meiner Väter als die stolzen Fassaden Roms; mehr gefällt mir feiner Schiefer als harter Marmor; mehr mein Loire als der Tiber; mehr mein kleines Lyré als der Palatin.",
+          "quelle": "Du Bellay",
+          "funktion": "Beharrliche Wiederaufnahme desselben Vorzugsurteils: Heimat vor Glanz"
+        }
+      ],
+      "wirkung": [
+        "Eindringlichkeit",
+        "Verstärkung",
+        "Affektisches Verweilen",
+        "Verdichtung",
+        "Moralischer Druck",
+        "Merkfähigkeit"
+      ],
+      "examples_modern": [
+        "Er sucht dich. Nicht dein Potenzial, nicht deine bessere Version – dich. Jetzt. Mit dem, was du mitbringst und dem, was du verbirgst.",
+        "Das Kreuz war kein Unfall. Das Kreuz war Absicht. Deine Schuld war der Grund. Deine Rettung war das Ziel.",
+        "Er lebt. Nicht als Erinnerung, nicht als frommer Gedanke – er lebt. Und das ändert alles. Noch heute."
+      ],
+      "predigtanwendung": [
+        "Schuldbekenntnis",
+        "Trostzuspitzung",
+        "Prophetische Anklage",
+        "Lobpreissteigerung",
+        "Schlusswendungen"
+      ],
+      "predigtwerkstatt": {
+        "ausgangssatz": "Gott hat dich bewahrt.",
+        "stufen": [
+          {
+            "stufe": 1,
+            "text": "Gott hat dich bewahrt.",
+            "mittel": "schlicht"
+          },
+          {
+            "stufe": 2,
+            "text": "Gott hat dich bewahrt – im Streit, in der Nacht, im Schmerz, in der Angst.",
+            "mittel": "Epimone"
+          },
+          {
+            "stufe": 3,
+            "text": "Gott hat dich bewahrt: im Streit, als du kaum noch klar sahst; in der Nacht, als niemand bei dir war; im Schmerz, als dir die Sprache fehlte; in der Angst, als du schon dachtest, jetzt zerbrichst du.",
+            "mittel": "Epimone entfaltet"
+          }
+        ]
+      },
+      "kombinationen": [
+        {
+          "kombi": "Epimone + Anapher",
+          "beispiel": "Er blieb. Er blieb im Dunkel. Er blieb im Schweigen. Er blieb in der Nacht.",
+          "wirkung": "Rhythmus plus insistierendes Verweilen"
+        },
+        {
+          "kombi": "Epimone + Klimax",
+          "beispiel": "schwach, erschöpft, gebrochen, am Ende",
+          "wirkung": "Häufung mit Steigerung"
+        },
+        {
+          "kombi": "Epimone + Subiectio",
+          "beispiel": "Du fragst: Gilt Gottes Gnade auch mir? Mir im Stolz? Mir im Versagen? Mir in der verborgenen Schuld? Ja, gerade dir.",
+          "wirkung": "Dialog plus insistierende Ausfaltung"
+        },
+        {
+          "kombi": "Epimone + Interrogatio",
+          "beispiel": "Wen hat er nicht gesucht? Wen hat er nicht gerufen? Wen hat er nicht getragen?",
+          "wirkung": "Drängende Fragen plus Wiederaufnahme"
+        },
+        {
+          "kombi": "Epimone + Metapher",
+          "beispiel": "Er war Anker, Dach, Brot, Licht.",
+          "wirkung": "Häufung bekommt Bildkraft"
+        }
+      ],
+      "verbesserungshinweise": [
+        "Besonders stark, wenn der Hörer Zeit braucht, eine Wahrheit zu fassen",
+        "In Atemgruppen bauen für mündlichen Vortrag",
+        "Keine bloßen Wortlawinen ohne klare Linie",
+        "In der Seelsorge lieber konkret als ornamental"
+      ],
+      "bewertung": {
+        "verstaendlichkeit_hoeren": 4,
+        "feierlichkeit": 4,
+        "eindringlichkeit": 5,
+        "merkfaehigkeit": 5,
+        "gefahr_ueberkuenstlichkeit": 4,
+        "eignung_predigt": 5,
+        "eignung_vortrag": 5,
+        "eignung_unterricht": 4
+      },
+      "tags": [
+        "zuspitzung",
+        "trost",
+        "ermahnung",
+        "memorierbarkeit",
+        "rhythmus",
+        "auslegung",
+        "schluss"
+      ]
+    },
+    {
+      "figur_name": "Commutando tractationem",
+      "alternativnamen": [
+        "tractando commutare",
+        "Affektische Umstellung der Ausdrucksweise"
+      ],
+      "lateinisch": "tractando commutare",
+      "oberkategorie": "Gedankenfigur",
+      "unterkategorie": "Affektische Behandlung eines Gedankens (Unterform der Expolitio)",
+      "lausberg_paragraphen": "§ 839",
+      "verwandte_figuren": [
+        "Expolitio",
+        "Sermocinatio",
+        "Exsuscitatio",
+        "Subiectio",
+        "Interrogatio"
+      ],
+      "abgrenzung": "Nicht bloß anderes Wortmaterial (Expolitio), nicht bloß anderer Vortrag (pronuntiatio) – sondern andere gedanklich-affektive Behandlung des Gedankens selbst.",
+      "definition_original": "Das tractando commutare besteht in der affektischen Änderung der Ausdrucksweise. – tertium genus est commutationis, quod tractando conficitur, si sententiam traiciemus aut ad sermocinationem aut exsuscitationem.",
+      "uebersetzung_definition": "Die dritte Form der Variation entsteht dadurch, dass derselbe Gedanke anders geführt wird – als Selbstgespräch (sermocinatio) oder als aufrüttelnde Erregung (exsuscitatio).",
+      "erklaerung_einfach": "Derselbe Gedanke wird nicht nur anders formuliert, sondern anders innerlich inszeniert: als seelischer Vorgang, innerer Ausbruch, Aufruf oder affektischer Umbruch.",
+      "folgefiguren": {
+        "sermocinatio": "§ 840 – Selbstgespräch; der Gedanke als innerer Monolog",
+        "exsuscitatio": "§ 841 – Aufrüttelnde Erregung / Erweckung des Affekts; Übergang zum Appell"
+      },
+      "fremdsprachige_originale": [
+        {
+          "sprache": "Latein",
+          "original": "tertium genus est commutationis, quod tractando conficitur, si sententiam traiciemus aut ad sermocinationem aut exsuscitationem.",
+          "uebersetzung_woertlich": "Die dritte Art der Veränderung ist die, die durch Behandeln zustande kommt, wenn wir einen Gedanken zur sermocinatio oder exsuscitatio hinüberführen.",
+          "uebersetzung_idiomatisch": "Die dritte Form der Variation entsteht dadurch, dass derselbe Gedanke anders geführt wird – als Selbstgespräch oder als aufrüttelnde Erregung.",
+          "funktion": "Grundschema der dritten Hauptart der Expolitio-Variation"
+        }
+      ],
+      "wirkung": [
+        "Dramatisierung",
+        "Emotionalisierung",
+        "Psychologische Innenführung",
+        "Verlebendigung",
+        "Hörerbeteiligung"
+      ],
+      "examples_modern": [
+        "Ich weiß, was ich tun müsste. Warum tue ich es nicht? – Weil ich Angst habe, dass es stimmt.",
+        "Bin ich wirklich hier? Oder spiele ich nur Gemeinde?",
+        "Wie lange will ich noch weglaufen vor dem, der mich kennt – und liebt?",
+        "Was wäre, wenn ich aufhöre, mein Leben selbst zu retten, und es ihm gebe?"
+      ],
+      "predigtanwendung": [
+        "Übergang von Auslegung zu Anwendung",
+        "Zuspitzung",
+        "Bußruf",
+        "Bekehrungsaufruf",
+        "Schlussbewegung"
+      ],
+      "predigtwerkstatt": {
+        "ausgangssatz": "Ich muss zu Gott zurückkehren.",
+        "stufen": [
+          {
+            "stufe": 1,
+            "text": "Ich muss zu Gott zurückkehren.",
+            "mittel": "schlichte Aussage"
+          },
+          {
+            "stufe": 2,
+            "text": "Ich muss zu Gott zurückkehren. Wie lange will ich noch weglaufen? Ich muss zurück.",
+            "mittel": "tractando einfach"
+          },
+          {
+            "stufe": "2c",
+            "titel": "Mit Interrogatio + Anapher + Metapher",
+            "text": "Wie lange noch fern? Wie lange noch stolz? Wie lange noch leer? Wie lange will ich noch draußen im Kalten sitzen, wenn das Vaterhaus längst offen steht? Ich muss zurück.",
+            "mittel": "Tractando + Interrogatio + Anapher + Metapher: das Bild 'draußen im Kalten / Vaterhaus offen' bricht das Pathos auf"
+          },
+          {
+            "stufe": "2b",
+            "titel": "Mit Interrogatio + Anapher",
+            "text": "Wie lange noch fern? Wie lange noch stolz? Wie lange noch leer? Ich muss zurück.",
+            "mittel": "Tractando + Interrogatio + Anapher: dreifacher Anaphern-Aufschlag"
+          },
+          {
+            "stufe": 3,
+            "text": "Was mache ich hier eigentlich fern von Gott? Wie lange will ich noch in der Fremde sitzen, hungrig, stolz, leer? Nein – ich muss zurück. Ich muss heim zum Vater.",
+            "mittel": "tractando stark"
+          },
+          {
+            "stufe": 4,
+            "text": "Du fragst: Kann ich überhaupt zurück? Ich antworte: Ja. Ja mit deiner Schuld. Ja mit deiner Scham. Ja mit deinem zerrissenen Herzen. Geh heim.",
+            "mittel": "tractando + Subiectio + Klimax"
+          }
+        ]
+      },
+      "kombinationen": [
+        {
+          "kombi": "Tractando + Interrogatio",
+          "beispiel": "Wie lange will ich noch so leben?",
+          "wirkung": "Gedanke kippt in Selbstbefragung"
+        },
+        {
+          "kombi": "Tractando + Subiectio",
+          "beispiel": "Du sagst: Ich weiß nicht, ob ich zurück kann. Und die Seele antwortet: Du musst zurück.",
+          "wirkung": "Dialog und affektische Innenbewegung verschmelzen"
+        },
+        {
+          "kombi": "Tractando + Klimax",
+          "beispiel": "Ich denke es. Ich spüre es. Ich kann ihm nicht länger ausweichen.",
+          "wirkung": "Innerer Druck steigt Stufe für Stufe"
+        },
+        {
+          "kombi": "Tractando + Anapher",
+          "beispiel": "Nicht morgen. Nicht später. Nicht irgendwann. Jetzt.",
+          "wirkung": "Affekt bekommt Rhythmus und Schlagkraft"
+        },
+        {
+          "kombi": "Tractando + Metapher + Interrogatio + Anapher",
+          "beispiel": "Wie lange noch fern? Wie lange noch stolz? Wie lange noch leer? Wie lange will ich noch draußen im Kalten sitzen, wenn das Vaterhaus offen steht? Ich muss zurück.",
+          "wirkung": "Maximale Intensivierung"
+        }
+      ],
+      "verbesserungshinweise": [
+        "Affekt nur aufbauen, wenn der Gedanke vorher vorbereitet wurde",
+        "Für ernste Buß- oder Rufpredigten sehr geeignet",
+        "In nüchterner Lehrdarstellung nur sparsam einsetzen"
+      ],
+      "bewertung": {
+        "verstaendlichkeit_hoeren": 4,
+        "feierlichkeit": 3,
+        "eindringlichkeit": 5,
+        "merkfaehigkeit": 4,
+        "gefahr_ueberkuenstlichkeit": 4,
+        "eignung_predigt": 5,
+        "eignung_vortrag": 5,
+        "eignung_unterricht": 4
+      },
+      "tags": [
+        "zuspitzung",
+        "anwendung",
+        "buße",
+        "schluss",
+        "rhythmus",
+        "ermahnung"
+      ]
+    },
+    {
+      "figur_name": "Correctio",
+      "alternativnamen": [
+        "Selbstkorrektur",
+        "Epanorthosis"
+      ],
+      "griechisch": "ἐπανόρθωσις",
+      "lateinisch": "correctio",
+      "oberkategorie": "Gedankenfigur",
+      "unterkategorie": "Selbstberichtigung",
+      "erklaerung_einfach": "Der Redner verbessert oder verschärft eine eigene Aussage sofort selbst – durch ein stärkeres Wort oder eine präzisere Formulierung. Wirkung: Schärfung, Überraschung, Glaubwürdigkeit.",
+      "wirkung": [
+        "Präzision",
+        "Schlagkraft",
+        "Glaubwürdigkeit",
+        "Überraschung"
+      ],
+      "rhetorische_funktionen": [
+        "Vorherige Aussage präzisieren oder verschärfen",
+        "Authentizität signalisieren",
+        "Aufmerksamkeit durch unerwartete Wendung"
+      ],
+      "examples_modern": [
+        "Das nennst du Schwäche? Nein – das nennst du Ehrlichkeit. Und Ehrlichkeit ist der Anfang von allem.",
+        "Das ist nicht Scham, die dich festhält. Das ist Stolz, der sich als Scham verkleidet.",
+        "Es ist nicht Gott, der dich fernhält. Du hältst dich fern. Und er steht immer noch an der Tür.",
+        "Das nennen wir Freiheit. Nein – das nennen wir Einsamkeit in besserer Verpackung."
+      ],
+      "predigtanwendung": [
+        "Zuspitzung",
+        "Begriffsklärung",
+        "Gewissensansprache"
+      ],
+      "kombinationen": [
+        {
+          "kombi": "Correctio + Metapher",
+          "beispiel": "Das ist nicht Müdigkeit – das ist ein eingebrochenes Fundament.",
+          "wirkung": "Selbstkorrektur erhält Bildkraft"
+        },
+        {
+          "kombi": "Correctio + Interrogatio",
+          "beispiel": "Nenn es nicht Pech. Nenn es nicht Umstand. Frage lieber: Was hat Gott mir damit sagen wollen?",
+          "wirkung": "Selbstkorrektur öffnet Reflexionsfrage"
+        }
+      ],
+      "tags": [
+        "zuspitzung",
+        "praezision",
+        "schlagkraft",
+        "ueberraschung"
+      ]
+    },
+    {
+      "figur_name": "Sentenz",
+      "alternativnamen": [
+        "Gnome",
+        "Aphorismus",
+        "Sententia"
+      ],
+      "griechisch": "γνώμη",
+      "lateinisch": "sententia",
+      "oberkategorie": "Gedankenfigur",
+      "unterkategorie": "Prägnante Allgemeinaussage",
+      "erklaerung_einfach": "Prägnanter, allgemein gültiger Merksatz von geistlicher, moralischer oder rhetorischer Tiefe. Verdichtet eine Erkenntnis in eine unvergessliche Kurzformel.",
+      "wirkung": [
+        "Merkfähigkeit",
+        "Nachhall",
+        "Glaubwürdigkeit",
+        "Abschluss",
+        "Autorität"
+      ],
+      "rhetorische_funktionen": [
+        "Erkenntnis auf Kurzformel bringen",
+        "Predigtaussage in Mitnehmewort verwandeln",
+        "Schluss gewichtig schließen",
+        "Abstraktes unvergesslich machen"
+      ],
+      "examples_modern": [
+        "Was dich in der Nacht quält, kennt er beim Namen.",
+        "Schuld, die du verbirgst, regiert dich. Schuld, die du bekennst, geht ans Kreuz.",
+        "Wer Christus hat, hat den Tod verloren.",
+        "Der einzige, der das Recht hätte, dich zu verurteilen, hat dich freigesprochen.",
+        "Religion produziert Scheinheilige. Das Evangelium schafft neue Menschen.",
+        "Du musst dich nicht verbessern, um zu ihm zu kommen – du kommst zu ihm, damit du verändert wirst."
+      ],
+      "predigtanwendung": [
+        "Schluss",
+        "Zuspitzung",
+        "Schlüsselaussage"
+      ],
+      "kombinationen": [
+        {
+          "kombi": "Sentenz + Antithese",
+          "beispiel": "Wer sich rettet, verliert. Wer sich hingibt, gewinnt.",
+          "wirkung": "Kontrast macht den Satz unvergesslich"
+        },
+        {
+          "kombi": "Sentenz + Metapher",
+          "beispiel": "Scham baut Mauern. Gnade öffnet Tore.",
+          "wirkung": "Bild gibt dem Merksatz Anschaulichkeit"
+        }
+      ],
+      "tags": [
+        "schluss",
+        "merksatz",
+        "nachhall",
+        "praegnanz",
+        "aphorismus"
+      ]
+    },
+    {
+      "figur_name": "Narratio",
+      "alternativnamen": [
+        "kleine Szene",
+        "Beobachtung",
+        "Erzählung"
+      ],
+      "lateinisch": "narratio",
+      "oberkategorie": "Dispositio / Redebaustein",
+      "unterkategorie": "Erzählendes Element",
+      "erklaerung_einfach": "Eine kleine konkrete Szene oder Beobachtung, die Abstraktes anschaulich macht. Die Hörer sehen sich selbst oder erkennen ihr Leben. Erzeugt Identifikation und bindet Aufmerksamkeit.",
+      "wirkung": [
+        "Anschaulichkeit",
+        "Identifikation",
+        "Aufmerksamkeit",
+        "Erinnerung"
+      ],
+      "rhetorische_funktionen": [
+        "Abstraktes in konkretes Bild übersetzen",
+        "Identifikation beim Hörer herstellen",
+        "Beweis durch anschauliches Beispiel",
+        "Aufmerksamkeit durch Szene erzeugen"
+      ],
+      "examples_modern": [
+        "Er sitzt in der letzten Reihe, Arme verschränkt. Kam nur, weil seine Frau ihn bat. Er glaubt seit Jahren nicht mehr. Und dann trifft ihn mitten in der Predigt ein Satz wie ein Messer.",
+        "Golgatha. Mittagssonne. Drei Kreuze. Ein Mann stirbt, schreit, bricht zusammen. Das ist kein Theaterstück. Das ist deine Schuld, die er trägt.",
+        "Sie betet seit zwanzig Jahren für ihren Mann. Jeden Morgen, bevor er aufwacht. Er weiß es nicht. Aber heute zieht etwas in ihm."
+      ],
+      "predigtanwendung": [
+        "Einstieg",
+        "Illustration",
+        "Anwendung"
+      ],
+      "kombinationen": [
+        {
+          "kombi": "Narratio + Interrogatio",
+          "beispiel": "Du wachst auf und greifst sofort zum Handy – aber wann greifst du zum Gebet?",
+          "wirkung": "Szene leitet direkt in persönliche Frage"
+        },
+        {
+          "kombi": "Narratio + Sentenz",
+          "beispiel": "Sie sitzt am Tisch und weint. Niemand sieht es. – Gott sieht.",
+          "wirkung": "Szene bekommt Schlussgewicht"
+        }
+      ],
+      "tags": [
+        "einstieg",
+        "illustration",
+        "anwendung",
+        "identifikation",
+        "szene"
+      ]
+    },
+    {
+      "figur_name": "Paradoxon",
+      "alternativnamen": [
+        "Erwartungsbruch",
+        "paradoxe Aussage"
+      ],
+      "griechisch": "παράδοξον",
+      "lateinisch": "paradoxon",
+      "oberkategorie": "Gedankenfigur",
+      "unterkategorie": "Überraschende Gegensatzaussage",
+      "erklaerung_einfach": "Eine Aussage, die dem Erwarteten widerspricht und dadurch umso tiefer trifft. Bricht die erwartete Logik und öffnet eine neue Dimension des Denkens.",
+      "wirkung": [
+        "Überraschung",
+        "Hook-Kraft",
+        "Denkanstoss",
+        "Prägnanz"
+      ],
+      "examples_modern": [
+        "Das schwächste Werkzeug Gottes war ein Toter am Kreuz. Und damit hat er die Welt gerettet.",
+        "Gott rettet nicht die Starken, die sich durchbeißen – er rettet die, die aufgehört haben zu kämpfen.",
+        "Viele nennen es Niederlage, wenn jemand sagt: Ich kann nicht mehr. Gott nennt es oft: Endlich.",
+        "Die gefährlichste Leere sieht oft wie Erfolg aus.",
+        "Wer am lautesten sagt, er brauche Gott nicht, schläft oft am unruhigsten."
+      ],
+      "predigtanwendung": [
+        "Einstieg als Hook",
+        "Zuspitzung",
+        "Denkanstoss"
+      ],
+      "kombinationen": [
+        {
+          "kombi": "Paradoxon + Sentenz",
+          "beispiel": "Wer sich rettet, verliert. Wer loslässt, kommt an.",
+          "wirkung": "Paradox wird zur Lebensregel"
+        },
+        {
+          "kombi": "Paradoxon + Interrogatio",
+          "beispiel": "Du hast alles – aber fühlst du dich frei?",
+          "wirkung": "Erwartungsbruch plus persönliche Frage"
+        }
+      ],
+      "tags": [
+        "einstieg",
+        "hook",
+        "ueberraschung",
+        "denkanstoß",
+        "zuspitzung"
+      ]
+    },
+    {
+      "figur_name": "Anaphora",
+      "alternativnamen": [
+        "Anapher",
+        "Wortführung",
+        "Anaphora"
+      ],
+      "griechisch": "ἀναφορά",
+      "lateinisch": "anaphora; repetitio",
+      "oberkategorie": "Wortfigur",
+      "unterkategorie": "Wiederholungsfigur – Satzanfang",
+      "lausberg_paragraphen": "§§ 627–630",
+      "verwandte_figuren": [
+        "Epiphora",
+        "Symploce",
+        "Klimax/Gradatio",
+        "Parallelismus",
+        "Epimone"
+      ],
+      "abgrenzung": "Anaphora = Wiederkehr desselben Anfangswortes oder Anfangssatzteils. Epiphora = Wiederkehr am Satzende. Symploce = beides zugleich. Von Epimone unterschieden: dort insistiert der Sinn, hier die Anfangsform.",
+      "definition_original": "anaphora est, cum singulis sententiis idem verbum praeponitur – Anaphora liegt vor, wenn denselben Sätzen dasselbe Wort vorangestellt wird.",
+      "erklaerung_einfach": "Dasselbe Wort oder dieselbe Wortgruppe steht immer wieder am Satzanfang. Erzeugt Rhythmus, Dringlichkeit, Einprägsamkeit. Wichtigstes Werkzeug für mündlichen Vortrag.",
+      "fremdsprachige_originale": [
+        {
+          "sprache": "Latein",
+          "original": "tibi gratias agimus, tibi laudes damus, tibi gloriam offerimus",
+          "uebersetzung_woertlich": "Dir sagen wir Dank, dir geben wir Lob, dir bringen wir Ehre",
+          "funktion": "Liturgische Anaphora – escalating praise"
+        },
+        {
+          "sprache": "Latein",
+          "original": "dum consulibus, dum rei publicae, dum huic urbi supplicabitur",
+          "uebersetzung_idiomatisch": "Solange für die Konsuln gebetet wird, solange für den Staat, solange für diese Stadt",
+          "quelle": "Cicero",
+          "funktion": "Anaphora zur Steigerung des zeitlichen Umfangs"
+        },
+        {
+          "sprache": "Latein",
+          "original": "nihil agis, nihil moliris, nihil cogitas, quod non ego videam",
+          "uebersetzung_idiomatisch": "Du tust nichts, du planst nichts, du denkst nichts, was ich nicht sehe",
+          "quelle": "Cicero, In Catilinam",
+          "funktion": "Anaphora als Häufung des Vorwurfs"
+        }
+      ],
+      "wirkung": [
+        "Rhythmus",
+        "Eindringlichkeit",
+        "Einprägsamkeit",
+        "Dringlichkeit",
+        "Feierlichkeit",
+        "Verstärkung"
+      ],
+      "rhetorische_funktionen": [
+        "Sätze rhythmisch binden",
+        "Einen Gedanken durch Wiederkehr einprägen",
+        "Mündlichen Vortrag musikalisch gestalten",
+        "Dringlichkeit aufbauen (klopfende Wiederholung)",
+        "Steigerung strukturieren: gleicher Anfang, wachsender Inhalt"
+      ],
+      "beispiele_deutsche_literatur": [
+        "Ein feste Burg ist unser Gott / Ein gute Wehr und Waffen – (Luther, implizite Anaphora durch Parallelismus)",
+        "Ich bin das Brot des Lebens / Ich bin das Licht der Welt / Ich bin die Auferstehung (Johannes-Evangelium, Ego-eimi-Reihe)"
+      ],
+      "examples_modern": [
+        "Er kam, als du ihn nicht kanntest. Er blieb, als du ihn vergaßest. Er rief, als du aufgehört hattest zu hören.",
+        "Für dich ans Kreuz. Für dich ins Grab. Für dich aus dem Tod.",
+        "Nicht für die Frommen. Nicht für die Starken. Nicht für die Makellosen. Für dich.",
+        "Nicht morgen. Nicht wenn du besser bist. Nicht wenn du bereit bist. Heute.",
+        "Er sieht dich. Er kennt dich. Er stirbt für dich."
+      ],
+      "predigtanwendung": [
+        "Einstieg",
+        "Zuspitzung",
+        "Schluss",
+        "Trostzuspitzung",
+        "Rufpassagen",
+        "Lobpreis"
+      ],
+      "predigtwerkstatt": {
+        "ausgangssatz": "Gott ist da.",
+        "stufen": [
+          {
+            "stufe": 1,
+            "text": "Gott ist da.",
+            "mittel": "schlicht"
+          },
+          {
+            "stufe": 2,
+            "text": "Er ist da in der Nacht. Er ist da in der Scham. Er ist da, wenn du dich versteckt hast.",
+            "mittel": "Anaphora (Er ist da) + Konkretisierung"
+          },
+          {
+            "stufe": 3,
+            "text": "Er ist da, wenn du ihn nicht rufst. Er ist da, wenn du ihn nicht willst. Er ist da, wenn du aufgehört hast zu glauben, dass jemand für dich da sein kann.",
+            "mittel": "Anaphora + konzessive Steigerung"
+          },
+          {
+            "stufe": 4,
+            "text": "Er ist nicht da, weil du gut warst. Er ist nicht da, weil du gebetet hast. Er ist da, weil er beschlossen hat zu bleiben – und den Preis dafür hat er am Kreuz bezahlt.",
+            "mittel": "Anaphora + Aetiologia + Kreuzverankerung"
+          },
+          {
+            "stufe": 5,
+            "text": "Er kam für dich. Er blieb für dich. Er starb für dich. Er ist auferstanden für dich. Und er fragt dich jetzt: Willst du mit mir gehen?",
+            "mittel": "Anaphora + Klimax + direkter Evangeliumsruf"
+          }
+        ]
+      },
+      "kombinationen": [
+        {
+          "kombi": "Anaphora + Klimax",
+          "beispiel": "Mir, der ich gezweifelt habe. Mir, der ich gefallen bin. Mir, der ich nicht mehr wusste, wie Gott aussieht. Ja, genau mir.",
+          "wirkung": "Wiederkehr des Anfangs + wachsende innere Not = maximaler Zug"
+        },
+        {
+          "kombi": "Anaphora + Subiectio",
+          "beispiel": "Du fragst: Hört Gott mich? Mich, der ich zweifle? Mich, der ich versagt habe? Mich? – Ja, genau dich.",
+          "wirkung": "Dialogische Führung mit rhythmischer Intensivierung"
+        },
+        {
+          "kombi": "Anaphora + Epimone",
+          "beispiel": "Er bleibt. Er bleibt im Dunkel. Er bleibt in der Schuld. Er bleibt, wenn du aufgehört hast zu rufen.",
+          "wirkung": "Rhythmische Häufung mit insistierender Tiefe"
+        },
+        {
+          "kombi": "Anaphora + Antithese",
+          "beispiel": "Wir wanken – er bleibt. Wir reden – er handelt. Wir zwingen – er schenkt.",
+          "wirkung": "Rhythmus macht den Kontrast hörbar"
+        },
+        {
+          "kombi": "Anaphora + Metapher",
+          "beispiel": "Er ist Anker, wenn der Boden wegbricht. Er ist Licht, wenn die Nacht total ist. Er ist Brot, wenn alles andere leer macht.",
+          "wirkung": "Bild + Rhythmus: kraftvolle Bildreihe für Trost und Evangelium"
+        },
+        {
+          "kombi": "Anaphora + Exclamatio",
+          "beispiel": "Er lebt! Er hat gesiegt! Er kam zurück!",
+          "wirkung": "Jubelnde Steigerung – Ostern, Festpredigt"
+        }
+      ],
+      "verbesserungshinweise": [
+        "Mindestens 3 Glieder für die Wirkung der Anaphora",
+        "Letztes Glied darf länger/stärker sein (Klimax-Effekt nutzen)",
+        "Nicht mehr als 5–6 Glieder – sonst wirkt es ermüdend",
+        "Im Schluss immer eine Landung setzen (Sentenz, Metapher oder Evangeliumsöffnung)",
+        "Für Trost und Klage besonders stark: 'Er ist da. Er ist da. Er ist da.'"
+      ],
+      "bewertung": {
+        "verstaendlichkeit_hoeren": 5,
+        "feierlichkeit": 5,
+        "eindringlichkeit": 5,
+        "merkfaehigkeit": 5,
+        "gefahr_ueberkuenstlichkeit": 3,
+        "eignung_predigt": 5,
+        "eignung_vortrag": 5,
+        "eignung_unterricht": 4
+      },
+      "tags": [
+        "rhythmus",
+        "einstieg",
+        "schluss",
+        "zuspitzung",
+        "trost",
+        "memorierbarkeit",
+        "feierlichkeit"
+      ]
+    },
+    {
+      "figur_name": "Klimax",
+      "alternativnamen": [
+        "Gradatio",
+        "Steigerung",
+        "Klimax-Figur"
+      ],
+      "griechisch": "κλῖμαξ",
+      "lateinisch": "gradatio; klimax; incrementum",
+      "oberkategorie": "Wortfigur / Gedankenfigur",
+      "unterkategorie": "Steigerungsfigur",
+      "lausberg_paragraphen": "§§ 668–680",
+      "verwandte_figuren": [
+        "Anaphora",
+        "Amplificatio",
+        "Auxesis",
+        "Enumeratio"
+      ],
+      "abgrenzung": "Klimax = geordnete Steigerung von Glied zu Glied (jedes Glied stärker als das vorherige). Gradatio = wenn das letzte Wort des einen Gliedes das erste des nächsten aufnimmt (kettenartig). Amplificatio ist weiter gefasst als Klimax.",
+      "definition_original": "gradatio est, in qua non ante ad consequens descenditur, quam primum illud quo descenditur superatum est – Gradatio liegt vor, wenn man nicht eher zum Folgenden übergeht, als das Vorherige übertroffen wurde.",
+      "erklaerung_einfach": "Die Klimax ordnet Gedanken, Bilder oder Sätze in aufsteigender Intensität. Jede Stufe übertrifft die vorherige. Erzeugt inneren Zug, Spannung und emotionalen Durchschlag.",
+      "fremdsprachige_originale": [
+        {
+          "sprache": "Latein",
+          "original": "non dico, abstulit, non eripit, retinet",
+          "uebersetzung_idiomatisch": "Ich sage nicht: er hat weggenommen, ich sage nicht: er reißt woran, er behält es zurück",
+          "funktion": "Klimax als steigernde Stufung des Vorwurfs"
+        },
+        {
+          "sprache": "Latein",
+          "original": "Africanus virtute, virtute Africanus imagines; imagines … nobilitas; nobilitas … is ipse",
+          "uebersetzung_idiomatisch": "Africanus durch Tugend; durch Tugend das Ansehen; durch Ansehen der Adel; durch Adel er selbst",
+          "quelle": "Cicero",
+          "funktion": "Kettenförmige Gradatio / Klimax"
+        },
+        {
+          "sprache": "Latein",
+          "original": "semel enim emissum volat irrevocabile verbum",
+          "uebersetzung_idiomatisch": "Einmal entsandt, fliegt das Wort unwiderruflich",
+          "quelle": "Horaz",
+          "funktion": "Klimax implizit: einzeln → ausgesandt → unwiderruflich"
+        }
+      ],
+      "wirkung": [
+        "Steigerung",
+        "Spannung",
+        "emotionaler Durchschlag",
+        "Dringlichkeit",
+        "Einprägsamkeit"
+      ],
+      "rhetorische_funktionen": [
+        "Argument durch Steigerung unvermeidlich machen",
+        "Emotionale Eskalation gezielt aufbauen",
+        "Zuhörer Schritt für Schritt in eine Aussage hineinziehen",
+        "Schuld, Verlust oder Gnade in ihrer ganzen Tiefe abschreiten"
+      ],
+      "beispiele_deutsche_literatur": [
+        "Ich sank, ich wurde gerettet, ich stehe. (dreistufig)",
+        "Er zweifelte, er fiel, er schrie. (Passion Christi)",
+        "Ich bin der Weg, die Wahrheit, das Leben. (Joh 14,6 – implizite Klimax)"
+      ],
+      "examples_modern": [
+        "Du hast geflüstert. Du hast geschrien. Du hast aufgehört zu beten. Er hat gewartet. Er wartet noch.",
+        "Scham macht dich klein. Schuld macht dich stumm. Verzweiflung macht dich unsichtbar. Und Jesus sucht genau die Unsichtbaren.",
+        "Er stirbt. Er wird begraben. Er steht auf. Das ist nicht die Geschichte eines Religionsstifters – das ist der Eingriff Gottes in die Geschichte.",
+        "Du zweifelst, du fällst, du liegst und glaubst, das war das letzte Mal – und genau da beugt er sich zu dir herunter."
+      ],
+      "predigtanwendung": [
+        "Zuspitzung",
+        "Auslegung",
+        "Schuldbekenntnis",
+        "Errettungsszene",
+        "Schluss"
+      ],
+      "predigtwerkstatt": {
+        "ausgangssatz": "Du bist gefallen.",
+        "stufen": [
+          {
+            "stufe": 1,
+            "text": "Du bist gefallen.",
+            "mittel": "schlicht"
+          },
+          {
+            "stufe": 2,
+            "text": "Du hast gezweifelt. Du bist gefallen. Du liegst.",
+            "mittel": "Klimax dreigliedrig, Asyndeton"
+          },
+          {
+            "stufe": 3,
+            "text": "Du hast gezweifelt, du bist gefallen, du hast aufgehört zu glauben – und dachtest, mehr geht nicht.",
+            "mittel": "Klimax + innere Wendung"
+          },
+          {
+            "stufe": 4,
+            "text": "Du hast gezweifelt. Du bist gefallen. Du hast dich weggeduckt und gedacht: Jetzt ist es zu spät. Und genau in diesem Moment – genau da – steht er auf und sagt: Nein. Jetzt fange ich an.",
+            "mittel": "Klimax + dramatischer Einschnitt + Evangeliumswendung"
+          }
+        ]
+      },
+      "kombinationen": [
+        {
+          "kombi": "Klimax + Anaphora",
+          "beispiel": "Mir, der ich gezweifelt habe. Mir, der ich gefallen bin. Mir, der ich nicht mehr zurückkonnte. Ja, genau mir.",
+          "wirkung": "Rhythmus + Steigerung = maximale Innenwirkung"
+        },
+        {
+          "kombi": "Klimax + Subiectio",
+          "beispiel": "Du fragst: Kann Gott mir vergeben? Mir, der ich gezweifelt habe, gefallen bin, wieder und wieder zurückgefallen bin? Ja, genau dir.",
+          "wirkung": "Dialog + Steigerung = persönlicher Durchschlag"
+        },
+        {
+          "kombi": "Klimax + Metapher",
+          "beispiel": "Er klopft an dein Gewissen, an dein Herz, an dein verborgenstes Inneres.",
+          "wirkung": "Steigerendes Bild"
+        },
+        {
+          "kombi": "Klimax + Antithese",
+          "beispiel": "Du fällst tiefer und tiefer – Christus geht tiefer mit.",
+          "wirkung": "Steigerung erhält Gegenpol"
+        },
+        {
+          "kombi": "Klimax + Sentenz",
+          "beispiel": "Du zweifelst, du fällst, du liegst – und genau da greift Gnade.",
+          "wirkung": "Steigerung mündet in Merksatz"
+        },
+        {
+          "kombi": "Gradatio (Kettenklimax)",
+          "beispiel": "Schuld macht dich stumm. Scham treibt dich weg. Rückzug macht dich unsichtbar. Leere macht dich taub. Und dann – irgendwo in der Stille – findest du die Worte wieder: Vater, ich will heimkommen.",
+          "wirkung": "Kettenförmige Steigerung von innen nach außen – bis zur Umkehr"
+        }
+      ],
+      "verbesserungshinweise": [
+        "Klare Stufenordnung ist Bedingung – kein zufälliges Nebeneinander von Stärkem",
+        "3 Stufen sind optimal – mehr kann überladen wirken",
+        "Letztes Glied trägt das Evangelium oder die eigentliche Aussage",
+        "Umkehrklimax (Antiklimax) auch möglich: Hochmut → Sturz → Leere",
+        "Gradatio (Kettenform) für theologische Kausalreihen besonders stark"
+      ],
+      "bewertung": {
+        "verstaendlichkeit_hoeren": 5,
+        "feierlichkeit": 4,
+        "eindringlichkeit": 5,
+        "merkfaehigkeit": 5,
+        "gefahr_ueberkuenstlichkeit": 3,
+        "eignung_predigt": 5,
+        "eignung_vortrag": 5,
+        "eignung_unterricht": 4
+      },
+      "tags": [
+        "zuspitzung",
+        "steigerung",
+        "schluss",
+        "dramatik",
+        "memorierbarkeit",
+        "trost",
+        "ermahnung"
+      ]
+    },
+    {
+      "figur_name": "Antithese",
+      "alternativnamen": [
+        "Antitheton",
+        "Gegensatzfigur",
+        "Contrapositum"
+      ],
+      "griechisch": "ἀντίθεσις",
+      "lateinisch": "antitheton; contentio; contrarium",
+      "oberkategorie": "Gedankenfigur / Wortfigur",
+      "unterkategorie": "Gegensatzfigur",
+      "lausberg_paragraphen": "§§ 787–792",
+      "verwandte_figuren": [
+        "Paradoxon",
+        "Oxymoron",
+        "Correctio",
+        "Chiasmus",
+        "Sentenz"
+      ],
+      "abgrenzung": "Antithese stellt zwei gegensätzliche Gedanken bewusst nebeneinander. Paradoxon geht weiter: behauptet eine scheinbare Unmöglichkeit. Chiasmus hat zusätzlich eine Kreuzstellung. Correctio korrigiert, Antithese kontrastiert.",
+      "definition_original": "antitheton est, cum ex contrariis inter se comparatis sententiis oratio conficitur – Antitheton liegt vor, wenn die Rede aus gegenübergestellten, einander entgegengesetzten Sätzen zusammengesetzt wird.",
+      "erklaerung_einfach": "Zwei gegensätzliche Aussagen werden nebeneinandergestellt und schärfen sich gegenseitig. Kontrast macht Wahrheit sichtbarer. Prägnanteste Form: Kurzsatz gegen Kurzsatz.",
+      "fremdsprachige_originale": [
+        {
+          "sprache": "Latein",
+          "original": "non ut edam vivo, sed ut vivam edo",
+          "uebersetzung_woertlich": "Nicht um zu essen lebe ich, sondern um zu leben esse ich",
+          "funktion": "Antithese mit Chiasmus-Struktur"
+        },
+        {
+          "sprache": "Latein",
+          "original": "divitiae apud sapientem virum in servitute sunt, apud stultum in imperio",
+          "uebersetzung_idiomatisch": "Beim Weisen dienen die Reichtümer, beim Toren regieren sie",
+          "quelle": "Seneca",
+          "funktion": "Antithese: servitute vs. imperio"
+        },
+        {
+          "sprache": "Latein",
+          "original": "ut paucis multa … ut servis liberi … ut latronibus boni",
+          "uebersetzung_idiomatisch": "Viele [leiden] unter Wenigen, Freie unter Sklaven, Gute unter Räubern",
+          "quelle": "Cicero",
+          "funktion": "Antithese als Anklage durch Kontrastpaare"
+        },
+        {
+          "sprache": "Griechisch",
+          "original": "ζῇ δὲ οὐκέτι ἐγώ, ζῇ δὲ ἐν ἐμοὶ Χριστός",
+          "uebersetzung_idiomatisch": "Ich lebe nicht mehr, sondern Christus lebt in mir",
+          "quelle": "Paulus, Galater 2,20",
+          "funktion": "Antithese: Ich ← → Christus"
+        }
+      ],
+      "wirkung": [
+        "Klarheit",
+        "Schärfe",
+        "Prägnanz",
+        "Merkfähigkeit",
+        "Wahrheit durch Kontrast"
+      ],
+      "rhetorische_funktionen": [
+        "Wahrheiten durch Kontrast profilieren",
+        "Evangelium als Umkehrung menschlicher Logik sichtbar machen",
+        "Kurzsätze unvergesslich machen",
+        "Theologische Aussagen verdichten",
+        "Schuld und Gnade nebeneinanderhalten"
+      ],
+      "beispiele_deutsche_literatur": [
+        "Nicht ich lebe, sondern Christus lebt in mir. (Gal 2,20)",
+        "Ich war verloren und bin gefunden. (Lukas 15)",
+        "Wer sein Leben verliert, der wird es gewinnen. (Mk 8,35)",
+        "Die Großen haben abgedankt, die Kleinen wurden erhoben. (Magnificat, Lk 1)"
+      ],
+      "examples_modern": [
+        "Religion fragt: Bist du gut genug? – Das Evangelium sagt: Er war gut genug für dich.",
+        "Der Teufel ruft: Du bist verloren. Der Vater ruft: Komm heim.",
+        "Wir gehen mit unserer Schuld ins Grab. Christus geht mit unserer Schuld ans Kreuz – und lässt sie dort.",
+        "Wir schwanken. Er bleibt.",
+        "Menschen sehen deine Fassade. Gott sieht, was dahinter bricht – und liebt beides.",
+        "Du nennst es Freiheit. Gott nennt es Flucht. Und er läuft dir nach."
+      ],
+      "predigtanwendung": [
+        "Schluss",
+        "Merksatzposition",
+        "Auslegung",
+        "Evangeliumsöffnung",
+        "Schuldbekenntnis"
+      ],
+      "predigtwerkstatt": {
+        "ausgangssatz": "Gott vergibt.",
+        "stufen": [
+          {
+            "stufe": 1,
+            "text": "Gott vergibt.",
+            "mittel": "schlicht"
+          },
+          {
+            "stufe": 2,
+            "text": "Wir bringen Schuld. Gott bringt Freispruch.",
+            "mittel": "Antithese einfach"
+          },
+          {
+            "stufe": 3,
+            "text": "Wir bringen Schuld – Christus bringt Freispruch. Wir bringen Scham – Christus gibt Würde zurück. Wir bringen Bruch – Christus bringt Heilung.",
+            "mittel": "Dreifache Antithese"
+          },
+          {
+            "stufe": 4,
+            "text": "Religion sagt: Werde besser, dann komm. Das Evangelium sagt: Komm, damit ich dich verändere. Religion fragt: Bist du gut genug? Das Evangelium sagt: Er war gut genug für dich. Das ist der Unterschied zwischen Religion und Evangelium. Das ist alles.",
+            "mittel": "Antithese + Chiasmus + Sentenz"
+          }
+        ]
+      },
+      "kombinationen": [
+        {
+          "kombi": "Antithese + Sentenz",
+          "beispiel": "Wer sich rettet, verliert. Wer sich hingibt, gewinnt.",
+          "wirkung": "Kontrast + Merksatz = unvergesslich"
+        },
+        {
+          "kombi": "Antithese + Metapher",
+          "beispiel": "Wir bringen Scherben. Er macht daraus ein neues Leben.",
+          "wirkung": "Kontrast erhält Bildkraft"
+        },
+        {
+          "kombi": "Antithese + Anaphora",
+          "beispiel": "Wir wanken – er bleibt. Wir reden – er handelt. Wir fallen – er hebt auf.",
+          "wirkung": "Rhythmische Gegensatzreihe"
+        },
+        {
+          "kombi": "Antithese + Klimax",
+          "beispiel": "Du fällst tiefer und tiefer – und Christus geht tiefer mit.",
+          "wirkung": "Steigerung mit Evangeliumswendung"
+        },
+        {
+          "kombi": "Antithese + Paradoxon",
+          "beispiel": "Was die Welt Niederlage nennt, nennt Gott oft Anfang.",
+          "wirkung": "Kontrast öffnet Wirklichkeitswende"
+        },
+        {
+          "kombi": "Chiasmus (Kreuzantithese)",
+          "beispiel": "Nicht um zu herrschen ist er gekommen, sondern zu dienen – nicht um zu urteilen, sondern zu retten.",
+          "wirkung": "Antithese mit überkreuzter Struktur – maximale sprachliche Eleganz"
+        }
+      ],
+      "verbesserungshinweise": [
+        "Kurze Sätze wirken stärker als lange Antithesen",
+        "Parallelismus der Form verstärkt Kontrast des Inhalts",
+        "Im Schluss als Merksatz besonders stark",
+        "Übermäßige Antithesen-Dichte wirkt künstlich – maximal 2–3 pro Predigtblock",
+        "Evangeliumsantithesen (Schuld / Gnade, Tod / Leben) sind theologisch stärkste Form"
+      ],
+      "bewertung": {
+        "verstaendlichkeit_hoeren": 5,
+        "feierlichkeit": 4,
+        "eindringlichkeit": 5,
+        "merkfaehigkeit": 5,
+        "gefahr_ueberkuenstlichkeit": 3,
+        "eignung_predigt": 5,
+        "eignung_vortrag": 5,
+        "eignung_unterricht": 5
+      },
+      "tags": [
+        "schluss",
+        "merksatz",
+        "evangelium",
+        "klarheit",
+        "kontrast",
+        "memorierbarkeit",
+        "auslegung"
+      ]
+    },
+    {
+      "figur_name": "Parallelismus",
+      "alternativnamen": [
+        "Isokolon",
+        "Parallelismus membrorum",
+        "Trikolon",
+        "Parison"
+      ],
+      "griechisch": "παρίσωσις; ἰσόκωλον",
+      "lateinisch": "parison; isocolon; membrum",
+      "oberkategorie": "Wortfigur",
+      "unterkategorie": "Gleichbau-Figur",
+      "lausberg_paragraphen": "§§ 718–725",
+      "verwandte_figuren": [
+        "Anaphora",
+        "Antithese",
+        "Trikolon",
+        "Klimax"
+      ],
+      "abgrenzung": "Parallelismus = gleiche Satzstruktur. Isokolon = gleichlange Satzglieder. Trikolon = dreiteilige Form. Anaphora = nur gleicher Anfang. Parallelismus kann inhaltlich ähnlich (Synonymismus) oder entgegengesetzt (Antithese) sein.",
+      "definition_original": "isocolon dicitur, cum bina ternave membra sunt, pari paene syllabum numero – Isokolon liegt vor, wenn zwei oder drei Glieder in etwa gleicher Silbenzahl stehen.",
+      "erklaerung_einfach": "Sätze oder Satzteile sind gleich oder ähnlich gebaut. Das erzeugt Rhythmus, Balance und Einprägsamkeit. Das Trikolon (3 Glieder) ist die häufigste Form und schließt mit besonderem Nachdruck.",
+      "fremdsprachige_originale": [
+        {
+          "sprache": "Latein",
+          "original": "abiit, excessit, evasit, erupit",
+          "uebersetzung_idiomatisch": "Er ist gegangen, er ist entwichen, er ist entkommen, er ist ausgebrochen",
+          "quelle": "Cicero, In Catilinam",
+          "funktion": "Vierteiliges Kolon – Steigerung durch Gleichbau"
+        },
+        {
+          "sprache": "Latein",
+          "original": "domi tuae consilia inita sunt? domi tua iudicata? domi tua decreta?",
+          "uebersetzung_idiomatisch": "In deinem Haus wurden Pläne gemacht? In deinem Haus wurden Entscheide gefällt? In deinem Haus wurden Beschlüsse getroffen?",
+          "quelle": "Cicero",
+          "funktion": "Gleichbau + Interrogatio = Vorwurfsklimax"
+        }
+      ],
+      "wirkung": [
+        "Rhythmus",
+        "Balance",
+        "Einprägsamkeit",
+        "Feierlichkeit",
+        "Klarheit",
+        "mündliche Wucht"
+      ],
+      "rhetorische_funktionen": [
+        "Rhythmus für mündliche Rede erzeugen",
+        "Gedanken in hörbare Form bringen",
+        "Dreiteilung (Trikolon) als Schlussformel",
+        "Vortrag singend machen ohne Gesang",
+        "Predigtsequenzen strukturieren"
+      ],
+      "beispiele_deutsche_literatur": [
+        "Ehre sei Gott in der Höhe / und Friede auf Erden / den Menschen ein Wohlgefallen. (Lk 2,14 – Trikolon)",
+        "Geist, Wasser, Blut. (1 Joh 5,8 – Trikolon)",
+        "Er ist der Weg, die Wahrheit, das Leben. (Joh 14,6 – Trikolon)",
+        "Vater, vergib ihnen, denn sie wissen nicht, was sie tun. (Lk 23,34)"
+      ],
+      "examples_modern": [
+        "Für dich getauft. Für dich gestorben. Für dich auferstanden.",
+        "Er hat das Grab gesprengt, den Tod besiegt, dem Teufel das letzte Wort genommen.",
+        "Nicht Religionsstunde. Nicht Aufbautraining. Begegnung mit dem lebendigen Gott.",
+        "Er trägt im Dunkel. Er hält im Fallen. Er ruft, wenn du nicht mehr weißt, wie Beten geht.",
+        "Scham hat kein letztes Wort. Schuld hat kein letztes Wort. Der Tod hat kein letztes Wort. Christus hat das letzte Wort."
+      ],
+      "predigtanwendung": [
+        "Schluss",
+        "Einstieg",
+        "Zuspitzung",
+        "strukturierende Übergänge"
+      ],
+      "predigtwerkstatt": {
+        "ausgangssatz": "Gott ist bei dir.",
+        "stufen": [
+          {
+            "stufe": 1,
+            "text": "Gott ist bei dir.",
+            "mittel": "schlicht"
+          },
+          {
+            "stufe": 2,
+            "text": "Er trägt. Er hält. Er rettet.",
+            "mittel": "Trikolon, Asyndeton"
+          },
+          {
+            "stufe": 3,
+            "text": "Er trägt im Dunkel. Er hält im Fallen. Er ruft, wenn du nicht mehr weißt, wie Beten geht.",
+            "mittel": "Parallelismus + Entfaltung"
+          },
+          {
+            "stufe": 4,
+            "text": "Für dich ist er Mensch geworden. Für dich hat er das Kreuz getragen. Für dich ist er auferstanden. Das ist kein Evangelium für die Frommen – das ist dein Name, den er am Kreuz aussprechen wollte.",
+            "mittel": "Trikolon (Für dich) + Antithese + Evangeliumsruf"
+          }
+        ]
+      },
+      "kombinationen": [
+        {
+          "kombi": "Trikolon + Anaphora",
+          "beispiel": "Er sieht dich. Er kennt dich. Er liebt dich.",
+          "wirkung": "Doppelte Rhythmisierung: Anfang + Gleichbau"
+        },
+        {
+          "kombi": "Trikolon + Klimax",
+          "beispiel": "Er hört. Er antwortet. Er handelt – und wenn er handelt, ändert sich etwas für immer.",
+          "wirkung": "Drei Stufen mit steigender Intensität"
+        },
+        {
+          "kombi": "Trikolon + Antithese",
+          "beispiel": "Nicht Gesetz, nicht Leistung, nicht Verdienst – sondern Gnade.",
+          "wirkung": "Dreifacher Kontrast + Auflösung"
+        },
+        {
+          "kombi": "Trikolon + Sentenz",
+          "beispiel": "Gott sucht. Gott findet. Gott feiert. – Das ist nicht Theologie. Das ist Lukas 15.",
+          "wirkung": "Merksatz im Gleichbau"
+        }
+      ],
+      "verbesserungshinweise": [
+        "Trikolon ist fast immer dem Di- oder Tetrakolon vorzuziehen",
+        "Letztes Glied darf etwas länger/überraschender sein",
+        "Parallelismus ohne inhaltliche Steigerung ist Zierde – Steigerung macht daraus Kraft",
+        "Im Schluss stark als abschließende Formel"
+      ],
+      "bewertung": {
+        "verstaendlichkeit_hoeren": 5,
+        "feierlichkeit": 5,
+        "eindringlichkeit": 4,
+        "merkfaehigkeit": 5,
+        "gefahr_ueberkuenstlichkeit": 3,
+        "eignung_predigt": 5,
+        "eignung_vortrag": 5,
+        "eignung_unterricht": 4
+      },
+      "tags": [
+        "rhythmus",
+        "schluss",
+        "einstieg",
+        "memorierbarkeit",
+        "feierlichkeit",
+        "trikolon"
+      ]
+    },
+    {
+      "figur_name": "Exclamatio",
+      "alternativnamen": [
+        "Ausruf",
+        "Apostrophe (wenn zugewendet)",
+        "Ecphonesis"
+      ],
+      "griechisch": "ἐκφώνησις",
+      "lateinisch": "exclamatio",
+      "oberkategorie": "Gedankenfigur",
+      "unterkategorie": "Affektausdruck / Ausruf",
+      "lausberg_paragraphen": "§§ 758–760",
+      "verwandte_figuren": [
+        "Apostrophe",
+        "Interrogatio",
+        "Admiratio"
+      ],
+      "abgrenzung": "Exclamatio = unvermittelter Affektausbruch. Interrogatio = fragende Form des Affekts. Apostrophe = Hinwendung zu einer abwesenden Person/Sache. Zusammen bilden sie die emotionale Trias.",
+      "definition_original": "exclamatio est, per quam dolor aut indignatio brevis atque absoluta eicitur vehementius – Exclamatio ist der Ausruf, durch den Schmerz oder Empörung kurz und vollständig und mit Nachdruck herausgeworfen wird.",
+      "erklaerung_einfach": "Ein spontan wirkender Gefühlsausbruch. Kann Freude, Schmerz, Empörung, Bewunderung ausdrücken. Wirkt am stärksten, wenn hörbar aus dem Kontext herausbricht.",
+      "fremdsprachige_originale": [
+        {
+          "sprache": "Latein",
+          "original": "o tempora, o mores!",
+          "uebersetzung_idiomatisch": "Welche Zeiten, welche Sitten!",
+          "quelle": "Cicero",
+          "funktion": "Klassische Exclamatio der sittlichen Empörung"
+        },
+        {
+          "sprache": "Latein",
+          "original": "heu quam difficile est crimen non prodere vultu!",
+          "uebersetzung_idiomatisch": "Ach, wie schwer ist es, Schuld nicht im Gesicht zu zeigen!",
+          "quelle": "Ovid",
+          "funktion": "Klagende Exclamatio"
+        },
+        {
+          "sprache": "Griechisch",
+          "original": "ὦ τλῆμον Οἰδίπους",
+          "uebersetzung_idiomatisch": "O du armer Ödipus!",
+          "quelle": "Sophokles",
+          "funktion": "Tragische Exclamatio"
+        },
+        {
+          "sprache": "Latein",
+          "original": "O vitae philosophia dux!",
+          "uebersetzung_idiomatisch": "O Philosophie, Führerin des Lebens!",
+          "quelle": "Cicero",
+          "funktion": "Exclamatio als Bewunderung"
+        }
+      ],
+      "wirkung": [
+        "Affekt",
+        "Emotionaler Bruch",
+        "Unmittelbarkeit",
+        "Erschütterung",
+        "Jubel oder Klage"
+      ],
+      "rhetorische_funktionen": [
+        "Emotionale Peripetie signalisieren",
+        "Den Zuhörer durch Affekt aufschrecken",
+        "Übergang von Argumentation zu Bewegung markieren",
+        "Osterpredigt und Festklimax"
+      ],
+      "examples_modern": [
+        "Er ist auferstanden! – Damit ist die ganze Geschichte neu geschrieben!",
+        "Das Grab ist leer! Der Tod hat verloren! Er lebt!",
+        "Er liebt dich! Heute! Jetzt! Ohne Vorbedingung!",
+        "Gott hat seinen einzigen Sohn gegeben – für dich! Für dich hat er das getan!",
+        "Das Kreuz war nicht das Ende – das Kreuz war der Anfang von allem!"
+      ],
+      "predigtanwendung": [
+        "Osterpredigt",
+        "Tauf-/Trauungspredigt",
+        "Höhepunkt der Evangeliumsöffnung",
+        "Schlussjubel"
+      ],
+      "predigtwerkstatt": {
+        "ausgangssatz": "Christus ist auferstanden.",
+        "stufen": [
+          {
+            "stufe": 1,
+            "text": "Christus ist auferstanden.",
+            "mittel": "schlicht"
+          },
+          {
+            "stufe": 2,
+            "text": "Christus ist auferstanden! Das ist keine Meinung. Kein frommer Wunsch. Tatsache.",
+            "mittel": "Exclamatio + dreifache Correctio"
+          },
+          {
+            "stufe": 3,
+            "text": "Das Grab ist leer! Der Stein ist weg! Er lebt! – Und wenn er lebt, dann gilt die Vergebung. Dann gilt die Zusage. Dann gilt: Ich lasse dich nicht fallen.",
+            "mittel": "Exclamatio-Reihe + Commoratio als Entfaltung"
+          },
+          {
+            "stufe": 4,
+            "text": "Er lebt! – Und das bedeutet: dein Versagen ist nicht das letzte Wort. Deine Schuld ist nicht das letzte Wort. Dein Tod wird nicht das letzte Wort sein. ER hat das letzte Wort. Und sein Wort heißt: Leben.",
+            "mittel": "Exclamatio + Anaphora + Antithese + Klimax"
+          }
+        ]
+      },
+      "kombinationen": [
+        {
+          "kombi": "Exclamatio + Anaphora",
+          "beispiel": "Er lebt! Er hat gesiegt! Er kam zurück!",
+          "wirkung": "Jubelnde Steigerung"
+        },
+        {
+          "kombi": "Exclamatio + Antithese",
+          "beispiel": "Du bist im Tod – er ist das Leben! Du bist in der Schuld – er ist die Vergebung!",
+          "wirkung": "Ausruf schmatzt Kontrast auf"
+        },
+        {
+          "kombi": "Exclamatio + Interrogatio",
+          "beispiel": "Ist das nicht unglaublich? Ist das nicht Gnade?",
+          "wirkung": "Staunen zwischen Ausruf und Frage"
+        },
+        {
+          "kombi": "Exclamatio + Commoratio",
+          "beispiel": "Er lebt! – und das ist der Leitgedanke der ganzen Predigt",
+          "wirkung": "Exclamatio als proklamierter Leitgedanke"
+        }
+      ],
+      "verbesserungshinweise": [
+        "Nur an echten emotionalen Höhepunkten – nicht inflationär",
+        "Vorbereitung durch Klimax oder Anaphora verstärkt Exclamatio-Effekt",
+        "Stille / Pause nach der Exclamatio lassen – nicht sofort weiterreden",
+        "Im Jubel nie kitschig werden"
+      ],
+      "bewertung": {
+        "verstaendlichkeit_hoeren": 4,
+        "feierlichkeit": 5,
+        "eindringlichkeit": 5,
+        "merkfaehigkeit": 4,
+        "gefahr_ueberkuenstlichkeit": 4,
+        "eignung_predigt": 5,
+        "eignung_vortrag": 4,
+        "eignung_unterricht": 3
+      },
+      "tags": [
+        "feierlichkeit",
+        "ostern",
+        "emotion",
+        "jubel",
+        "klage",
+        "höhepunkt"
+      ]
+    },
+    {
+      "figur_name": "Amplificatio",
+      "alternativnamen": [
+        "Ausführung",
+        "Steigerung",
+        "Ausweitung"
+      ],
+      "griechisch": "αὔξησις",
+      "lateinisch": "amplificatio; auxesis",
+      "oberkategorie": "Gedankenfigur / Stilprinzip",
+      "unterkategorie": "Übergreifendes Steigerungs- und Ausweitungsprinzip",
+      "lausberg_paragraphen": "§§ 400–409",
+      "verwandte_figuren": [
+        "Klimax",
+        "Expolitio",
+        "Commoratio",
+        "Enumeratio",
+        "Hyperbel"
+      ],
+      "abgrenzung": "Amplificatio ist kein Einzelstilmittel, sondern ein übergreifendes Prinzip: die Ausweitung und Steigerung eines Gedankens in alle verfügbaren Richtungen. Klimax ist eine seiner sprachlichen Formen. Expolitio ist amplifizierendes Verweilen. Commoratio ist Amplificatio des Hauptgedankens.",
+      "definition_original": "amplificatio est rerum aut verborum gravis exornatio ad augendam commovendarumque mentium causam – Amplificatio ist die gewichtige Ausschmückung von Sachverhalten oder Wörtern, um etwas zu vergrößern und die Seelen zu erschüttern.",
+      "erklaerung_einfach": "Die Amplifikation ist das rhetorische Prinzip der Ausweitung: ein Gedanke wird in seinen Konsequenzen, Dimensionen, seiner globalen Geltung und affektischen Tiefe entfaltet. Nicht erklärt, sondern ausgebreitet.",
+      "fremdsprachige_originale": [
+        {
+          "sprache": "Latein",
+          "original": "hoc uno praetoreo: quid in hac vita iucundum esse possit, si die noctuque cogitandum sit, imminere dominum, qui nulla recusata servitute, nullo reiecto iudicio …",
+          "uebersetzung_idiomatisch": "Das übergehe ich: Was kann im Leben erfreulich sein, wenn man Tag und Nacht daran denken muss, dass ein Herr droht, der ...",
+          "quelle": "Cicero",
+          "funktion": "Amplificatio durch fingierte Bescheidenheit and dann expansiver Entfaltung"
+        }
+      ],
+      "wirkung": [
+        "Ausweitung",
+        "Gewicht",
+        "Tiefe",
+        "Erschütterung",
+        "Überwältigend"
+      ],
+      "rhetorische_funktionen": [
+        "Einen Gedanken in seine volle Dimension hineinführen",
+        "Die affektische Tiefe des Evangeliums ausleuchten",
+        "Schuld, Gnade, Gericht oder Trost nicht nur nennen, sondern entfalten",
+        "Zuhörer durch Weitung des Blickfelds erschüttern"
+      ],
+      "unterformen_kurz": {
+        "per_incrementum": "Jeweils stärkeres Wort – komparativ aufsteigend",
+        "per_comparationem": "Vergleich mit etwas noch Größerem",
+        "per_ratiocinationem": "Schlussfolgerung: wenn das schon gilt, dann erst recht dies",
+        "per_accumulationem": "Häufung aller Aspekte"
+      },
+      "examples_modern": [
+        "Er stirbt nicht für eine religiöse Idee – er stirbt für dich, mit deiner konkreten Schuld, für dein konkretes Leben, in deiner heutigen Nacht.",
+        "Das Evangelium gilt nicht allgemein irgendwo da draußen – es gilt dir, jetzt, mit diesem Versagen, mit dieser Woche, mit dem, was du niemandem gezeigt hast.",
+        "Gottes Gnade übersteigt nicht nur deine Schuld – sie übersteigt deine düsterste Vorstellung davon, wie groß deine Schuld ist."
+      ],
+      "predigtanwendung": [
+        "Zuspitzung großer Predigtaussagen",
+        "Abschnitt über das Kreuz",
+        "Schöpfung und Erlösung",
+        "Gerichtspassagen"
+      ],
+      "predigtwerkstatt": {
+        "ausgangssatz": "Christus ist für uns gestorben.",
+        "stufen": [
+          {
+            "stufe": 1,
+            "text": "Christus ist für uns gestorben.",
+            "mittel": "schlicht"
+          },
+          {
+            "stufe": 2,
+            "text": "Christus ist für uns gestorben – nicht für eine abstrakte Menschheit, für dich.",
+            "mittel": "Amplificatio per concretionem"
+          },
+          {
+            "stufe": 3,
+            "text": "Nicht für eine abstrakte Menschheit – für dich. Für dich mit dieser Schuld. Für dich in dieser Nacht. Für dich mit dem, das du niemandem zeigst.",
+            "mittel": "Amplificatio per accumulationem + Anaphora"
+          },
+          {
+            "stufe": 4,
+            "text": "Und wenn das gilt – wenn das wirklich gilt – dann ist kein Punkt in deinem Leben außerhalb seiner Gnade. Kein Versagen zu groß. Keine Nacht zu dunkel. Kein Abstand zu weit. Er ist am Kreuz gestorben, damit du das hören kannst: Komm heim.",
+            "mittel": "Amplificatio per ratiocinationem + Antithese + Evangeliumsruf"
+          }
+        ]
+      },
+      "kombinationen": [
+        {
+          "kombi": "Amplificatio + Enumeratio",
+          "beispiel": "Er trägt deine Schuld, deine Scham, dein Versagen, deinen Hochmut, deine Lüge, deine verborgene Verzweiflung.",
+          "wirkung": "Häufung entfaltet die Breite"
+        },
+        {
+          "kombi": "Amplificatio + Klimax",
+          "beispiel": "Er leidet, er stirbt, er überwindet – und das für dich.",
+          "wirkung": "Weitung durch Steigerung"
+        },
+        {
+          "kombi": "Amplificatio + Subiectio",
+          "beispiel": "Du fragst: Gilt das wirklich auch mir? Ja – und mehr, als du denkst.",
+          "wirkung": "Dialog öffnet und weitet"
+        },
+        {
+          "kombi": "Amplificatio + Anaphora",
+          "beispiel": "Für dich in deiner Schuld. Für dich in deiner Scham. Für dich in deiner Nacht.",
+          "wirkung": "Rhythmische Weitung"
+        }
+      ],
+      "verbesserungshinweise": [
+        "Amplificatio ist Prinzip, nicht Einzelfigur – braucht immer konkrete Ausformung",
+        "Ohne inhaltliche Substanz wird es Inflation",
+        "Am stärksten bei Kreuz, Gnade, Gericht, universaler Geltung"
+      ],
+      "bewertung": {
+        "verstaendlichkeit_hoeren": 4,
+        "feierlichkeit": 4,
+        "eindringlichkeit": 5,
+        "merkfaehigkeit": 4,
+        "gefahr_ueberkuenstlichkeit": 4,
+        "eignung_predigt": 5,
+        "eignung_vortrag": 4,
+        "eignung_unterricht": 4
+      },
+      "tags": [
+        "ausweitung",
+        "tiefe",
+        "kreuz",
+        "gnade",
+        "gericht",
+        "zuspitzung"
+      ]
+    },
+    {
+      "figur_name": "Chiasmus",
+      "alternativnamen": [
+        "Kreuzstellung",
+        "Antimetabole"
+      ],
+      "griechisch": "χιασμός",
+      "lateinisch": "chiasmus; commutatio",
+      "oberkategorie": "Wortfigur",
+      "unterkategorie": "Überkreuzstellungsfigur",
+      "lausberg_paragraphen": "§§ 801–804",
+      "verwandte_figuren": [
+        "Antithese",
+        "Parallelismus",
+        "Commutatio"
+      ],
+      "abgrenzung": "Chiasmus = gleiche Elemente in umgekehrter Reihenfolge (A B / B A). Parallelismus = gleiche Reihenfolge. Antithese = Kontrast ohne Kreuzung. Antimetabole = Chiasmus mit wortgleichen Wiederkehren.",
+      "definition_original": "Chiasmus ist die Kreuzstellung syntaktischer oder semantischer Elemente: A B wird zu B A. Zwei verwandte Begriffe oder Gedanken werden in umgekehrter Ordnung wiederholt.",
+      "erklaerung_einfach": "Zwei Gedanken werden erst in Reihenfolge A–B gegeben, dann in Umkehrung B–A. Das erzeugt Spannung, Balance und Eleganz zugleich.",
+      "fremdsprachige_originale": [
+        {
+          "sprache": "Latein",
+          "original": "non ut edam vivo, sed ut vivam edo",
+          "uebersetzung_idiomatisch": "Nicht um zu essen lebe ich, sondern um zu leben esse ich",
+          "funktion": "Klassischer Chiasmus: essen→leben / leben→essen"
+        },
+        {
+          "sprache": "Latein",
+          "original": "miseram me esse putes, quia miser est qui me non amat",
+          "uebersetzung_idiomatisch": "Du glaubst, ich sei elend, weil elend ist, wer mich nicht liebt",
+          "funktion": "Chiasmus mit Umkehrung der Werturteile"
+        },
+        {
+          "sprache": "Griechisch",
+          "original": "οὐκ ἵνα ἄρτον φάγω ζῶ, ἀλλ᾿ ἵνα ζήσω ἄρτον ἐσθίω",
+          "uebersetzung_idiomatisch": "Nicht um zu essen lebe ich, sondern um zu leben esse ich",
+          "funktion": "Griechisches Original des essen/leben Chiasmus"
+        }
+      ],
+      "wirkung": [
+        "Eleganz",
+        "Einprägsamkeit",
+        "Überraschung",
+        "Balance",
+        "Sprachlust"
+      ],
+      "rhetorische_funktionen": [
+        "Gedanken mit sprachlicher Gestalt unvergesslich machen",
+        "Umkehrung als Erkenntnismoment inszenieren",
+        "Antithesen balancieren",
+        "Witz und Tiefe vereinigen"
+      ],
+      "examples_modern": [
+        "Nicht wir halten an Gott fest – Gott hält an uns fest.",
+        "Wir laufen vor Gott weg. Gott läuft uns nach.",
+        "Nicht Glaube schafft Heil – Heil schafft Glauben.",
+        "Du suchst den Ausweg. Gott ist der Ausweg, der dich sucht.",
+        "Wir gehen nicht zu Gott. Gott kommt zu uns. Das nennt sich: Weihnachten."
+      ],
+      "predigtanwendung": [
+        "Merksatzposition",
+        "Schluss",
+        "Auslegungspointe",
+        "Zusammenfassung theologischer Kernaussage"
+      ],
+      "predigtwerkstatt": {
+        "ausgangssatz": "Gott sucht uns.",
+        "stufen": [
+          {
+            "stufe": 1,
+            "text": "Gott sucht uns.",
+            "mittel": "schlicht"
+          },
+          {
+            "stufe": 2,
+            "text": "Wir suchen Gott nicht. Gott sucht uns.",
+            "mittel": "Antithese"
+          },
+          {
+            "stufe": 3,
+            "text": "Wir suchen – Gott findet. Gott sucht – wir werden gefunden.",
+            "mittel": "Chiasmus"
+          },
+          {
+            "stufe": 4,
+            "text": "Nicht wir halten an Gott fest, sondern Gott hält an uns fest – das ist der Unterschied zwischen Religion und Evangelium.",
+            "mittel": "Chiasmus + Sentenz"
+          }
+        ]
+      },
+      "kombinationen": [
+        {
+          "kombi": "Chiasmus + Sentenz",
+          "beispiel": "Nicht Glaube schafft Heil – Heil schafft Glauben.",
+          "wirkung": "Umkehrung wird Merksatz"
+        },
+        {
+          "kombi": "Chiasmus + Antithese",
+          "beispiel": "Wir fliehen vor Gott. Gott läuft uns nach.",
+          "wirkung": "Kontrast + Kreuzung"
+        },
+        {
+          "kombi": "Chiasmus + Interrogatio",
+          "beispiel": "Du fragst: Wo ist Gott in diesem Schmerz? – Gott fragt: Wo bist du? Komm raus.",
+          "wirkung": "Fragenumkehrung als prophetisches Erkenntnismoment"
+        }
+      ],
+      "verbesserungshinweise": [
+        "Nur bei wirklich passendem Inhalt einsetzen – nicht formal aufzwingen",
+        "Kürzere Formen wirken stärker als lange",
+        "Kombination mit Sentenz: Chiasmus als Merksatz ist die stärkste Form",
+        "Zu häufig eingesetzt verliert er seine Kraft"
+      ],
+      "bewertung": {
+        "verstaendlichkeit_hoeren": 4,
+        "feierlichkeit": 4,
+        "eindringlichkeit": 4,
+        "merkfaehigkeit": 5,
+        "gefahr_ueberkuenstlichkeit": 4,
+        "eignung_predigt": 4,
+        "eignung_vortrag": 5,
+        "eignung_unterricht": 5
+      },
+      "tags": [
+        "merksatz",
+        "schluss",
+        "eleganz",
+        "umkehrung",
+        "memorierbarkeit"
+      ]
+    },
+    {
+      "figur_name": "Asyndeton",
+      "alternativnamen": [
+        "asyndetische Reihung",
+        "unverbundene Häufung"
+      ],
+      "griechisch": "ἀσύνδετον",
+      "lateinisch": "asyndeton; dissolutum",
+      "oberkategorie": "Wortfigur",
+      "unterkategorie": "Verbindungslosigkeit / Listenreihung",
+      "lausberg_paragraphen": "§§ 709–711",
+      "verwandte_figuren": [
+        "Polysyndeton",
+        "Enumeratio",
+        "Klimax"
+      ],
+      "abgrenzung": "Asyndeton = kein verbindendes 'und'. Polysyndeton = überdicht mit 'und' verbunden. Beide intensivieren – das Asyndeton durch Rückkheit und Tempo, das Polysyndeton durch Gewichtung.",
+      "definition_original": "asyndeton est, cum omissis coniunctionibus res plurimae paucis et breviter exponuntur – Asyndeton liegt vor, wenn durch Weglassen der Verbindungswörter viele Dinge knapp und kurz dargestellt werden.",
+      "erklaerung_einfach": "Wörter, Satzglieder oder Sätze werden ohne verbindendes 'und' aneinandergereiht. Erzeugt Tempo, Knappheit und gehämmerte Wirkung. Gut für Klimax-Sequenzen.",
+      "fremdsprachige_originale": [
+        {
+          "sprache": "Latein",
+          "original": "veni, vidi, vici",
+          "uebersetzung_woertlich": "Ich kam, ich sah, ich siegte",
+          "quelle": "Caesar",
+          "funktion": "Klassisches dreigliedriges Asyndeton mit Klimax"
+        },
+        {
+          "sprache": "Latein",
+          "original": "abiit, excessit, evasit, erupit",
+          "uebersetzung_idiomatisch": "Er ist gegangen, entwichen, entkommen, ausgebrochen",
+          "quelle": "Cicero",
+          "funktion": "Viergliedriges Asyndeton – Steigerung und Erregung des Affekts"
+        }
+      ],
+      "wirkung": [
+        "Tempo",
+        "Dringlichkeit",
+        "Knappheit",
+        "Hämmernde Wirkung",
+        "Prägnanz"
+      ],
+      "examples_modern": [
+        "Kreuz. Grab. Auferstehung. – Das ist kein Plan B. Das war der Plan.",
+        "Er starb. Er wurde begraben. Er ist auferstanden.",
+        "Ich fiel. Ich lag. Ich rief. Er kam.",
+        "Schuld, Scham, Versteck, Einsamkeit – kein Entkommen. Außer einem.",
+        "Heute. Jetzt. Hier. Nicht irgendwann."
+      ],
+      "predigtanwendung": [
+        "Klimax-Sequenzen",
+        "Passionserzählung",
+        "Auferstehung",
+        "kurze Schlussformeln"
+      ],
+      "kombinationen": [
+        {
+          "kombi": "Asyndeton + Klimax",
+          "beispiel": "Er zweifelte, er fiel, er schrie, er wurde gerettet.",
+          "wirkung": "Knappes Tempo + Steigerung"
+        },
+        {
+          "kombi": "Asyndeton + Anaphora",
+          "beispiel": "Er sieht. Er kennt. Er liebt.",
+          "wirkung": "Tempo + Rhythmus = maximale Knappheit"
+        },
+        {
+          "kombi": "Polysyndeton (Gegenstück)",
+          "beispiel": "Und er sah und er hörte und er kam und er half und er blieb.",
+          "wirkung": "Verlangsamung, Gewicht; Erzählstil bei Wunder/Gnade"
+        }
+      ],
+      "verbesserungshinweise": [
+        "Sehr stark für Vortrags-Klimax und -Schluss",
+        "Polysyndeton dagegen bei weicher, besinnlicher Erzählung einsetzen",
+        "Asyndeton nicht bei komplexen Sätzen – nur bei kurzen, parallelen Gliedern"
+      ],
+      "bewertung": {
+        "verstaendlichkeit_hoeren": 5,
+        "feierlichkeit": 3,
+        "eindringlichkeit": 5,
+        "merkfaehigkeit": 5,
+        "gefahr_ueberkuenstlichkeit": 2,
+        "eignung_predigt": 5,
+        "eignung_vortrag": 5,
+        "eignung_unterricht": 4
+      },
+      "tags": [
+        "tempo",
+        "knappheit",
+        "klimax",
+        "schluss",
+        "memorierbarkeit"
+      ]
+    },
+    {
+      "figur_name": "Polysyndeton",
+      "alternativnamen": [
+        "Überverbindung",
+        "Konjunktionshäufung"
+      ],
+      "griechisch": "πολυσύνδετον",
+      "lateinisch": "polysyndeton",
+      "oberkategorie": "Wortfigur",
+      "unterkategorie": "Verbindungsüberfluss / verlangsamte Häufung",
+      "lausberg_paragraphen": "§§ 712–713",
+      "verwandte_figuren": [
+        "Asyndeton",
+        "Anaphora",
+        "Enumeratio"
+      ],
+      "abgrenzung": "Polysyndeton = übermäßige Verbindung durch Konjunktionen (und…und…und). Asyndeton = ohne Verbindung. Polysyndeton verlangsamt, gewichtet jedes Glied; Asyndeton beschleunigt.",
+      "definition_original": "polysyndeton est, quotiens per plures coniunctiones res plurimae coniunctae sunt – Polysyndeton liegt vor, wenn viele Dinge durch viele Verbindungswörter zusammengeschlossen werden.",
+      "erklaerung_einfach": "Mehrere Satzglieder oder Sätze werden durch wiederholtes 'und' verknüpft. Verlangsamt, gewichtet jedes einzelne Glied, erzeugt einen Erzählstrom oder besinnliche Weitung.",
+      "fremdsprachige_originale": [
+        {
+          "sprache": "Griechisch",
+          "original": "καὶ εἶδεν ὅτι καλόν … καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωί",
+          "uebersetzung_idiomatisch": "Und er sah, dass es gut war … und es wurde Abend und es wurde Morgen",
+          "quelle": "Genesis 1 (Sep­tuaginta)",
+          "funktion": "Hebräisches Polysyndeton als Schöpfungserzählstil"
+        },
+        {
+          "sprache": "Griechisch",
+          "original": "καὶ ἀναβλέψας εἶδεν αὐτόν",
+          "uebersetzung_idiomatisch": "Und aufblickend sah er ihn",
+          "quelle": "Lukas-Evangelium",
+          "funktion": "Markinisch-lukanisches Erzählpolysyndeton"
+        }
+      ],
+      "wirkung": [
+        "Verlangsamung",
+        "Gewichtung",
+        "Erzählfluss",
+        "Besinnlichkeit",
+        "Feierlichkeit"
+      ],
+      "examples_modern": [
+        "Und er sah ihn von weitem, und er lief, und er fiel ihm um den Hals, und er küsste ihn, und er rief: Bringt das beste Gewand!",
+        "Und die Gnade trägt und hält und vergibt und erneuert und bringt heim.",
+        "Und selbst wenn du zweifelst, und selbst wenn du fällst, und selbst wenn du aufgehört hast zu beten – er ist immer noch da. Immer noch."
+      ],
+      "predigtanwendung": [
+        "Gleichniserzählung",
+        "Schöpfung",
+        "Heilungsberichte",
+        "besinnliche Passagen",
+        "Langzuspitzung"
+      ],
+      "kombinationen": [
+        {
+          "kombi": "Polysyndeton + Amplificatio",
+          "beispiel": "Und er trägt und er hält und er begleitet und er wartet und er ruft.",
+          "wirkung": "Fülle entfaltet sich als Strom"
+        },
+        {
+          "kombi": "Polysyndeton vs. Asyndeton (Wechsel)",
+          "beispiel": "Er sah. Er kam. Er half. Und er blieb. Und er wartete. Und er liebt noch immer.",
+          "wirkung": "Tempo-Kontrast: erst knapp – dann weich und verweisend"
+        }
+      ],
+      "verbesserungshinweise": [
+        "Sparsam einsetzen – Übermaß wird ermüdend",
+        "In Gleichniserzählungen und Psalmen sehr angemessen",
+        "Wechsel Asyndeton → Polysyndeton → Asyndeton erzeugt lebendigen Rhythmus"
+      ],
+      "bewertung": {
+        "verstaendlichkeit_hoeren": 4,
+        "feierlichkeit": 4,
+        "eindringlichkeit": 3,
+        "merkfaehigkeit": 3,
+        "gefahr_ueberkuenstlichkeit": 3,
+        "eignung_predigt": 4,
+        "eignung_vortrag": 3,
+        "eignung_unterricht": 3
+      },
+      "tags": [
+        "erzählen",
+        "gleichnis",
+        "feierlichkeit",
+        "besinnlich",
+        "verlangsamung"
+      ]
+    },
+    {
+      "figur_name": "Apostrophe",
+      "alternativnamen": [
+        "Zuwendung",
+        "Abwendung vom Publikum"
+      ],
+      "griechisch": "ἀποστροφή",
+      "lateinisch": "apostrophe; aversio",
+      "oberkategorie": "Gedankenfigur",
+      "unterkategorie": "Adressatwechsel",
+      "lausberg_paragraphen": "§§ 762–765",
+      "verwandte_figuren": [
+        "Exclamatio",
+        "Prosopopoeia",
+        "Sermocinatio"
+      ],
+      "erklaerung_einfach": "Der Redner wendet sich plötzlich von seinem eigentlichen Publikum ab und spricht eine abwesende Person, einen Ort, eine Idee oder Gott direkt an. Erzeugt dramatische Spannung und Unmittelbarkeit.",
+      "fremdsprachige_originale": [
+        {
+          "sprache": "Latein",
+          "original": "O patria! O di penates! O di immortales!",
+          "uebersetzung_idiomatisch": "O Vaterland! O Hausgötter! O unsterbliche Götter!",
+          "quelle": "Cicero",
+          "funktion": "Apostrophe als erzwungene Zeugschaft"
+        },
+        {
+          "sprache": "Latein",
+          "original": "tu, tu, Hannibal, causam huius belli praebuisti",
+          "uebersetzung_idiomatisch": "Du, du, Hannibal, hast den Anlass zu diesem Krieg gegeben",
+          "quelle": "Livius",
+          "funktion": "Direkte Anklage des Abwesenden"
+        }
+      ],
+      "wirkung": [
+        "Dramatik",
+        "Unmittelbarkeit",
+        "Emotionale Erschütterung",
+        "Adressierung"
+      ],
+      "examples_modern": [
+        "O Gott, du siehst sie alle. Du siehst jeden einzelnen. Ruf sie heim.",
+        "Du dort – ja, genau du – er meint dich. Er sieht dich. Er sucht dich.",
+        "Tod, wo ist jetzt dein Stachel? Grab, wo ist dein Sieg? – Er hat gewonnen!",
+        "O Herr, wie lange noch? – Und er antwortet: Bis der Letzte heimgekommen ist."
+      ],
+      "predigtanwendung": [
+        "Anbetung",
+        "Klage",
+        "Anruf Gottes im Gebet",
+        "Prophetische Ansprache",
+        "Dramatische Auslegung"
+      ],
+      "kombinationen": [
+        {
+          "kombi": "Apostrophe + Exclamatio",
+          "beispiel": "O Christus! O Auferstandener! O du, der du lebst!",
+          "wirkung": "Apostrophe + Jubel = liturgischer Affekt"
+        },
+        {
+          "kombi": "Apostrophe + Interrogatio",
+          "beispiel": "Du, Gott – hörst du das? Siehst du das überhaupt?",
+          "wirkung": "Klagegebet aus der Tiefe"
+        }
+      ],
+      "tags": [
+        "anbetung",
+        "klage",
+        "gebetssprache",
+        "dramatik",
+        "apostrophe"
+      ]
+    },
+    {
+      "figur_name": "Evidentia",
+      "alternativnamen": [
+        "Hypotyposis",
+        "Lebhaftigkeit",
+        "Veranschaulichung"
+      ],
+      "griechisch": "ἐνάργεια; ὑποτύπωσις",
+      "lateinisch": "evidentia; demonstratio; illustratio",
+      "oberkategorie": "Gedankenfigur",
+      "unterkategorie": "Lebhafte Veranschaulichung",
+      "lausberg_paragraphen": "§§ 810–819",
+      "verwandte_figuren": [
+        "Narratio",
+        "Descriptio",
+        "Expolitio"
+      ],
+      "erklaerung_einfach": "Eine Sache wird so lebendig, anschaulich und detailreich beschrieben, dass der Zuhörer das Gefühl hat, selbst dabei zu sein. Über bloße Information hinaus: der Hörer wird zum Augenzeugen.",
+      "definition_original": "evidentia est, per quam rem ita graphice exprimit ut sine dubio et oculis et auribus sentiatur – Evidentia ist die durch sie erreichte Lebhaftigkeit, durch die eine Sache so anschaulich ausgedrückt wird, dass sie ohne Zweifel mit Augen und Ohren empfunden wird.",
+      "fremdsprachige_originale": [
+        {
+          "sprache": "Latein",
+          "original": "ut quasi coram adesse videantur",
+          "uebersetzung_idiomatisch": "So dass sie gleichsam persönlich anwesend zu sein scheinen",
+          "funktion": "Kernbestimmung der Evidentia: Gegenwärtigkeit des Abwesenden"
+        }
+      ],
+      "wirkung": [
+        "Anschaulichkeit",
+        "Unmittelbarkeit",
+        "Identifikation",
+        "Vergegenwärtigung",
+        "Erschütterung"
+      ],
+      "examples_modern": [
+        "Golgatha. Mittagssonne. Drei Kreuze. Nägel durch Hände und Füße. Blut im Staub. Ein Schrei: Mein Gott, mein Gott! – Das ist kein Theaterstück. Das ist deine Schuld, die er trägt.",
+        "Der Vater sieht ihn von weitem. Er läuft. Barfuß. Als Patriarch. Er läuft, weil er nicht warten kann. Das ist kein frommer Einfall – das ist, wie Gott dich sieht.",
+        "Drei Uhr morgens. Du liegst wach. Du weißt genau, was du getan hast. Du hast es niemandem gesagt. – Er weiß es. Und er liebt dich trotzdem."
+      ],
+      "predigtanwendung": [
+        "Passionspredigt",
+        "Gleichnisauslegung",
+        "Parallelszenen aus dem Alltag",
+        "Einstiegsszene"
+      ],
+      "kombinationen": [
+        {
+          "kombi": "Evidentia + Narratio",
+          "beispiel": "Kleiner Junge, der mit Steinen spielt. Erinnerst du dich? Das warst du. Das ist du.",
+          "wirkung": "Szene + Identifikation"
+        },
+        {
+          "kombi": "Evidentia + Subiectio",
+          "beispiel": "Stell dir vor, Jesus sieht dich. Jetzt. Hier. Und er fragt: Was willst du, dass ich dir tue?",
+          "wirkung": "Vergegenwärtigung + Dialog"
+        }
+      ],
+      "tags": [
+        "einstieg",
+        "illustration",
+        "anschaulichkeit",
+        "identifikation",
+        "vergegenwärtigung"
+      ]
+    },
+    {
+      "figur_name": "Concessio",
+      "alternativnamen": [
+        "Zugeständnis",
+        "Permissio",
+        "Einräumung"
+      ],
+      "griechisch": "παραχώρησις",
+      "lateinisch": "concessio; permissio",
+      "oberkategorie": "Gedankenfigur",
+      "unterkategorie": "Einräumende Figur",
+      "lausberg_paragraphen": "§§ 837–838 (nahe Einordnung)",
+      "erklaerung_einfach": "Der Redner räumt eine Schwäche des eigenen Standpunkts oder eine Stärke des Gegners scheinbar ein – um dann die eigene Position umso stärker zu profilieren. Glaubwürdigkeitsfigur.",
+      "definition_original": "concessio est, cum adversario permittimus ut id habeat quod vult, dum nos nostrum retineamus – Concessio ist, wenn wir dem Gegner geben, was er will, solange wir unseres behalten.",
+      "wirkung": [
+        "Glaubwürdigkeit",
+        "Überzeugungskraft durch Authentizität",
+        "Entwaffnung des Einwands"
+      ],
+      "examples_modern": [
+        "Ja, Gott fordert alles. Und er gibt sich selbst zuerst.",
+        "Du hast Recht – die Kirche hat versagt. Schwer. Und dennoch: Christus nicht.",
+        "Ja, es klingt nach zu viel, um wahr zu sein. Und genau das ist Evangelium.",
+        "Zugegeben: Glauben kostet. Aber schau, was Nicht-Glauben kostet.",
+        "Ja, du hast wieder versagt. Und Gnade gilt gerade deswegen – nicht trotzdem."
+      ],
+      "predigtanwendung": [
+        "Auslegung schwieriger Stellen",
+        "Anfragen der Vernunft",
+        "Evangelistische Predigt",
+        "Jugendpredigt"
+      ],
+      "kombinationen": [
+        {
+          "kombi": "Concessio + Subiectio",
+          "beispiel": "Du sagst: Das ist zu schwer. Und ich sage: Ja – und genau deshalb kommt Gnade.",
+          "wirkung": "Einräumung öffnet Dialog"
+        },
+        {
+          "kombi": "Concessio + Klimax",
+          "beispiel": "Ja, du hast versagt. Ja, du hast es noch einmal getan. Ja, du bist sicher, dass das jetzt zu spät ist. Und Gottes Antwort auf dreifaches Ja lautet: Trotzdem. Komm.",
+          "wirkung": "Dreifache Konzession macht Galgenhumor und Gnade zugleich erfahrbar"
+        }
+      ],
+      "tags": [
+        "glaubwürdigkeit",
+        "einwand",
+        "evangelistisch",
+        "authentizität",
+        "jugend"
+      ]
+    },
+    {
+      "figur_name": "Enthymem",
+      "alternativnamen": [
+        "rhetorischer Schluss",
+        "verkürzter Syllogismus"
+      ],
+      "griechisch": "ἐνθύμημα",
+      "lateinisch": "enthymema",
+      "oberkategorie": "Gedankenfigur",
+      "unterkategorie": "Argumentationsfigur / verkürzter logischer Schluss",
+      "lausberg_paragraphen": "§§ 371–374",
+      "verwandte_figuren": [
+        "Aetiologia",
+        "Sentenz",
+        "Subiectio"
+      ],
+      "erklaerung_einfach": "Ein Argument wird als zugespitzter, abgekürzter Schluss formuliert. Die Schlusslogik ist erkennbar, aber nicht vollständig ausgeführt – der Hörer ergänzt sie mit. Das erzeugt intellektuelle Mitbewegung.",
+      "definition_original": "enthymema est … quasi conclusio aliqua ex contrariis – Das Enthymem ist gleichsam ein Schluss aus entgegengesetzten Aussagen.",
+      "wirkung": [
+        "Intellektuelle Nachdrücklichkeit",
+        "Mitbewegung des Denkens",
+        "schnell und scharf"
+      ],
+      "examples_modern": [
+        "Wenn Christus gestorben und auferstanden ist, dann ist der Tod nicht das Letzte – für ihn und für dich.",
+        "Er hat dich vor Grundlegung der Welt gekannt. Das war kein Versehen.",
+        "Wenn Gnade bedingungslos gilt – dann gilt sie auch für das, was du diese Woche gedacht hast.",
+        "Wenn der Schuldige freigesprochen wird, dann ist Gerechtigkeit nicht weg – sie ist bezahlt. Am Kreuz.",
+        "Wenn das Grab leer ist, dann hat der Tod nicht mehr das letzte Wort über dich."
+      ],
+      "predigtanwendung": [
+        "Auslegungsschluss",
+        "Evangeliumsöffnung",
+        "Schlusspunkt nach langer Entfaltung"
+      ],
+      "kombinationen": [
+        {
+          "kombi": "Enthymem + Sentenz",
+          "beispiel": "Wer geliebt ist, muss sich nicht beweisen. Du bist geliebt.",
+          "wirkung": "Schluss mündet in Merksatz"
+        },
+        {
+          "kombi": "Enthymem + Subiectio",
+          "beispiel": "Du fragst: Reicht das? Wenn Christus für dich gestorben ist – was sollte nicht reichen?",
+          "wirkung": "Argumentativer Dialog"
+        }
+      ],
+      "tags": [
+        "argumentation",
+        "schluss",
+        "evangeliumsöffnung",
+        "logik",
+        "überzeugung"
+      ]
+    },
+    {
+      "figur_name": "Ironie",
+      "alternativnamen": [
+        "Dissimulatio",
+        "illusio"
+      ],
+      "griechisch": "εἰρωνεία",
+      "lateinisch": "ironia; dissimulatio; illusio",
+      "oberkategorie": "Tropus",
+      "unterkategorie": "Bedeutungsumkehrung",
+      "lausberg_paragraphen": "§§ 582–585",
+      "verwandte_figuren": [
+        "Sarkasmus",
+        "Litotes",
+        "Paradoxon"
+      ],
+      "erklaerung_einfach": "Das Gegenteil von dem wird ausgesagt, was gemeint ist. Der Zuhörer erkennt die Absicht am Ton oder Kontext. Erzeugt Distanz, Witz und Schärfe – in der Predigt meist als behutsame Form.",
+      "definition_original": "ironia est per quam aliud dicitur atque intellegendum est – Ironie liegt vor, wenn etwas anderes gesagt wird, als verstanden werden soll.",
+      "fremdsprachige_originale": [
+        {
+          "sprache": "Latein",
+          "original": "laudandus est Caesar qui ea vidit quae ceteri non viderunt",
+          "uebersetzung_idiomatisch": "Man muss Caesar loben dafür, dass er sah, was die anderen nicht sahen",
+          "quelle": "Cicero (ironisch gemeint)",
+          "funktion": "Ironie als fingiertes Lob"
+        }
+      ],
+      "wirkung": [
+        "Witz",
+        "Schärfe",
+        "Distanz",
+        "Entlarvung",
+        "Überraschung"
+      ],
+      "examples_modern": [
+        "Natürlich brauchen wir Gott nicht. Wir haben ja alles im Griff – das sieht man ja.",
+        "Wir sind die erste Generation, die das wirklich ohne Gott hinbekommt. Frag einfach die, die es versucht haben.",
+        "Ja, das Selbstbild reicht völlig als Anker in der Nacht. Absolut.",
+        "Klar ist alles relativ. Außer natürlich dem Schmerz, der sich nicht relativ anfühlt."
+      ],
+      "predigtanwendung": [
+        "Denkanstoss",
+        "Entlarvung von Lebenslügen",
+        "Jugendpredigt",
+        "Sparsam einsetzen"
+      ],
+      "verbesserungshinweise": [
+        "In der Predigt immer behutsam und erkennbar",
+        "Nie verletzend oder zynisch",
+        "Selten – Wirkung kommt aus dem Überraschungsmoment",
+        "Gut für Einwand-Entlarvung am Anfang"
+      ],
+      "kombinationen": [
+        {
+          "kombi": "Ironie + Correctio",
+          "beispiel": "Natürlich brauchen wir Gott nicht. Nein – wir brauchen ihn. Wie die Luft.",
+          "wirkung": "Ironie wird sofort korrigiert und vertieft"
+        }
+      ],
+      "tags": [
+        "humor",
+        "entlarvung",
+        "denkanstoss",
+        "jugend",
+        "sparsam"
+      ]
+    },
+    {
+      "figur_name": "Hyperbel",
+      "alternativnamen": [
+        "Übertreibung"
+      ],
+      "griechisch": "ὑπερβολή",
+      "lateinisch": "hyperbole; superlatio",
+      "oberkategorie": "Tropus",
+      "unterkategorie": "Maßüberschreitung zur Intensivierung",
+      "lausberg_paragraphen": "§§ 579–582",
+      "abgrenzung": "Hyperbel = bewusste Übermaßformulierung. Litotes = bewusstes Untermaß. Beide dienen der Intensivierung, nur in entgegengesetzter Richtung.",
+      "definition_original": "hyperbole est cum aliquid ultra veritatem augendi minuendive causa dicitur – Hyperbel liegt vor, wenn etwas über die Wahrheit hinaus zur Steigerung oder Verkleinerung gesagt wird.",
+      "erklaerung_einfach": "Absichtliche Übertreibung zur Intensivierung. Nicht als Lüge, sondern als Bild, das die innere Wahrheit vergrößert darstellt.",
+      "fremdsprachige_originale": [
+        {
+          "sprache": "Latein",
+          "original": "nives Alpium candidas pedes lavere",
+          "uebersetzung_idiomatisch": "Er ließ seine weißen Füße vom Schnee der Alpen waschen",
+          "funktion": "Extreme Verkleinerung durch Übertreibung"
+        },
+        {
+          "sprache": "Griechisch",
+          "original": "πιόντας ἂν τὴν θάλασσαν",
+          "uebersetzung_idiomatisch": "hätten das Meer ausgetrunken",
+          "funktion": "Hyperbel der Unmöglichkeit"
+        }
+      ],
+      "wirkung": [
+        "Intensität",
+        "Bildhaftigkeit",
+        "Humor",
+        "Dringlichkeit"
+      ],
+      "examples_modern": [
+        "Gott hat eine Ewigkeit auf diesen Moment gewartet.",
+        "Das Kreuz ist lauter als jede Stimme der Anklage in dir.",
+        "Seine Liebe ist tiefer als der tiefste Punkt, den du je erreicht hast.",
+        "Nicht ein Millimeter deines Lebens ist ihm gleichgültig."
+      ],
+      "predigtanwendung": [
+        "Trost",
+        "dringlicher Appell",
+        "Bibelvers-Auslegung mit Tiefe"
+      ],
+      "kombinationen": [
+        {
+          "kombi": "Hyperbel + Metapher",
+          "beispiel": "Gottes Gnade ist ein Ozean – nicht ein Tropfen.",
+          "wirkung": "Bild + Übermaß = eindringliches Bild"
+        },
+        {
+          "kombi": "Hyperbel + Antithese",
+          "beispiel": "Menschen vergessen nach einer Woche. Gott vergisst nie.",
+          "wirkung": "Kontrast schärft das Übermaß"
+        }
+      ],
+      "tags": [
+        "intensivierung",
+        "bild",
+        "trost",
+        "appell",
+        "dringlichkeit"
+      ]
+    },
+    {
+      "figur_name": "Litotes",
+      "alternativnamen": [
+        "Verneinende Abschwächung",
+        "Unterstatement"
+      ],
+      "griechisch": "λιτότης",
+      "lateinisch": "litotes; diminutio",
+      "oberkategorie": "Tropus",
+      "unterkategorie": "Untermaß-Figur",
+      "lausberg_paragraphen": "§§ 586–587",
+      "abgrenzung": "Litotes = Abschwächung durch Verneinung des Gegenteils ('nicht wenig' = sehr viel). Hyperbel = Übertreibung. Beide sind intensive Figuren in entgegengesetzter Richtung.",
+      "erklaerung_einfach": "Eine Aussage wird durch die Verneinung des Gegenteils formuliert, was im Ergebnis stärker klingt. 'Das ist nicht ganz unwichtig' = sehr wichtig. Wirkt understatement-haft und dadurch in ernstem Kontext sehr stark.",
+      "definition_original": "litotes est, cum aliquid per negationem contrarii dicitur, quod auget vel minuit – Litotes liegt vor, wenn etwas durch die Verneinung des Gegenteils gesagt wird und dadurch vergrößert oder gemindert wird.",
+      "examples_modern": [
+        "Das Kreuz ist keine Randnotiz der Geschichte.",
+        "Gott liebt dich nicht ein bisschen.",
+        "Was Christus für dich getan hat, ist nicht gerade wenig.",
+        "Was er auf Golgatha getragen hat, war keine Kleinigkeit."
+      ],
+      "predigtanwendung": [
+        "ruhige, ernste Passagen",
+        "Schlussformulierung",
+        "Trost in Demut"
+      ],
+      "kombinationen": [
+        {
+          "kombi": "Litotes + Antithese",
+          "beispiel": "Das ist nicht nur ein Symbol. Das ist Gottes Selbsteinsatz.",
+          "wirkung": "Abschwächung und Verstärkung im Kontrast"
+        }
+      ],
+      "tags": [
+        "understatement",
+        "intensivierung",
+        "ernst",
+        "trost",
+        "schluss"
+      ]
+    },
+    {
+      "figur_name": "Aetiologia",
+      "alternativnamen": [
+        "Begründung",
+        "Reddita ratio"
+      ],
+      "griechisch": "αἰτιολογία",
+      "lateinisch": "aetiologia; reddita ratio",
+      "oberkategorie": "Gedankenfigur",
+      "unterkategorie": "Begründungsfigur",
+      "lausberg_paragraphen": "§§ 375–378",
+      "erklaerung_einfach": "Eine Aussage wird unmittelbar mit ihrer Begründung verbunden. Signalworte: 'weil', 'denn', 'darum'. Verleiht Aussagen Gewicht und Richtigkeit.",
+      "definition_original": "aetiologia est reddita ratio, qua cur quid factum sit aut dicatur, demonstratur – Aetiologie ist die vorgetragene Begründung, durch die gezeigt wird, warum etwas getan wurde oder gesagt wird.",
+      "wirkung": [
+        "Überzeugungskraft",
+        "Glaubwürdigkeit",
+        "Klarheit"
+      ],
+      "examples_modern": [
+        "Gott sendet seinen Sohn, weil Wort allein nicht reichte – er musste kommen.",
+        "Christus stirbt, weil Schuld nicht einfach verdunstet – sie muss getragen werden.",
+        "Du bist frei, weil Christus den Preis bezahlt hat – nicht weil du klein genug warst.",
+        "Er sucht die Verlorenen, weil er der Vater ist – und ein Vater sucht sein Kind."
+      ],
+      "predigtanwendung": [
+        "Auslegung",
+        "Evangeliumsbegründung",
+        "Ermahnung mit Begründung"
+      ],
+      "kombinationen": [
+        {
+          "kombi": "Aetiologia + Subiectio",
+          "beispiel": "Du fragst: Warum vergib ihm Gott? Weil er sein Kind ist.",
+          "wirkung": "Dialog + Begründung = schlüssige Bewegung"
+        },
+        {
+          "kombi": "Aetiologia + Sentenz",
+          "beispiel": "Gott ruft nicht die Starken – denn er braucht keine Starken, sondern Willing.",
+          "wirkung": "Begründung ergibt Merksatz"
+        }
+      ],
+      "tags": [
+        "begründung",
+        "argumentation",
+        "überzeugung",
+        "auslegung"
+      ]
+    }
+  ],
+  "kombinationsregeln": {
+    "grundprinzip": "Ein Stilmittel ist gut. Zwei Stilmittel = Kraft. Drei Stilmittel = Durchschlag. Aber: Überladung tötet Wirkung.",
+    "warnung": "Kombinationen sind sehr stark, aber nur wenn: die Satzlänge noch hörbar bleibt, die Steigerung klar ist, das Bild nicht kitschig wird, am Ende eine klare Landung kommt.",
+    "kernregel": "Stilmittel ohne Struktur = Dekoration. Stilmittel mit Struktur = Durchschlagskraft.",
+    "klassische_kombinationen": [
+      {
+        "name": "Subiectio + Klimax + Anapher + Metapher",
+        "beschreibung": "Die stärkste Predigtkombination. Dialog + Steigerung + Rhythmus + Bild. Immer mit klarer Schlusslandung.",
+        "beispiel": "Du fragst: Kann Gott mir wirklich vergeben? Mir, der ich gefallen bin? Mir, der ich versagt habe? Mir, der ich mit schmutzigen Händen, mit müdem Herzen, mit zerrissener Seele vor ihm stehe? Ich antworte: Ja, genau dir – denn Christus sucht nicht die Sauberen, sondern wäscht die Schuldigen.",
+        "analyse": {
+          "Subiectio": "nimmt die Hörerfrage direkt auf",
+          "Interrogatio": "erzeugt Unmittelbarkeit",
+          "Klimax": "steigert innere Beteiligung",
+          "Anapher": "verleiht Rhythmus",
+          "Metapher": "macht das Evangelium anschaulich",
+          "Schlusspointe": "gibt Landung und Evangeliumsöffnung"
+        },
+        "stufen": [
+          {
+            "stufe": 1,
+            "figuren": "Subiectio",
+            "text": "Du fragst: Kann Gott mir wirklich vergeben? Ich antworte: Ja, genau dir."
+          },
+          {
+            "stufe": 2,
+            "figuren": "Subiectio + Klimax",
+            "text": "Du fragst: Kann Gott mir wirklich vergeben? Mir, der ich gelogen habe, der ich gefallen bin, der ich wieder und wieder zurück in dieselbe Schuld gegangen bin? Ich antworte: Ja, genau dir."
+          },
+          {
+            "stufe": 3,
+            "figuren": "Subiectio + Klimax + Anapher",
+            "text": "Du fragst: Kann Gott mir wirklich vergeben? Mir, der ich gefallen bin? Mir, der ich versagt habe? Mir, der ich bete und doch wieder zweifle, lese und doch wieder vergesse, verspreche und doch wieder breche? Ich antworte: Ja, genau dir."
+          },
+          {
+            "stufe": 4,
+            "figuren": "Subiectio + Klimax + Anapher + Metapher (Vollkombination)",
+            "text": "Du fragst: Kann Gott mir wirklich vergeben? Mir, der ich gefallen bin? Mir, der ich versagt habe? Mir, der ich mit schmutzigen Händen, mit müdem Herzen, mit zerrissener Seele vor ihm stehe? Ich antworte: Ja, genau dir – denn Christus sucht nicht die Sauberen, sondern wäscht die Schuldigen."
+          }
+        ],
+        "warnung": "Nur einsetzen wenn: Satzlänge hörbar bleibt; Steigerung klar erkennbar ist; das Bild nicht kitschig wird; am Ende eine klare evangelistische Landung kommt."
+      },
+      {
+        "name": "Interrogatio + Epimone",
+        "beschreibung": "Mehrere gleichartige Fragen kreisen beharrend um denselben Vorwurf oder Ruf.",
+        "beispiel": "Wie lange noch? Wie lange noch fern? Wie lange noch stolz? Wie lange noch leer?"
+      },
+      {
+        "name": "Expolitio + Antithese",
+        "beschreibung": "Derselbe Gedanke wird entfaltet, wobei jede Entfaltung durch Kontrast geschärft wird.",
+        "beispiel": "Ich bringe Schuld – Christus bringt Vergebung. Ich bringe Scham – Christus bringt Freispruch. Ich bringe Bruch – Christus bringt Heilung."
+      },
+      {
+        "name": "Metapher + Anapher + Klimax (hoher ornatus)",
+        "beschreibung": "Bild + Rhythmus + Steigerung = starker ornatus ohne Überladung.",
+        "beispiel": "Er nimmt die Last von deinen Schultern. Er nimmt die Scham von deinem Gesicht. Er nimmt die Nacht aus deinem Herzen. Er stellt dich wieder ins Licht."
+      },
+      {
+        "name": "Tractando commutare + Interrogatio + Anapher",
+        "beschreibung": "Affektische Umstellung durch steigende Fragen mit rhythmischer Wiederholung.",
+        "beispiel": "Wie lange noch fern? Wie lange noch stolz? Wie lange noch leer? Ich muss zurück."
+      }
+    ],
+    "stufenmodell_predigtwerkstatt": [
+      {
+        "stufe": 1,
+        "text": "Gott vergibt dir.",
+        "mittel": "schlichte Aussage"
+      },
+      {
+        "stufe": 2,
+        "text": "Du fragst: Vergibt Gott mir?",
+        "mittel": "Subiectio + Interrogatio"
+      },
+      {
+        "stufe": 3,
+        "text": "Du fragst: Vergibt Gott mir? Mir, der ich gefallen bin? Mir, der ich versagt habe?",
+        "mittel": "+ Epimone"
+      },
+      {
+        "stufe": 4,
+        "text": "Mir, der ich gefallen bin, mir, der ich versagt habe, mir, der ich mich versteckt habe?",
+        "mittel": "+ Anapher"
+      },
+      {
+        "stufe": 5,
+        "text": "Mir, der ich gefallen bin, versagt habe, zerstört habe?",
+        "mittel": "+ Klimax"
+      },
+      {
+        "stufe": 6,
+        "text": "Ja, genau dir – denn Christus wäscht nicht die Sauberen, sondern die Schuldigen.",
+        "mittel": "+ Antithese + Metapher"
+      }
+    ]
+  },
+  "social_media_blueprints": [
+    {
+      "name": "Question-Answer Punch",
+      "beschreibung": "Klassisches Format für kurze Predigtvideo-Hooks",
+      "steps": [
+        "Einstieg",
+        "Interrogatio",
+        "Subiectio",
+        "Biblische Klarstellung",
+        "Sentenz"
+      ]
+    },
+    {
+      "name": "Image-Correction Spiral",
+      "beschreibung": "Bildbasiert mit sofortiger Schärfung – stark für visuellen Hook",
+      "steps": [
+        "Einstieg",
+        "Metapher",
+        "Correctio",
+        "Versdeutung",
+        "starkes Ende"
+      ]
+    },
+    {
+      "name": "Anaphora-Klimax Close",
+      "beschreibung": "Rhythmischer Abschluss mit Steigerung – stark für Schlusssequenzen",
+      "steps": [
+        "Einstieg",
+        "Alltagserkenntnis (Narratio)",
+        "Anapher + Klimax",
+        "Evangeliumsöffnung",
+        "Schlusssatz (Sentenz)"
+      ]
+    },
+    {
+      "name": "Paradox-Dialog Drive",
+      "beschreibung": "Erwartungsbruch + Dialog – ideal für Algorithmus-tauglichen Einstieg",
+      "steps": [
+        "Paradoxon als Hook",
+        "Subiectio (Hörerfrage antizipieren)",
+        "Expolitio (Antwort entfalten)",
+        "Metapher",
+        "Sentenz"
+      ]
+    }
+  ],
+  "hooks_library": [
+    "Das Problem ist nicht nur, dass du Angst hast. Das Problem ist, was diese Angst in dir regiert.",
+    "Du kannst christliche Worte kennen und innerlich trotzdem verhungern.",
+    "Viele nennen es Freiheit. Die Bibel nennt es oft Flucht.",
+    "Nicht jeder Friede ist Gottes Friede. Mancher ist nur gut beleuchtete Verdrängung.",
+    "Es gibt eine Art von Stärke, die nur Angst in besserer Kleidung ist.",
+    "Manche verlieren nicht Gott – nur ihr falsches Gottesbild.",
+    "Die gefährlichste Leere sieht oft erfolgreich aus.",
+    "Du bist nicht nur müde – du bist innerlich überzogen.",
+    "Das nennen wir Glauben. Aber manchmal ist es nur bequeme Gewohnheit.",
+    "Nicht alles, was dich beruhigt, heilt dich."
+  ],
+  "closing_lines": [
+    "Gott ruft nicht die makellosen. Er ruft die ehrlichen.",
+    "Vielleicht musst du nicht erst stärker werden. Vielleicht musst du endlich wahr werden.",
+    "Nicht alles, was dich beruhigt, heilt dich.",
+    "Die Gnade Gottes beginnt nicht hinter deiner Fassade, sondern genau dort, wo sie bricht.",
+    "Christus sucht nicht die Sauberen, sondern wäscht die Schuldigen.",
+    "Was du anbetest, formt dich.",
+    "Scham versteckt. Gnade ruft beim Namen.",
+    "Er stellt dich wieder ins Licht."
+  ]
+}

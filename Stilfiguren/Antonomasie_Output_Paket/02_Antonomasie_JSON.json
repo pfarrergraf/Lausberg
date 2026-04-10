@@ -1,0 +1,315 @@
+{
+  "id": "antonomasie",
+  "figure_name_de": "Antonomasie",
+  "figure_name_original": [
+    {
+      "language": "griechisch",
+      "term": "ἀντονομασία"
+    },
+    {
+      "language": "latein",
+      "term": "antonomasia"
+    },
+    {
+      "language": "latein",
+      "term": "pronominatio"
+    }
+  ],
+  "category": "Trope / namensersetzende Synekdoche",
+  "definition_precise": "Antonomasie ist die Ersetzung eines Eigennamens durch ein Appellativ oder eine Periphrase, die den gemeinten Referenten über eine hervorstechende Eigenschaft, Herkunft, Tat, Beziehung oder Charakterisierung identifizierbar macht.",
+  "definition_simple": "Man nennt eine Person oder Sache nicht direkt beim Namen, sondern ersetzt den Namen durch eine kennzeichnende Bezeichnung oder Umschreibung.",
+  "formal_pattern": "Eigenname -> Appellativ oder Periphrase; in der vossianischen Umkehrform: Eigenname -> Appellativ im Sinne eines Typusnamens",
+  "semantic_function": "Charakterisierung, Würdigung, Abwertung, Verdichtung, typologische Aufladung, epideiktische Hervorhebung",
+  "distinguish_from": [
+    "Periphrase: nur dann Antonomasie, wenn die Umschreibung den Eigennamen funktional ersetzt",
+    "Epitheton: nur dann Antonomasie, wenn das Beiwort selbständig namensersetzend gebraucht wird",
+    "Metapher: nicht primär Bildübertragung, sondern identifizierender Namensersatz",
+    "Synekdoche allgemein: Antonomasie ist ein Spezialfall der Synekdoche für Eigennamen"
+  ],
+  "lausberg_reference": "Lausberg, Handbuch der literarischen Rhetorik, §§ 580–581",
+  "classical_examples": [
+    {
+      "original_language": "griechisch",
+      "original_text": "ἀντονομασία ἐστὶ λέξις ἢ φράσις διὰ συνωνύμων ὀνομάτων τὸ κύριον παριστῶσα.",
+      "translation_de": "Antonomasie ist ein Ausdruck oder eine Umschreibung, die mittels synonymischer Benennungen den Eigennamen vergegenwärtigt.",
+      "source": "Tryphon, trop. p. 204,24, zitiert bei Lausberg §580",
+      "notes": "Grunddefinition; der Eigennamenbezug bleibt erhalten, obwohl der Name ersetzt wird."
+    },
+    {
+      "original_language": "griechisch",
+      "original_text": "Φοῖβος",
+      "translation_de": "Phoibos",
+      "source": "Tryphon, bei Lausberg §580",
+      "notes": "Appellativischer Ersatzname für Apollo."
+    },
+    {
+      "original_language": "griechisch",
+      "original_text": "Ἐννοσίγαιος",
+      "translation_de": "der Erderschütterer",
+      "source": "Tryphon, bei Lausberg §580",
+      "notes": "Appellativischer Ersatzname für Poseidon."
+    },
+    {
+      "original_language": "griechisch",
+      "original_text": "γλαυκῶπις",
+      "translation_de": "die helläugige / eulenäugige",
+      "source": "Tryphon, bei Lausberg §580",
+      "notes": "Appellativischer Ersatzname für Athene; Lesung im Scan leicht unsicher, aber sachlich naheliegend."
+    },
+    {
+      "original_language": "griechisch",
+      "original_text": "Λητοῦς καὶ Διὸς υἱός",
+      "translation_de": "Sohn der Leto und des Zeus",
+      "source": "Tryphon, bei Lausberg §580",
+      "notes": "Periphrastischer Ersatzname für Apollo."
+    },
+    {
+      "original_language": "latein",
+      "original_text": "pronominatio est, quae sicuti cognomine quodam extraneo demonstrat id quod suo nomine non potest appellari",
+      "translation_de": "Pronominatio ist eine Figur, die gleichsam durch einen fremden Beinamen das bezeichnet, was mit seinem eigenen Namen nicht so benannt werden kann.",
+      "source": "Rhetorica ad Herennium 4,31,42, zitiert bei Lausberg §580",
+      "notes": "Älterer lateinischer Terminus und Funktionsbestimmung."
+    },
+    {
+      "original_language": "latein",
+      "original_text": "antonomasia, quae aliquid pro nomine ponit",
+      "translation_de": "Antonomasie ist eine Figur, die etwas an die Stelle des Namens setzt.",
+      "source": "Quintilian 8,6,29–30",
+      "notes": "Knappe lateinische Grunddefinition."
+    },
+    {
+      "original_language": "latein",
+      "original_text": "Tydides",
+      "translation_de": "der Sohn des Tydeus",
+      "source": "Quintilian 8,6,29–30",
+      "notes": "Ersatzname für Diomedes."
+    },
+    {
+      "original_language": "latein",
+      "original_text": "Pelides",
+      "translation_de": "der Sohn des Peleus",
+      "source": "Quintilian 8,6,29–30",
+      "notes": "Ersatzname für Achill."
+    },
+    {
+      "original_language": "latein",
+      "original_text": "divum pater atque hominum rex",
+      "translation_de": "Vater der Götter und König der Menschen",
+      "source": "Vergil, Aen. 1,65; bei Lausberg §580",
+      "notes": "Periphrastischer Ersatzname für Jupiter."
+    },
+    {
+      "original_language": "latein",
+      "original_text": "eversorem Carthaginis et Numantiae",
+      "translation_de": "den Zerstörer Karthagos und Numantias",
+      "source": "Quintilian, zitiert bei Lausberg §580",
+      "notes": "Rhetorischer Ersatzname für Scipio."
+    },
+    {
+      "original_language": "latein",
+      "original_text": "Romanae eloquentiae principem",
+      "translation_de": "den Fürsten der römischen Beredsamkeit",
+      "source": "Quintilian, zitiert bei Lausberg §580",
+      "notes": "Rhetorischer Ersatzname für Cicero."
+    },
+    {
+      "original_language": "latein",
+      "original_text": "antonomasia est pro nomine, id est vice nominis posita",
+      "translation_de": "Antonomasie ist ein Ausdruck anstelle des Namens, das heißt an die Stelle des Namens gesetzt.",
+      "source": "Isidor 1,37,11",
+      "notes": "Spätantike Definition."
+    },
+    {
+      "original_language": "latein",
+      "original_text": "Maia genitus",
+      "translation_de": "der von Maia Geborene",
+      "source": "Isidor, bei Lausberg §580",
+      "notes": "Periphrastischer Ersatzname für Merkur."
+    },
+    {
+      "original_language": "latein",
+      "original_text": "Romanus sedendo vincit",
+      "translation_de": "Der Römer siegt durch Sitzen / Zuwarten.",
+      "source": "Varro rust. 1,2,2; bei Lausberg §580",
+      "notes": "Romanus steht antonomastisch für Q. Fabius Maximus."
+    },
+    {
+      "original_language": "latein",
+      "original_text": "Troius heros",
+      "translation_de": "der trojanische Held",
+      "source": "Vergil, Aen. 6,451; bei Lausberg §580",
+      "notes": "Antonomastische Umschreibung."
+    },
+    {
+      "original_language": "latein",
+      "original_text": "qui autem tradidit eum",
+      "translation_de": "der aber ihn verriet",
+      "source": "Mt 26,48; bei Lausberg §580",
+      "notes": "Periphrastischer Ersatzname für Judas."
+    },
+    {
+      "original_language": "latein",
+      "original_text": "discipulum quem diligebat [Iesus]",
+      "translation_de": "den Jünger, den [Jesus] liebte",
+      "source": "Joh 19,26; bei Lausberg §580",
+      "notes": "Periphrastischer Ersatzname für Johannes; Ergänzung [Iesus] im Scan kontextuell erschlossen."
+    },
+    {
+      "original_language": "französisch",
+      "original_text": "Neptune le protège, et ce dieu tutélaire ne sera pas en vain imploré.",
+      "translation_de": "Neptun schützt ihn, und dieser Schutzgott wird nicht vergeblich angerufen werden.",
+      "source": "Phèdre 2,5,621; bei Lausberg §580",
+      "notes": "Charakterisierend-steigernde Periphrase statt bloßer Namenswiederholung."
+    },
+    {
+      "original_language": "französisch",
+      "original_text": "la mer qui vit tomber Icare",
+      "translation_de": "das Meer, das Ikarus stürzen sah",
+      "source": "Du Bellay, Regrets 31; bei Lausberg §580",
+      "notes": "Periphrastische Ortscharakterisierung mit mythologischer Aufladung."
+    },
+    {
+      "original_language": "französisch",
+      "original_text": "cestuy-là qui conquit la toison",
+      "translation_de": "derjenige, der das Vlies gewann",
+      "source": "Du Bellay, Regrets 31; bei Lausberg §580",
+      "notes": "Periphrastischer Ersatzname für Jason."
+    },
+    {
+      "original_language": "englisch",
+      "original_text": "the mother of mankind",
+      "translation_de": "die Mutter des Menschengeschlechts",
+      "source": "Milton, Paradise Lost 1,36; bei Lausberg §580",
+      "notes": "Periphrastischer Ersatzname für Eva."
+    },
+    {
+      "original_language": "englisch",
+      "original_text": "one greater Man",
+      "translation_de": "ein größerer Mensch / der größere Mensch",
+      "source": "Milton, Paradise Lost 1,4; bei Lausberg §580",
+      "notes": "Christologische Antonomasie."
+    },
+    {
+      "original_language": "latein",
+      "original_text": "quae sunt in quoque praecipua, proprii locum accipiunt, ut Fabius ... Cunctator est appellatus",
+      "translation_de": "Was an jemandem jeweils besonders hervortritt, nimmt die Stelle des Eigennamens ein; so wurde Fabius „der Zögerer“ genannt.",
+      "source": "Quintilian 8,2,11; bei Lausberg §580",
+      "notes": "Grenzfall zur normalen Bezeichnung; Beiname übernimmt Namensfunktion."
+    },
+    {
+      "original_language": "griechisch",
+      "original_text": "πολλὴν Ἀφροδίτην τῷ λόγῳ περιτιθέναι",
+      "translation_de": "der Rede viel Aphrodite / viel Anmut beilegen",
+      "source": "Dion. Hal. de comp. 3; bei Lausberg §581",
+      "notes": "Beispiel der vossianischen Antonomasie: Eigenname als Typuswort für eine Eigenschaft."
+    }
+  ],
+  "modern_examples": [
+    {
+      "text": "Die Eiserne Lady prägte ein ganzes Jahrzehnt.",
+      "domain": "Politik / Medien",
+      "notes": "Beiname ersetzt den Eigennamen wertend und identifizierend."
+    },
+    {
+      "text": "Der Diktator unterschrieb den Befehl.",
+      "domain": "Geschichte / Kommentar",
+      "notes": "Nur dann saubere Antonomasie, wenn der Referent im Kontext eindeutig ist."
+    },
+    {
+      "text": "Der Menschenfänger des Internets wusste genau, wie er Aufmerksamkeit bindet.",
+      "domain": "digitale Kultur",
+      "notes": "Moderne, wertende Namensersatzbildung."
+    }
+  ],
+  "sermon_examples": [
+    {
+      "text": "Der Friedefürst betritt nicht den Palast, sondern unsere zerrissenen Häuser.",
+      "purpose": "christologische Verdichtung",
+      "audience": "Advent / Weihnachten / Gemeinde",
+      "notes": "Titel ersetzt den Namen Jesu und trägt zugleich die Auslegung."
+    },
+    {
+      "text": "Der gute Hirte sucht nicht starke Tiere, sondern verlorene Schafe.",
+      "purpose": "evangelistische Zuspitzung",
+      "audience": "gemischte Gemeinde",
+      "notes": "Bekannte biblische Antonomasie mit starker Wiedererkennbarkeit."
+    },
+    {
+      "text": "Der Menschenfischer zerbricht am Feuer und wird am Ufer neu gerufen.",
+      "purpose": "Petrus typologisch charakterisieren",
+      "audience": "bibelfeste Hörer",
+      "notes": "Ersetzt Petrus nicht neutral, sondern deutend."
+    }
+  ],
+  "effects": [
+    "charakterisiert im Moment der Benennung",
+    "verdichtet Tat, Würde, Herkunft oder Funktion",
+    "erspart nüchterne Namenswiederholung",
+    "steigert epideiktische Farbigkeit",
+    "kann ehrend oder abwertend wirken",
+    "öffnet typologische und homiletische Anschlüsse"
+  ],
+  "best_use_cases": [
+    "feierliche Personenbenennung",
+    "christologische Titelrede",
+    "charakterisierende Würdigung oder Kritik",
+    "Ersetzung klobiger Namenswiederholung",
+    "typologische Verdichtung in Predigt und Rede"
+  ],
+  "avoid_when": [
+    "der Referent aus dem Kontext nicht eindeutig identifizierbar ist",
+    "nur dekorative Umschreibung ohne echten Namensersatz vorliegt",
+    "der Text maximale Sachnüchternheit verlangt",
+    "Metapher und Antonomasie vermischt würden, ohne dass Individualisierung gegeben ist"
+  ],
+  "common_confusions": [
+    "bloße Periphrase",
+    "bloßes Epitheton",
+    "Metapher ohne eindeutigen Individualbezug",
+    "allgemeiner Ehrentitel ohne Namensfunktion",
+    "vossianische Antonomasie als eigene Hauptfigur statt als spätere Umkehrform"
+  ],
+  "negative_examples": [
+    "Jesus, der Friedefürst, spricht ...",
+    "der tapfere Achill",
+    "ein Löwe von Mann"
+  ],
+  "generation_rules": [
+    "Wähle eine Eigenschaft, Herkunft, Tat oder Beziehung, die den Referenten eindeutig markiert.",
+    "Prüfe, ob der Eigenname wirklich ersetzt wird und nicht bloß zusätzlich genannt bleibt.",
+    "Nutze möglichst kulturell oder biblisch anschlussfähige Kennzeichen.",
+    "Setze die Figur dort ein, wo Benennung und Deutung zusammenfallen sollen.",
+    "Behandle die vossianische Umkehrform ausdrücklich als Untervariante."
+  ],
+  "recognition_rules": [
+    "Frage: Könnte hier ein Eigenname stehen?",
+    "Frage: Wird stattdessen ein Titel, Beiname oder eine Umschreibung gesetzt?",
+    "Frage: Individualisiert der Ausdruck den Referenten eindeutig genug?",
+    "Wenn ja, liegt wahrscheinlich Antonomasie vor."
+  ],
+  "evaluation_criteria": [
+    "Eindeutigkeit des Referenten",
+    "funktionaler Namensersatz",
+    "charakterisierende Prägnanz",
+    "kontextuelle Anschlussfähigkeit",
+    "saubere Abgrenzung zur Periphrase und Metapher"
+  ],
+  "tone_fit": [
+    "epideiktisch",
+    "feierlich",
+    "homiletisch verdichtend",
+    "prophetisch",
+    "charakterisierend"
+  ],
+  "difficulty_level": "mittel",
+  "tags": [
+    "Trope",
+    "Synekdoche",
+    "Eigennamenersatz",
+    "Periphrase",
+    "Appellativ",
+    "Typusname",
+    "Vossianische Antonomasie"
+  ],
+  "editorial_notes": "Die Hauptfigur ist die antike Antonomasie in Lausberg §§ 580–581. Die vossianische Antonomasie wird als spätere Umkehrform integriert, aber nicht als eigene Hauptfigur geführt. Einzelne griechische Tokens im Scan sind punktuell leicht unscharf; solche Stellen sind im Material markiert."
+}

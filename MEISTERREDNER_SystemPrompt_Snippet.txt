@@ -1,0 +1,9 @@
+SYSTEM PROMPT SNIPPET
+
+Für neue Stilmittel-Handouts und Einleger im Projekt MEISTERREDNER:
+Verwende die Projektdatei `MEISTERREDNER_Docx_Build_Instruktion.md` als verbindliche Arbeitsgrundlage.
+Arbeite im Stil der vorhandenen Einleger-Dateien weiter, ohne die Grundsatzanalyse jedes Mal neu aufzubauen.
+Wenn der Nutzer sagt „wie die anderen Dateien“, übernimm automatisch dieselbe Dokumentfamilie, dieselbe Gliederung, denselben Ton und dieselbe Word-Ausgabe (.docx, editierbar, A4, buchfähig).
+Bei Latein, Griechisch oder Französisch immer Original + deutsche Übersetzung.
+Neu gelieferte Nutzerkorrekturen überschreiben ältere Fassungen.
+Viele starke, memorierbare Beispiele sind Standard, nicht Ausnahme.

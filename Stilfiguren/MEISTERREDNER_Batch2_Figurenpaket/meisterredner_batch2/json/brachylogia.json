@@ -1,0 +1,112 @@
+{
+  "id": "brachylogia",
+  "figure_name_de": "Brachylogia",
+  "figure_name_original": [
+    {
+      "language": "Griechisch",
+      "term": "βραχυλογία"
+    },
+    {
+      "language": "Latein",
+      "term": "brachylogia"
+    }
+  ],
+  "category": "Detraktionsfigur / Kürzefigur",
+  "definition_precise": "Die Brachylogia ist die knappe, semantisch verdichtete Ausdrucksweise, in der mit auffällig wenigen Wörtern mehr gemeint ist, als ausdrücklich gesagt wird. Bei Lausberg gehört sie in den Bereich der brevitas und der detractio: Auslassung und semantische Ergänzung erzeugen Prägnanz.",
+  "definition_simple": "Wenig Worte, viel Gehalt.",
+  "formal_pattern": "verkürzter Ausdruck -> semantische Ergänzung im Hörer",
+  "semantic_function": "Die Figur komprimiert Gedankengang und Ausdruck, erhöht das Tempo der argumentatio und erzeugt intellektuelle Spannung, weil der Hörer fehlende Bestandteile mitdenken muss.",
+  "distinguish_from": [
+    "Praeteritio: behauptete Auslassung eines Themas, nicht nur sprachliche Kürzung.",
+    "Ellipsis: enger Sonderfall der Auslassung im Satzbau.",
+    "Percursio: geraffte Aufzählung eines Ablaufs, nicht notwendig sprachliche Verdichtung eines Einzelausdrucks."
+  ],
+  "lausberg_reference": "Lausberg § 881; Verweise auf §§ 299, 348, 905.",
+  "classical_examples": [
+    {
+      "original_language": "Latein",
+      "original_text": "Mithridates corpore ingenti, perinde armatus.",
+      "translation_de": "Mithridates, von gewaltigem Körperbau, entsprechend gerüstet.",
+      "source": "Quintilian 8,3,82",
+      "notes": "Knappheit mit stark verdichteter Charakterisierung."
+    },
+    {
+      "original_language": "Griechisch",
+      "original_text": "βραχύτης ἐστὶ φράσις πλέον τι τοῦ ἀκουομένου νοούμενον ἔχουσα.",
+      "translation_de": "Brevitas ist eine Ausdrucksweise, die mehr im Gemeinten enthält, als tatsächlich gehört wird.",
+      "source": "Tryphon, bei Lausberg § 881",
+      "notes": "Definition der gedanklichen Überfülle bei sprachlicher Kürze."
+    }
+  ],
+  "modern_examples": [
+    {
+      "text": "Nicht alles aussprechen. Nur so viel, dass der Satz brennt.",
+      "domain": "Rede / Stilübung",
+      "notes": "Metasprachliche Kurzform."
+    },
+    {
+      "text": "Müde. Leer. Doch im Gottesdienst angekommen.",
+      "domain": "Predigt / Seelsorge",
+      "notes": "Reduktiver, suggestiver Kurzstil."
+    }
+  ],
+  "sermon_examples": [
+    {
+      "text": "Kein langer Trost. Ein Wort: Christus.",
+      "purpose": "Seelsorgliche Verdichtung",
+      "audience": "erschöpfte Gemeinde",
+      "notes": "Die Kürze trägt den Nachdruck."
+    },
+    {
+      "text": "Schuld benannt. Kreuz gesehen. Gnade offen.",
+      "purpose": "Karfreitagslinie",
+      "audience": "Gottesdienst",
+      "notes": "Brachylogische Abfolge mit starker Verdichtung."
+    }
+  ],
+  "effects": [
+    "Kürze",
+    "Prägnanz",
+    "Gedankendruck",
+    "semantische Verdichtung"
+  ],
+  "best_use_cases": [
+    "Merksätze",
+    "Schlusssätze",
+    "diagnostische Passagen",
+    "druckvolle Übergänge"
+  ],
+  "avoid_when": [
+    "Wenn der Sinn nur noch dunkel wird.",
+    "Wenn die Gemeinde die Ergänzung nicht mehr leisten kann."
+  ],
+  "common_confusions": [
+    "Praeteritio",
+    "bloß telegrammartiger Stil ohne innere Verdichtung"
+  ],
+  "negative_examples": [],
+  "generation_rules": [
+    "Einen klaren Gedanken nehmen und radikal kürzen.",
+    "Nur so viel streichen, dass der Sinn noch erschließbar bleibt.",
+    "Die implizite Ergänzung im Hörer mitdenken.",
+    "Am stärksten in kurzen Reihen oder Einzelsätzen."
+  ],
+  "recognition_rules": [],
+  "evaluation_criteria": [],
+  "tone_fit": [
+    "knapp",
+    "schneidend",
+    "nüchtern",
+    "prophetisch"
+  ],
+  "difficulty_level": "mittel",
+  "tags": [
+    "brevitas",
+    "detractio"
+  ],
+  "editorial_notes": "Best-effort-Fassung auf Basis scanbasierter OCR; Beispiele und Definition vorsichtig normalisiert.",
+  "memory_lines": [
+    "Brachylogia spart Wörter, nicht Wirkung.",
+    "Je kürzer der Satz, desto höher die Last jedes Wortes."
+  ]
+}

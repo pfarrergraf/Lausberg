@@ -1,0 +1,239 @@
+{
+  "id": "lausberg-ironia",
+  "figure_name_de": "Ironie",
+  "figure_name_original": [
+    {
+      "language": "de",
+      "term": "Ironie"
+    },
+    {
+      "language": "grc",
+      "term": "εἰρωνεία"
+    },
+    {
+      "language": "la",
+      "term": "ironia"
+    }
+  ],
+  "category": "Tropus; contrarium-Grad der Metapher; überwiegend Gedankenfigur mit Nähe zur Wortfigur",
+  "definition_precise": "Ironie ist der Ausdruck einer Sache durch ein deren Gegenteil bezeichnendes Wort oder eine gegensinnige Formulierung, deren eigentlicher Sinn erst durch Kontext, Tonfall, Person oder Sachlage erkennbar wird.",
+  "definition_simple": "Man sagt das Gegenteil von dem, was man eigentlich meint, und der Zusammenhang zeigt den wahren Sinn.",
+  "formal_pattern": "gegenteilige Benennung -> kontextuelle Korrektur -> gegenteiliger Gemeintsinn",
+  "semantic_function": "indirekter Tadel, indirektes Lob, polemische Entlarvung, distanzierende Spiegelung, Selbstbrechung",
+  "distinguish_from": [
+    "Antiphrase: lokale Wortfigur; Gegensinn wird stärker durch unmittelbar benachbarte Wörter getragen",
+    "bloßer Gegensatz: noch keine Ironie ohne erkennbare Sprecherintention",
+    "bloße Negation: keine gespielte Gegensinnigkeit",
+    "Sarkasmus: schärfere Energieform, aber nicht deckungsgleich mit Ironie",
+    "Antonomasie: kann mit Ironie kombiniert sein, ist aber nicht identisch mit ihr"
+  ],
+  "lausberg_reference": "Ironie.pdf, Seiten 302-303, Lausberg §§ 582-585",
+  "classical_examples": [
+    {
+      "original_language": "de",
+      "original_text": "Die Ironie ist der Ausdruck einer Sache durch ein deren Gegenteil bezeichnendes Wort.",
+      "translation_de": "Original deutsch.",
+      "source": "Lausberg § 582",
+      "notes": "Grunddefinition."
+    },
+    {
+      "original_language": "grc",
+      "original_text": "εἰρωνεία ἐστὶ λόγος διὰ τοῦ ἐναντίου [τὸ ἐναντίον] μετὰ τινος ἠθικῆς ὑποκρίσεως δηλῶν",
+      "translation_de": "Ironie ist eine Redeweise, die durch das Entgegengesetzte [das Gegenteilige] unter einer gewissen charakterlichen Verstellung anzeigt.",
+      "source": "Tryph. trop. p. 205,2 bei Lausberg § 582",
+      "notes": "Der Kernsatz ist sicher; [τὸ ἐναντίον] im Scan randnah und daher als unsicher markiert."
+    },
+    {
+      "original_language": "grc",
+      "original_text": "ὡς παρ' Εὐριπίδῃ ἡ Μήδεια [τὸν πολλὰ] ἠδικηκότα Ἰάσονα »μακαρίαν« αὐτὴν φησι πεποιηκέναι",
+      "translation_de": "Wie bei Euripides Medea sagt, Jason, der ihr viel Unrecht getan hat, habe sie „glücklich“ gemacht.",
+      "source": "Tryph. trop. p. 205,2 bei Lausberg § 582",
+      "notes": "Ironisches Lobwort; Mittelteil teilweise unsicher."
+    },
+    {
+      "original_language": "grc",
+      "original_text": "ὁμοίως δὲ καὶ Τηλέμαχος πρὸς ἕνα τῶν μνηστήρων φησίν »Ἀντίνο', καλὰ πατὴρ ὣς κήδεαι υἱός«",
+      "translation_de": "Ebenso sagt Telemachos zu einem der Freier: „Antinoos, trefflich, wie ein Vater sich um seinen Sohn kümmert.“",
+      "source": "Tryph. trop. p. 205,2; Od. 17,397 bei Lausberg § 582",
+      "notes": "Lob als Tadel; Anredeform am Rand leicht beschnitten."
+    },
+    {
+      "original_language": "la",
+      "original_text": "in eo vero genere (scil. allegoriae), quo contraria ostenduntur, ironia est: illusionem vocant; quae aut pronuntiatione intellegitur aut persona aut rei natura; nam si qua earum verbis dissentit, apparet diversam esse orationi voluntatem",
+      "translation_de": "In jener Art, in der Gegensätzliches gezeigt wird, liegt Ironie vor; sie wird aus Tonfall, Person oder Natur der Sache verstanden; wenn eines davon den Wörtern widerspricht, ist klar, dass die Redeabsicht anders ist.",
+      "source": "Quint. 8,6,54 bei Lausberg § 582",
+      "notes": "Schlüsselstelle zur Erkennung."
+    },
+    {
+      "original_language": "la",
+      "original_text": "et laudis assimilatione detrahere et vituperationis laudare concessum est",
+      "translation_de": "Es ist erlaubt, unter dem Anschein des Lobes zu tadeln und unter dem Anschein des Tadels zu loben.",
+      "source": "Quint. 8,6,55 bei Lausberg § 583",
+      "notes": "Lob-Tadel-Formel."
+    },
+    {
+      "original_language": "la",
+      "original_text": "ironia ... fit ... aut cum laudamus eum quem vituperare volumus, aut vituperamus quem laudare volumus",
+      "translation_de": "Ironie geschieht entweder dann, wenn wir den loben, den wir tadeln wollen, oder den tadeln, den wir loben wollen.",
+      "source": "Isid. 2,21,41 bei Lausberg § 583",
+      "notes": "Operative Definition."
+    },
+    {
+      "original_language": "la",
+      "original_text": "si dicas »amatorem reipublicae« Catilinam, »hostem reipublicae« Scipionem",
+      "translation_de": "Wenn du Catilina „Freund des Staates“ und Scipio „Feind des Staates“ nennst.",
+      "source": "Isid. 2,21,41 bei Lausberg §§ 582-583",
+      "notes": "Politisches Wertungsbeispiel."
+    },
+    {
+      "original_language": "grc",
+      "original_text": "περὶ δὲ εἰρωνείας τὸ μὲν ἐπὶ τῶν πέλας λέγεται, τὸ δὲ ἐφ' ἡμῶν [αὐτῶν]· [τὸ] οὖν ἐπὶ τῶν πέλας καλεῖται μυκτηρισμός, τὸ δὲ ἐφ' ἡμῶν ἀστεϊσμός",
+      "translation_de": "Was aber die Ironie betrifft: das eine wird in Bezug auf andere gesagt, das andere in Bezug auf uns selbst; das auf andere Bezogene heißt mukterismos, das auf uns selbst Bezogene asteismos.",
+      "source": "Tryph. trop. p. 205-206 bei Lausberg § 583",
+      "notes": "Unterteilung nach betroffener Person; Randstellen teilweise unsicher."
+    },
+    {
+      "original_language": "grc",
+      "original_text": "ἀστεϊσμός ἐστι λόγος ἀφ' ἑαυτοῦ διασυρτικὸς γενόμενος",
+      "translation_de": "Asteismos ist eine Rede, die vom eigenen Selbst her verspottend geworden ist.",
+      "source": "ibid. p. 206,12 bei Lausberg § 583",
+      "notes": "Definition der Selbstironie."
+    },
+    {
+      "original_language": "grc",
+      "original_text": "ὡς εἴ τις πλουτῶν λέγει »ἐγὼ δέ εἰμι πάντων πενέστατος«",
+      "translation_de": "Wie wenn jemand, obwohl er reich ist, sagt: „Ich bin der Ärmste von allen.“",
+      "source": "ibid. p. 206,12 bei Lausberg § 583",
+      "notes": "Beispiel der Selbstironie."
+    },
+    {
+      "original_language": "grc",
+      "original_text": "[παρὰ δὲ Καλλιμάχῳ] ἀστεϊζομένη ἡ ἐλαία φησίν »ἐγὼ φαύλη πάντων τῶν δένδρων εἰμί«",
+      "translation_de": "[Bei Kallimachos] sagt die im Modus des asteismos sprechende Olive: „Ich bin der schlechteste von allen Bäumen.“",
+      "source": "Cal. fr. 194,15 bei Lausberg § 583",
+      "notes": "Kontext vor dem Satz randnah; Kernsatz sicher."
+    },
+    {
+      "original_language": "la",
+      "original_text": "antifrasis est unius verbi ironia",
+      "translation_de": "Antiphrase ist die Ironie eines einzigen Wortes.",
+      "source": "Beda p. 615,49 bei Lausberg § 585",
+      "notes": "Grenzdefinition."
+    },
+    {
+      "original_language": "la",
+      "original_text": "inter ironiam autem et antifrasin hoc distat, quod ironia pronuntiatione sola indicat quod intellegi vult, antifrasis vero non voce pronuntiantis significat contrarium, sed suis tantum verbis quorum est origo contraria",
+      "translation_de": "Zwischen Ironie und Antiphrase besteht der Unterschied, dass Ironie durch den bloßen Vortrag anzeigt, was sie verstanden wissen will, während Antiphrase das Gegenteil nicht durch die Stimme, sondern allein durch ihre eigenen Wörter bezeichnet.",
+      "source": "Beda p. 615,49ff. bei Lausberg § 585",
+      "notes": "Grundstelle zur Abgrenzung."
+    }
+  ],
+  "modern_examples": [
+    {
+      "text": "Das war ja eine mustergültige Sitzung - nach einer Stunde ist gar nichts klarer.",
+      "domain": "Arbeitswelt",
+      "notes": "Moderne Ergänzung; Scheinlob als Tadel."
+    },
+    {
+      "text": "Großartig, genau das brauchte der Server: noch ein Update am Freitagabend.",
+      "domain": "IT",
+      "notes": "Moderne Ergänzung; positiver Wortlaut, negativer Gemeintsinn."
+    },
+    {
+      "text": "Ein vorbildlicher Umgang mit Zeit - wir beten um Erweckung, aber bitte erst nach den Ferien.",
+      "domain": "Alltag/Gemeinde",
+      "notes": "Moderne Ergänzung; ironische Entlarvung von Aufschub."
+    }
+  ],
+  "sermon_examples": [
+    {
+      "text": "Was für eine beeindruckende Nächstenliebe: Wir sehen den Bedürftigen und verwalten erst einmal unsere Ausreden.",
+      "purpose": "indirekter Tadel geistlicher Selbsttäuschung",
+      "audience": "Gemeinde",
+      "notes": "Moderne Predigtanwendung."
+    },
+    {
+      "text": "Wir sind natürlich völlig offen für Gottes Führung - solange sie exakt unserem Ablaufplan folgt.",
+      "purpose": "Gemeindespiegelung mit Selbstbrechung",
+      "audience": "Gottesdienst",
+      "notes": "Moderne Predigtanwendung."
+    },
+    {
+      "text": "Geradezu apostolischer Eifer: Wir reden stundenlang über Mission und sprechen mit niemandem.",
+      "purpose": "entlarvende Selbstkritik",
+      "audience": "Leitungskreis / Predigt",
+      "notes": "Moderne Predigtanwendung."
+    }
+  ],
+  "effects": [
+    "entlarvt Widerspruch zwischen Anspruch und Wirklichkeit",
+    "schärft Tadel indirekt",
+    "ermöglicht Lob-Tadel-Umkehr",
+    "bindet Kontext, Tonfall und Hörerurteil aktiv ein",
+    "erlaubt Selbstbrechung in Form der Selbstironie"
+  ],
+  "best_use_cases": [
+    "indirekter Tadel",
+    "polemische Widerlegung",
+    "epideiktische Lob-Tadel-Umkehr",
+    "Selbstironie zur Entschärfung",
+    "predigtliche Spiegelung frommer Fassaden"
+  ],
+  "avoid_when": [
+    "der Gegensinn ohne Kontextsignal missverständlich bleibt",
+    "das Publikum Tonfall oder Sachlage nicht sicher mitliest",
+    "Trauer- oder Krisensituationen direkte Klarheit verlangen",
+    "aus Ironie bloße Herabsetzung oder Sarkasmus werden würde"
+  ],
+  "common_confusions": [
+    "Antiphrase und Ironie werden unscharf vermischt",
+    "jedes antonyme Wortpaar wird vorschnell als Ironie gelesen",
+    "Sarkasmus wird mit Ironie gleichgesetzt",
+    "Antonomasie wird nicht als kombinierbare, aber eigenständige Figur erkannt"
+  ],
+  "negative_examples": [
+    "Das war schlecht. - direkter Tadel, keine Ironie.",
+    "Er ist kein Heiliger. - Negation allein ist noch keine Ironie.",
+    "Bittersüßer Sieg. - eher Spannungsbegriff / Oxymoron, keine Ironie."
+  ],
+  "generation_rules": [
+    "Gegensinnigen Wortlaut bewusst wählen",
+    "Kontextsignal durch Sachlage, Tonfall oder Sprecherrolle absichern",
+    "Gemeintsinn für den Hörer rekonstruierbar machen",
+    "bei lokaler Einzelwort-Lösung Antiphrase mitprüfen",
+    "Ironie punktuell statt flächig einsetzen"
+  ],
+  "recognition_rules": [
+    "prüfen, ob Wortlaut und Sachlage kollidieren",
+    "prüfen, ob Lob als Tadel oder Tadel als Lob funktioniert",
+    "auf Tonfall, Person und außersprachlichen Kontext achten",
+    "wenn nur ein Einzelwort kippt, eher Antiphrase prüfen"
+  ],
+  "evaluation_criteria": [
+    "Gegensinn klar erkennbar",
+    "Sprecherintention rekonstruierbar",
+    "Kontextsignal ausreichend stark",
+    "nicht mit bloßer Aggression verwechselt",
+    "formal eher Ironie als Antiphrase"
+  ],
+  "tone_fit": [
+    "polemisch",
+    "entlarvend",
+    "selbstironisch",
+    "pointiert",
+    "humorvoll"
+  ],
+  "difficulty_level": "mittel bis hoch",
+  "tags": [
+    "Ironie",
+    "εἰρωνεία",
+    "ironia",
+    "Tropus",
+    "Gedankenfigur",
+    "Antiphrase",
+    "Selbstironie",
+    "Fremdpersonenironie",
+    "Lob-Tadel-Umkehr"
+  ],
+  "editorial_notes": "Auf den vorliegenden Seiten sind Deutsch, Latein und Griechisch sicher belegt. Eine französische Originalstelle ist auf diesen Seiten nicht vorhanden. Mehrere griechische Randstellen sind wegen Beschnitts nur teilweise sicher und deshalb mit eckigen Klammern bzw. Unsicherheitsnotiz markiert."
+}

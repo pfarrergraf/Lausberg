@@ -1,0 +1,208 @@
+
+===== PAGE 1 L =====
+368 $7
+
+3) Objekt-Subjekt-Bezug: Cic. rep. 6,24, 26 fragile corpus animus sempiter,
+movet (v. § 723).
+
+1”) distunctio (§§ 739-742)
+
+739. Die disiunctio besteht in der Zusammensetzung der Kola aus
+weils synonymen Pradikaten und jeweils semantisch verschieden,
+einander syntaktisch entsprechenden sonstigen Satzteilen (Subjekt;
+Objekten, adverbialen Bestimmungen). Jeweils fiir sich genommen, stel]
+die Pridikate also eine Synonymie (s. § 650), die semantisch verschieden
+Satzteile cine Haufung (s. § 666) dar. Die Kola kénnen hierbei entwe
+vollig selbstandige Satze bilden oder durch einen dritten Satzteil klamm
+artig (s. § 692) integriert werden. Bezeichnet man die synonymen Pri
+kate mit s', s* usw., die semantisch verschiedenen Satzteile mit x", «2 us
+den klammerartigen dritten Satzteil mit g, so kann also die disiunctio «
+Form
+
+a! gt
+ae 5%
+oder die Form
+x st
+q { sf 2
+annehmen. Auch anaphorische Wiederholung (s. § 629) des dritten Sa
+teils g kommt vor, so daB die Form
+g xt si
+gat st
+entsteht.
+
+Eine reduzierte Form der disiunctio ist die Auslassung der semantis
+verschiedenen Satzteile bei anaphorischer Wiederholung (s. § 629) eit
+Klammergliedes, so daB die Form
+
+qs
+qs
+entsteht.
+
+Haufig werden drei Kola (s. § 733) nebeneinandergestellt. Zur Gliederzahl
+aligemeinen s. § 443. — Die SchluBstellung der synonymen Pridikate ist in al
+Formen beliebt (s. § 740).
+
+Beispiele: Quint.9,3,45 aliquando ... initia quoque et clausulae sententiar
+aliis, sed non alio tendentibus verbis inter se consonant; initia hoc modo: >dedide:
+
+= 8!) periculis omnibus (= x), obtulerim (== s*) insidiis (= x?), obtecerim (=
+invidiae (== x°)<; rursus clausulae ibidem statim: vos (= q) enim statuistis (=
+
+
+
+===== PAGE 1 R =====
+§ 739 369
+
+vos (== q) sententiam dixistis (= s*), vos (= q) iudicavistis (= 8); hoe alit
+SVVAVOELLAY, alit disiunctionem vocant : utrumque, etiamsi est diversum, recte;
+namest nominum idem significantium separatio; —Her.4,27,37 disiunc-
+tum est, cum eorum, de quibus dicimus, aut utrumque aut unum quodque' certo
+concluditur (v. § 740) verbo, sic: »populus Romanus (= q) Numantiam (= x!)
+delevit (= s'), Kartaginem (= x°) sustulit (= s*), Corinthum (= x*) disiecit (= s°),
+Fregellas (= x4) evertit (= s*); nihil (= q) Numantinis vires corporis (= x?)
+auxiliatae sunt (= s'), nthil (= q) Kartaginiensibus scientia ret militaris (= x°)
+adiumento fuit (= s*), nihil (= q) Corinthis erudita calliditas (= x*) praesidt tulit
+(= 8°), nihil (= q) Fregellanis morum et sermonis societas (= x*) optiulata est
+=: 8)<; item: »formae dignitas (= q) aut morbo (= x") deflorescit (= s*) aut vetu-
+state (== x*) exstinguitur (= s*)<; hic utrumque, in superiore exemplo unamquamque
+rem, certo verbo conclud: videmus; - Aquila 43 SveCevyuévoy, distunctum:
+haec figura ita ornat et amplificat orationem, ut diversis redditionibus verborum
+membra, quae vocamus «ha, disiungat ac separet, sive duo sive plura, hoc modo:
+sCapuam (= x') colonis deductis occupabunt (= s'), Atellam (= x°) praesidio
+communient (= s*), Nucertam, Cumas (= x*) multitudine suorum obtinebunt (= s*),
+cetera oppida (= x*) praesidits devincient (= s*)<; tale est illud: venibit igitur sub
+praecone (= s') tota Propontis atque Hellespontus (= x’), addicetur (= s*) omnis
+ora Lyciorum atque Cilicum (= x*), Mysia et Phrygia (== x*) eidem condiciont
+legique parebunt (= 8°); animadvertere autem potes nihil interesse, utrum in
+postremis partibus membra disiungantur vicissitate verborum, an in primis, an hoc
+vicissim fiat (v. § 740); - 47 diezeugmenon, ~ Cic. Arch. 6, 12 ut ab nullius unquam
+me tempore aut commodo aut otium meum abstraxerit, aut voluptas avocarit, aut
+denique somnus retardarit ; Cic. Phil. 4, 5,13 Ifaliam devicerunt, deinde Kartaginem
+exeiderunt, Numantiam everterunt, ... reges... in dicionem... redegerunt; Beda
+p.608,21 hypozeuxis est figura superiori (scil. zeugmatt) contraria, ubi singula
+verba vel sententiae singulis quibusque clausulis subiunguntur ; verba, ut in psalmo:
+voirtutem terribilium tuorum dicent, et magnitudinem tuam narrabunt; memoriam
+abundantiae suavitatis tuae eructabunt et iustitia tua exultabunt« (Ps. 144 [145], 6);
+et Apostolus: »stve prophetiae inquit »evacuabuntur, sive linguae: cessabunt, sive
+scientia: destruetur<, sententiae (v. § 872), ut »st consistant adversum me castra, non
+timebit cor meum ; st exurgat adversum me proelium, in hoc ego sperabo< (Ps. 26 [27],
+3); Ioh. Damasc. (Brev. Rom. die 15 Aug., lect.4; PG 96,724) et David exultat
+etus parens, et cum eo choros ducunt Angeli, celebrant Archangeli, Virtutes glori-
+ficant, Principatus exultant, Potestates collaetantur, gaudent Dominationes, Throni
+" festum diem agunt, laudant Cherubim, gloriam eius praedicant Seraphim; Brev.
+Rom. Commune un. Mart. Oratio 4 et a cunctis adversitatibus liberemur in corpore
+et a pravis cogitationibus mundemur in mente; Androm.2, 4,608 F’en ai senti la
+force et connu P équité.
+
+‘ Also: je nachdem es sich um zwei oder mehr Kola handelt.
+
+
+
+
+===== PAGE 2 L =====
+370 § 74
+
+Die disiunctio ist in den Synonymen eine Schaustellung der copia verbor,
+{Aquila 44): sie stellt eine Breiten-Amplifikation (s. § 259) dar (Aquila 43 ha
+figura... ornat et amplificat orationem): Her.4,27,38 ad festivitatem disiune
+est apposita: quare rarius utemur, ne satietatem pariat. — Im Gegensatz zur d
+iunctio steht die adiunctio im Dienste der brevitas (s. § 745).
+
+740. Die Synonyme weisen gewisse Bedeutungsunterschiede (s, § 651) wi
+Die distunctio ist so eine Gelegenheit, die feinen Bedeutungsunterschiede d
+synonymen Pradikate durch Zuordnung zu den entsprechenden Substantiy,
+zur Geltung zu bringen: Quint.2,2,3 adhibenda... cura est, ut et tenerio;
+annos ab imuria sanctitas docentis custodiat et ferociores a licentia gravitas deterre,
+Cic. Manil. 16, 48 ut eius semper voluntatibus non modo cives assenserint, socii g
+temperarint, hostes oboedierint, sed etiam venti... obsecundarint; Polyeucte 5,5, 19
+Redoute Vempereur, appréhende Sévere; Cid 3,5, 1023 Mes vaeux sont exaucés, /h
+crainte est dissipée, et mes ennuis cessés; 2,7,646 Sa perte m’ affaiblit, et son trép
+m'afflige; Britann. 1, 4,349 Examine leurs yeux, observe leurs discours; Polyeuc
+1,3,132 De Pamour qu'on nous offre, et des veux gu’on nous fait.
+
+Beliebt ist die Endstellung der in ihrer Bedeutung leicht variierenden syn
+nymen Pridikate; man erwartet sozusagen, welche neue, treffende Nuance d
+Redner fiir den jeweils unterschiedlichen Satzteil findet. Ein Teil der Theor
+tiker (Her. 4,27, 37; Rutil.2,20; s. §§ 737, 739) verlangt die Endstellung, Ande
+Theoretiker (Quint.9,3,45; Aquila 43; s. § 739) lassen hinsichtlich der Stell
+des synonymen Pradikats mehrere oder alle Méglichkeiten offen.
+
+741. Der Bedeutungsunterschied der synonymen Pradikate kann z
+Lockerung der Synonymitat iiberhaupt gesteigert werden, wodurch a
+der Synonymie (s. § 650) eine Haufung (s. § 675) wird und die disiune
+somit in die bloBe syntaktische Koordinierung der (semantisch als Ha
+fung auftretenden) Kola im Isocolon (s. § 719) tibergeht:
+
+Ps. Ruf. lex.4 br6Cevkcc est, cumsingulisrebus sententiisque singula debitaver
+tunguntur, ut: procumbunt piceae, sonat icta securibus ilex/fraxineaeque trab
+cuneis et fissile robur/scinditur, advoluunt ingentes montibus ornos< (Aen.
+180); et »wentt hiems: teritur Sicyonia bacca trapetis,/glande sues redeu
+laeti, dant arbuta silvae,/et varios ponit fetus autumnus, et . . .< (Verg. georg.
+519-522; cf. § 813,2 p. 404); haec figura Latine vocatur subiunctio vel subinse
+tio vel subnexio, Rutil.2,20 t&Etc: hoc fit, cum una quaeque res novissimor:
+verborum sententiis clare distinguitur; Stratoclis: ynam vehementer eorum vii
+inveht non licebat, reticere omnino non expediebat, suspiciose logui potissimi
+placebat:; Dinarchi: vitaque ut familiares videbantur, hos necessitudine opi
+landi astrinxit, hosque ignotos iusta benevolentiae causa illexits.; 1,18 wepiopos
+§ 675). Cf. § 8x3,2. |
+
+742. Der Bedeutungsunterschied der Pradikate kann tiber die Lockerung «
+Synonymitat (s. § 741) hinaus zur Antithese gestrafft werden (s. § 794).
+
+
+
+===== PAGE 2 R =====
+4746 373
+
+I’) adiunctio (§ 743-749)
+
+743. Die adiunctio (Her. 4,27, 38) besteht in der klammerartigen (s. § 692)
+Juordnung eines Pradikats zu mehreren Kola (s. § 928) oder Kommata
+(s. § 935): wobei jedes Kolon oder Komma mindestens zwei Satzteile
+umfaBt. Bezeichnet man das klammerartige Pradikat mit g, die beiden
+Gatzteile jeweils mit a} b', a? b* usw., so laBt sich die adiunctio als
+
+{ gt
+op
+darstellen. Hierbei kann g an den Anfang, an das Ende oder in die Mitte
+gestellt werden (Quint.9,3,62 aut praeposito verbo... aut illato...;
+medium quoque potest esse), so daB foigende Typen (s. § 696) der adiunctio
+entstehen:
+
+Vorstellung: g(a! bY/a? bY)
+Nachstellung : (a) bi/a? b*) g
+Mittelstellung : (a B) g(a? B).
+
+Her. 4,27,38 nennt die Figur bei Vor- oder Nachstellung des Pridikats ad-
+junctio, bei Mittelstellung des Pradikats coniunctio (s. § 746). — Das vorange-
+stelite Pradikat nennt Alex.schem.III p.28, 18 mpédeatc.
+
+Hiufig ist die Dreizahl der Kola oder Kommata; s. § 733. Zur Gliederzahl im
+allgemeinen s. § 443.
+
+444. Das Kolon oder Komma besteht aus mindestens zwei Satzteilen.
+Die armere Variante der Zweiteiligkeit ist die Vertretung eines Teils
+durch eine anaphorisch wiederholte Konjunktion (Her. 4,27, 38 >deflores-
+cit formae dignitas aut morbo aut vetustate.). Die reichere Variante der
+Zweiteiligkeit besteht in der jeweiligen Gegentiberstellung zweier Satz-,
+teile (Cic. pro Cluent.6, 15 vicit pudorem libido, timorem audacia). Es &%-C '*
+
+. . A
+745. Die adiunctio ist ein Zeugma (s. § 699) und als solches also der detractio 4 ohana els oa
+aber die Aw a
+
+(s. § 692) und damit der brevitas (s. § 688) zugeordnet: Quint.9, 3,62 per detrac-
+tionem figura... tertia; Her.4,27,38 ad festivitatem distunctio est apposita (v. die We may;
+§ 739) ..., ad brevitatem coniunctio, quare saepius adhibenda est; Aquila 44 in-
+iunctum (v. § 746): hoc genus enuntiationis diversam habet vim a figura supertore
+(scil. disiuncti (v. § '739)); 1bi enim copia verborum iactatur (v. § 739), hie brevitas;
+nam ut in superiore singulis membris singula diversa reddimus (v. § 739), tta hic
+plura in uno coniungimus; Anon.techn. 76 épyatertar 3& cuvtoplay, xtA. (v.§746).
+
+Die SchluBstellung des semantisch interessantesten Gliedes ist (entsprechend
+einem Grundgesetz der dispositio; s. § 451) haufig. Die adiunctio wird haufig als
+»semantisch kompliziertes Zeugmac (s. § 705) realisiert.
+
+746. Beispiele: Her.4,27,38 coniunctio (v. § 743) est, cum interpositione
+
+

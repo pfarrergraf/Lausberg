@@ -1,0 +1,14 @@
+lausberg-analysewerkstatt/
+  project_systemprompt.md
+  FIGURE_SCHEMA.json
+  FIGURE_TEMPLATE.json
+  WORKFLOW.md
+  QUALITY_RULES.md
+  README_PROJECT_SETUP.md
+  data/
+    figures/
+    raw_sources/
+    reviewed/
+  prompts/
+  exports/
+  notes/
